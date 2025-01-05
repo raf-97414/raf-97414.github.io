@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rafelia&#39;s AI LOLs</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://raf-97414.github.io/en/</link>
     <description>Recent content on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 23:08:43 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raf-97414.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project</title>
-      <link>http://localhost:1313/en/projects/project/</link>
+      <link>https://raf-97414.github.io/en/projects/project/</link>
       <pubDate>Sun, 05 Jan 2025 23:08:43 +0530</pubDate>
-      <guid>http://localhost:1313/en/projects/project/</guid>
+      <guid>https://raf-97414.github.io/en/projects/project/</guid>
       <description>&lt;p&gt;#My project&lt;/p&gt;</description>
     </item>
     <item>
       <title>ByteDance&#39;s Chip Heist 💻</title>
-      <link>http://localhost:1313/en/posts/bytedance-chip-heist/</link>
+      <link>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</link>
       <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/bytedance-chip-heist/</guid>
+      <guid>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</guid>
       <description>How ByteDance bypassed U.S. chip restrictions to power their AI.</description>
     </item>
   </channel>

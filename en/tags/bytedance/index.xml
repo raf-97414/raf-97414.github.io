@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ByteDance on Rafelia&#39;s AI LOLs</title>
-    <link>http://localhost:1313/en/tags/bytedance/</link>
+    <link>https://raf-97414.github.io/en/tags/bytedance/</link>
     <description>Recent content in ByteDance on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/bytedance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raf-97414.github.io/en/tags/bytedance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ByteDance&#39;s Chip Heist 💻</title>
-      <link>http://localhost:1313/en/posts/bytedance-chip-heist/</link>
+      <link>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</link>
       <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/bytedance-chip-heist/</guid>
+      <guid>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</guid>
       <description>How ByteDance bypassed U.S. chip restrictions to power their AI.</description>
     </item>
   </channel>
