@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://raf-97414.github.io/en/projects/</loc>
+    <loc>http://localhost:1313/en/projects/</loc>
     <lastmod>2025-01-05T23:08:43+05:30</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-01-05T23:08:43+05:30</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/ai/</loc>
+    <loc>http://localhost:1313/en/tags/ai/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/bytedance/</loc>
+    <loc>http://localhost:1313/en/tags/bytedance/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</loc>
+    <loc>http://localhost:1313/en/posts/bytedance-chip-heist/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/posts/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/tech/</loc>
+    <loc>http://localhost:1313/en/tags/tech/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/categories/tech-news/</loc>
+    <loc>http://localhost:1313/en/categories/tech-news/</loc>
     <lastmod>2024-01-01T12:00:00+00:00</lastmod>
   </url>
 </urlset>
