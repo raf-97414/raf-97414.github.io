@@ -6,7 +6,14 @@
     <description>Recent content in Projects on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 23:08:43 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/en/projects/project/</link>
+      <pubDate>Sun, 05 Jan 2025 23:08:43 +0530</pubDate>
+      <guid>http://localhost:1313/en/projects/project/</guid>
+      <description>&lt;p&gt;#My project&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
