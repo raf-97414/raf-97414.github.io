@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://raf-97414.github.io/en/tags/ai/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://raf-97414.github.io/en/tags/ai-news/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/chatgpt/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/deepseek/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/openai/</loc>
@@ -17,6 +23,9 @@
     <loc>https://raf-97414.github.io/en/posts/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://raf-97414.github.io/en/tags/problem-solving/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://raf-97414.github.io/en/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,14 +35,14 @@
     <loc>https://raf-97414.github.io/en/tags/tech-humor/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://raf-97414.github.io/en/posts/deepseek-complex-problem-solver/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://raf-97414.github.io/en/projects/project/</loc>
     <lastmod>2025-01-05T23:08:43+05:30</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/projects/</loc>
     <lastmod>2025-01-05T23:08:43+05:30</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/ai/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/bytedance/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
