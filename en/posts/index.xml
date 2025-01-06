@@ -1,19 +1,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Rafelia&#39;s AI LOLs</title>
-		<link>https://raf-97414.github.io/en/posts/</link>
+		<link>http://localhost:1313/en/posts/</link>
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Mon, 01 Jan 2024 12:00:00 +0000</lastBuildDate>
-		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>OpenAI Losing Money on ChatGPT Pro: Sam Altman’s Pricing Drama</title>
+			<link>http://localhost:1313/en/posts/oops-moment/</link>
+			<pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/oops-moment/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>💬 <strong>Sam Altman</strong>: &ldquo;Let’s charge $200/month for ChatGPT Pro! Easy money!&rdquo; 🤑<br>
+👨‍💻 <strong>Users</strong>: &ldquo;Oh, really? Watch this.&rdquo; (Proceeds to use it like an all-you-can-eat AI buffet.) 🍔🤖</p>
+<p>Turns out, <strong>running ChatGPT costs more than a yacht habit</strong>. At one point, it was <strong>$700K/day</strong> to keep the AI thinking. 💸</p>
+<p>OpenAI has now entered <em>panic mode</em>:</p>
+<ul>
+<li><strong>Step 1:</strong> Admit they need &ldquo;way more money than imagined.&rdquo; 😬</li>
+<li><strong>Step 2:</strong> &ldquo;Should we raise prices?&rdquo; 💰💭</li>
+</ul>
+<p>Despite burning cash like a flamethrower 🔥, they’re dreaming big: <strong>$100 billion revenue by 2029</strong>. (Yes, the same sales as Nestlé. AI KitKats, anyone?) 🍫🤖</p>
+<p>Meanwhile, OpenAI is still figuring out pricing, investments, and how to stop Pro users from treating it like a productivity cheat code. 🧑‍💻🚀</p>
+<p>For now, Sam’s pricing skills = 🤷‍♂️.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>ByteDance&#39;s Chip Heist 💻</title>
-			<link>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</link>
-			<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+			<link>http://localhost:1313/en/posts/bytedance-chip-heist/</link>
+			<pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
 			
-			<guid>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</guid>
+			<guid>http://localhost:1313/en/posts/bytedance-chip-heist/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
 			<content type="html"><![CDATA[<h1 id="bytedances-chip-heist-">ByteDance’s Chip Heist 💻💸<a href="#bytedances-chip-heist-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
