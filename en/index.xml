@@ -30,18 +30,18 @@
       <description>&lt;p&gt;#My project&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About Me: Rafelia’s Tech &amp; AI Journey 🚀</title>
-      <link>https://raf-97414.github.io/en/about/rafelia/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/about/rafelia/</guid>
-      <description>From hunting bugs to mastering ML, AI, GenAI, and DL—Rafelia’s journey is about innovating, simplifying, and making tech fun!</description>
-    </item>
-    <item>
       <title>ByteDance&#39;s Chip Heist 💻</title>
       <link>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/posts/bytedance-chip-heist/</guid>
       <description>How ByteDance bypassed U.S. chip restrictions to power their AI.</description>
+    </item>
+    <item>
+      <title>About Me: Rafelia’s Tech &amp; AI Journey 🚀</title>
+      <link>https://raf-97414.github.io/en/about/rafelia/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/about/rafelia/</guid>
+      <description>From hunting bugs to mastering ML, AI, GenAI, and DL—Rafelia’s journey is about innovating, simplifying, and making tech fun!</description>
     </item>
   </channel>
 </rss>

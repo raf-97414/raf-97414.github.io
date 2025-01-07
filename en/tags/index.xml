@@ -58,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>Bug Bounty</title>
-      <link>https://raf-97414.github.io/en/tags/bug-bounty/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/bug-bounty/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>ByteDance</title>
       <link>https://raf-97414.github.io/en/tags/bytedance/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
@@ -72,10 +65,17 @@
       <description></description>
     </item>
     <item>
-      <title>Deep Learning</title>
-      <link>https://raf-97414.github.io/en/tags/deep-learning/</link>
+      <title>Tech</title>
+      <link>https://raf-97414.github.io/en/tags/tech/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/deep-learning/</guid>
+      <guid>https://raf-97414.github.io/en/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bug Bounty</title>
+      <link>https://raf-97414.github.io/en/tags/bug-bounty/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/bug-bounty/</guid>
       <description></description>
     </item>
   </channel>
