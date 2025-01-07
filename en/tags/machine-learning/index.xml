@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Rafelia&#39;s AI LOLs</title>
+    <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Rafelia&#39;s AI LOLs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raf-97414.github.io/en/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me: Rafelia’s Tech &amp; AI Journey 🚀</title>
+      <link>https://raf-97414.github.io/en/about/rafelia/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/about/rafelia/</guid>
+      <description>From hunting bugs to mastering ML, AI, GenAI, and DL—Rafelia’s journey is about innovating, simplifying, and making tech fun!</description>
+    </item>
+  </channel>
+</rss>
