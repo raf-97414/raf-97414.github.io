@@ -1,0 +1,364 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="robots" content="index, follow"><link rel="author" href="/humans.txt">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#494f5c">
+<meta name="msapplication-TileColor" content="#494f5c">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#494f5c"><meta name="author" content="Rafelia"><meta name="description" content="Projects, Research &amp; Insights Simplified!">
+
+  <meta itemprop="name" content="Appendix Section of the Paper Discovering physical concepts with neural networks Simplified 🤖✨">
+  <meta itemprop="description" content="🤖 Appendix A: Neural Networks 101 What’s a Neural Network? A neural network is like a group of friends 👫 working together. Each friend (a neuron) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤">
+  <meta itemprop="datePublished" content="2025-01-11T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-01-11T00:00:00+00:00">
+  <meta itemprop="wordCount" content="798">
+  <meta itemprop="keywords" content="AI,Neural Networks,VAEs,Machine Learning"><meta property="og:url" content="https://raf-97414.github.io/en/posts/appendix_for_paper_cuts2/">
+  <meta property="og:site_name" content="Rafelia&#39;s AI LOLs">
+  <meta property="og:title" content="Appendix Section of the Paper Discovering physical concepts with neural networks Simplified 🤖✨">
+  <meta property="og:description" content="🤖 Appendix A: Neural Networks 101 What’s a Neural Network? A neural network is like a group of friends 👫 working together. Each friend (a neuron) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-01-11T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-01-11T00:00:00+00:00">
+    <meta property="article:tag" content="AI">
+    <meta property="article:tag" content="Neural Networks">
+    <meta property="article:tag" content="VAEs">
+    <meta property="article:tag" content="Machine Learning">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Appendix Section of the Paper Discovering physical concepts with neural networks Simplified 🤖✨">
+  <meta name="twitter:description" content="🤖 Appendix A: Neural Networks 101 What’s a Neural Network? A neural network is like a group of friends 👫 working together. Each friend (a neuron) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤">
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Appendix Section of the Paper Discovering physical concepts with neural networks Simplified 🤖✨",
+    "name": "Appendix Section of the Paper Discovering physical concepts with neural networks Simplified 🤖✨",
+    "description": "🤖 Appendix A: Neural Networks 101 What’s a Neural Network? A neural network is like a group of friends 👫 working together. Each friend (a neuron) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤\n",
+    "keywords": ["AI", "Neural Networks", "VAEs", "Machine Learning"],
+    "articleBody": "🤖 Appendix A: Neural Networks 101 What’s a Neural Network? A neural network is like a group of friends 👫 working together. Each friend (a neuron) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤\n1. Single Artificial Neuron: The Basic Unit ⚙️ Imagine one neuron is a super-smart calculator friend. 🧮 Here’s what it does:\nTakes inputs … 🖊️ Multiplies them by weights … 💪 Adds a bias b , which is like its mood. 🌀 Passes the result through an activation function, which decides how excited it gets. 🎉 Activation Function For this paper, they used Exponential Linear Unit (ELU):\nIf the input is positive: 🟢 Keep it as it is. If the input is negative: 🔴 Smooth it out using a fancy exponential formula. 🧙 2. Neural Networks: Like a Super Social Network 🌐 When you connect lots of neurons together, you get a neural network. 🎛️ Here’s the setup:\nInput Layer: Where data comes in (e.g., numbers, images). 👀 Hidden Layers: Where the neurons gossip and figure out patterns. 🤫 Output Layer: Where decisions or answers are made (e.g., “cat or dog?”). 🐱🐶 Neural networks are universal approximators, meaning they can learn almost anything—like a genius who just needs enough practice. 🤓🎯\n3. Training: How Neural Networks Learn 🎓🧑‍🏫 Neural networks are lazy at first (all weights and biases are random). 🎲 But during training, they adjust themselves to get better at solving problems. Here’s how:\nCost Function: Measures how bad the network’s predictions are (like a test score 📉). Gradient Descent: The network uses feedback to adjust weights and biases, slowly improving. 💪 This is like hiking downhill to find the lowest point of a valley. ⛰️⬇️ Stochastic Gradient Descent: Instead of using the entire dataset at once, it trains in small batches (mini-study sessions). 📚 They also use backpropagation, which is like a teacher correcting the network’s mistakes step by step. 🧑‍🏫🔄\n🤔 Appendix B: Variational Autoencoders (VAEs) What’s a VAE? A Variational Autoencoder is like a super-organized librarian. 📚 It:\nEncodes high-dimensional data (e.g., a huge book) into a compact summary (e.g., a sticky note). 🗒️ Decodes the summary back into the full data, ensuring it makes sense. 🔄 1. Representation Learning: Why Compress Data? 🗜️ The goal is to turn complex input x into a smaller representation z while keeping all the important stuff.\nThink of it like summarizing “War and Peace” into a tweet. 🐦\nEncoder: Maps input x → representation z . Decoder: Uses z to recreate x . 2. Probabilistic Encoder/Decoder: Adding Uncertainty 🎲 Instead of mapping x to z deterministically, VAEs use probabilities. 🤔\nThe encoder says: “Hmm, z could be anywhere in this range.” 🎯 The decoder takes these probabilities and guesses the original data. 🔄 To make this work, we assume z follows a normal (Gaussian) distribution, which makes the math nice and smooth. 📊\n3. Reparameterization Trick: Solving the Math Drama 🧙‍♂️ Problem: Probabilities are tricky to differentiate. 😤\nSolution: Reparameterization Trick:\nUse random noise epsilon from a standard distribution. 🎲 Transform it into the required distribution:\nz = mu + sigma * epsilon Now, we can train the network like normal! 🚀\n4. The beta VAE Cost Function: Keep it Organized! 🧹✨ To train a VAE, we minimize a cost function:\nReconstruction Loss: How well the decoder recreates the input. 🧩 Regularization: Encourages disentangled, independent variables in z . This makes z super clean, like Marie Kondo organizing a messy house. 🧹🏠\n🔎 Appendix C: Interpreting Latent Variables What’s a Latent Variable? Latent variables are like hidden clues in a mystery novel. 🔍\nIn SciNet, they represent the degrees of freedom needed to describe the system.\nExample: For a pendulum, the latent variables might be the damping factor and spring constant—nothing else matters! 🏋️\n🔄 Appendix D: Cyclic Representations What’s the Problem? Some data, like angles, is cyclic (e.g., 0 degrees= 360 degrees).\nNeural networks struggle with cyclic data because they assume all data is continuous. 📈\nExample:\nImagine mapping angles on a circle to a line. At 360 degrees, the line suddenly “jumps” back to 0 degrees. This discontinuity makes the network go, “What the heck?!” 🤯 Real-Life Example: The Bloch Sphere in Quantum Mechanics ⚛️ The Bloch sphere is used to represent qubits, but it’s cyclic: Latitude (theta) ranges from 0 degrees at the equator to 180 degrees at the poles. Longitude (phi) ranges from 0 degrees to 360 degrees, representing a full circle around the sphere.\nNeural networks can’t handle the “wrap-around” behavior easily, so they approximate it with steep curves, which leads to errors. 🚨\nIn Summary: Neural networks = smart friends solving problems together. 🤖 VAEs = librarians compressing data without losing meaning. 📚 Cyclic data = troublemakers for neural networks. 🔄🌀 ",
+    "wordCount" : "798",
+    "inLanguage": "en",
+    "datePublished": "2025-01-11T00:00:00Z",
+    "dateModified": "2025-01-11T00:00:00Z",
+    "author":{
+        "@type": "Person",
+        "name": "Rafelia",},
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://raf-97414.github.io/en/posts/appendix_for_paper_cuts2/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Rafelia's AI LOLs",
+      "description": "Projects, Research \u0026 Insights Simplified!",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://raf-97414.github.io/favicon.ico"
+      }
+    }
+}
+</script><title>Appendix Section of the Paper Discovering physical concepts with neural networks Simplified 🤖✨</title>
+<link rel="stylesheet dns-prefetch preconnect preload prefetch" as="style" href="https://raf-97414.github.io/css/style.min.c3036c047ed8d59fbb4d0ef890701274478817f8fe707d57b66a1b0f6ac5cc21.css" integrity="sha256-wwNsBH7Y1Z+7TQ74kHASdEeIF/j+cH1XtmobD2rFzCE=" crossorigin="anonymous">
+	</head>
+<body id="page">
+	<header id="site-header" class="animated slideInUp">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://raf-97414.github.io/">Rafelia&#39;s AI LOLs</a>
+				</div>
+				<nav class="site-nav hide-in-mobile"><a href="https://raf-97414.github.io/en/about/">About Rafelia</a><a href="https://raf-97414.github.io/en/posts/">Posts</a><a href="https://raf-97414.github.io/en/projects/">Projects</a></nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-links hide-in-mobile"><a href="https://www.linkedin.com/in/rafelia-edwige-fernandes-490603203/" target="_blank" rel="noopener me" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+   <rect x="2" y="9" width="4" height="12"></rect>
+   <circle cx="4" cy="4" r="2"></circle>
+</svg></a><a href="https://x.com/Rafelia97" target="_blank" rel="noopener me" title="X"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path class="st0" d="m21.3 21.1 -11.4 -18.2h-7.2l11.4 18.2zm-18.6 0 7.2 -6.6m4.2 -5 7.2 -6.6" />
+</svg></a><a href="https://github.com/raf-97414" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path
+      d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+   </path>
+</svg></a><a href="https://www.kaggle.com/rafeliafernandes" target="_blank" rel="noopener me" title="Kaggle"><svg xmlns="http://www.w3.org/2000/svg" class="feather feather-link" width="24" height="24" viewBox="0 0 24 24"
+      fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+      <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+   </svg></a></span><button id="menu-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+   </svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://raf-97414.github.io/en/about/">About Rafelia</a></li>
+			<li><a href="https://raf-97414.github.io/en/posts/">Posts</a></li>
+			<li><a href="https://raf-97414.github.io/en/projects/">Projects</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster"><article class="thin">
+			<header class="post-header">
+				<div class="post-date"><span>Jan 11, 2025</span></div>
+				<h1>Appendix Section of the Paper Discovering physical concepts with neural networks Simplified 🤖✨</h1>
+			</header>
+			<div class="post-description"><p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+   stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-feather">
+   <path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path>
+   <line x1="16" y1="8" x2="2" y2="22"></line>
+   <line x1="17.5" y1="15" x2="9" y2="15"></line>
+</svg>Rafelia</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon">
+      <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+      <line x1="7" y1="7" x2="7" y2="7"></line>
+   </svg><span class="tag"><a href="https://raf-97414.github.io/en/tags/ai">AI</a></span><span class="tag"><a href="https://raf-97414.github.io/en/tags/neural-networks">Neural Networks</a></span><span class="tag"><a href="https://raf-97414.github.io/en/tags/vaes">VAEs</a></span><span class="tag"><a href="https://raf-97414.github.io/en/tags/machine-learning">Machine Learning</a></span></p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder">
+      <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+   </svg><span class="category"><a href="https://raf-97414.github.io/en/categories/learning">Learning</a></span></p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+      <polyline points="14 2 14 8 20 8"></polyline>
+      <line x1="16" y1="13" x2="8" y2="13"></line>
+      <line x1="16" y1="17" x2="8" y2="17"></line>
+      <polyline points="10 9 9 9 8 9"></polyline>
+   </svg>798 </p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar">
+      <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+      <line x1="16" y1="2" x2="16" y2="6"></line>
+      <line x1="8" y1="2" x2="8" y2="6"></line>
+      <line x1="3" y1="10" x2="21" y2="10"></line>
+   </svg>2025-01-11 05:30 &#43;0530</p></div>
+			<hr class="post-end">
+			<div class="content">
+				 <h2 id="-appendix-a-neural-networks-101">🤖 Appendix A: Neural Networks 101<a href="#-appendix-a-neural-networks-101" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="whats-a-neural-network"><strong>What’s a Neural Network?</strong><a href="#whats-a-neural-network" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>A neural network is like a group of friends 👫 working together. Each friend (a <strong>neuron</strong>) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤</p>
+<hr>
+<h3 id="1-single-artificial-neuron-the-basic-unit-"><strong>1. Single Artificial Neuron: The Basic Unit</strong> ⚙️<a href="#1-single-artificial-neuron-the-basic-unit-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Imagine one neuron is a super-smart <em>calculator friend</em>. 🧮 Here’s what it does:</p>
+<ol>
+<li>Takes inputs &hellip; 🖊️</li>
+<li>Multiplies them by <em>weights</em> &hellip; 💪</li>
+<li>Adds a <em>bias</em> b , which is like its mood. 🌀</li>
+<li>Passes the result through an <strong>activation function</strong>, which decides how excited it gets. 🎉</li>
+</ol>
+<h4 id="activation-function"><strong>Activation Function</strong><a href="#activation-function" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>For this paper, they used <strong>Exponential Linear Unit (ELU)</strong>:</p>
+<ul>
+<li>If the input is positive: 🟢 <strong>Keep it as it is</strong>.</li>
+<li>If the input is negative: 🔴 <strong>Smooth it out</strong> using a fancy exponential formula. 🧙</li>
+</ul>
+<hr>
+<h3 id="2-neural-networks-like-a-super-social-network-"><strong>2. Neural Networks: Like a Super Social Network</strong> 🌐<a href="#2-neural-networks-like-a-super-social-network-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>When you connect lots of neurons together, you get a <strong>neural network</strong>. 🎛️ Here&rsquo;s the setup:</p>
+<ol>
+<li><strong>Input Layer</strong>: Where data comes in (e.g., numbers, images). 👀</li>
+<li><strong>Hidden Layers</strong>: Where the neurons gossip and figure out patterns. 🤫</li>
+<li><strong>Output Layer</strong>: Where decisions or answers are made (e.g., &ldquo;cat or dog?&rdquo;). 🐱🐶</li>
+</ol>
+<p>Neural networks are <strong>universal approximators</strong>, meaning they can learn almost anything—like a genius who just needs enough practice. 🤓🎯</p>
+<hr>
+<h3 id="3-training-how-neural-networks-learn-"><strong>3. Training: How Neural Networks Learn</strong> 🎓🧑‍🏫<a href="#3-training-how-neural-networks-learn-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Neural networks are lazy at first (all weights and biases are random). 🎲 But during training, they adjust themselves to get better at solving problems. Here’s how:</p>
+<ol>
+<li><strong>Cost Function</strong>: Measures how bad the network&rsquo;s predictions are (like a test score 📉).</li>
+<li><strong>Gradient Descent</strong>: The network uses feedback to adjust weights and biases, slowly improving. 💪
+<ul>
+<li>This is like hiking downhill to find the lowest point of a valley. ⛰️⬇️</li>
+</ul>
+</li>
+<li><strong>Stochastic Gradient Descent</strong>: Instead of using the entire dataset at once, it trains in small batches (mini-study sessions). 📚</li>
+</ol>
+<p>They also use <strong>backpropagation</strong>, which is like a teacher correcting the network&rsquo;s mistakes step by step. 🧑‍🏫🔄</p>
+<hr>
+<h2 id="-appendix-b-variational-autoencoders-vaes">🤔 Appendix B: Variational Autoencoders (VAEs)<a href="#-appendix-b-variational-autoencoders-vaes" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="whats-a-vae"><strong>What’s a VAE?</strong><a href="#whats-a-vae" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>A <strong>Variational Autoencoder</strong> is like a super-organized librarian. 📚 It:</p>
+<ol>
+<li><strong>Encodes</strong> high-dimensional data (e.g., a huge book) into a <strong>compact summary</strong> (e.g., a sticky note). 🗒️</li>
+<li><strong>Decodes</strong> the summary back into the full data, ensuring it makes sense. 🔄</li>
+</ol>
+<hr>
+<h3 id="1-representation-learning-why-compress-data-"><strong>1. Representation Learning: Why Compress Data?</strong> 🗜️<a href="#1-representation-learning-why-compress-data-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>The goal is to turn complex input x  into a smaller representation z  while keeping all the important stuff.<br>
+Think of it like summarizing &ldquo;War and Peace&rdquo; into a tweet. 🐦</p>
+<ul>
+<li><strong>Encoder</strong>: Maps input x  → representation z .</li>
+<li><strong>Decoder</strong>: Uses z to recreate x .</li>
+</ul>
+<hr>
+<h3 id="2-probabilistic-encoderdecoder-adding-uncertainty-"><strong>2. Probabilistic Encoder/Decoder: Adding Uncertainty</strong> 🎲<a href="#2-probabilistic-encoderdecoder-adding-uncertainty-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Instead of mapping x to z deterministically, VAEs use probabilities. 🤔</p>
+<ul>
+<li>The encoder says: “Hmm, z could be anywhere in this range.” 🎯</li>
+<li>The decoder takes these probabilities and guesses the original data. 🔄</li>
+</ul>
+<p>To make this work, we assume z follows a normal (Gaussian) distribution, which makes the math nice and smooth. 📊</p>
+<hr>
+<h3 id="3-reparameterization-trick-solving-the-math-drama-"><strong>3. Reparameterization Trick: Solving the Math Drama</strong> 🧙‍♂️<a href="#3-reparameterization-trick-solving-the-math-drama-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p><strong>Problem</strong>: Probabilities are tricky to differentiate. 😤<br>
+<strong>Solution</strong>: <strong>Reparameterization Trick</strong>:</p>
+<ol>
+<li>Use random noise epsilon from a standard distribution. 🎲</li>
+<li>Transform it into the required distribution:<br>
+z = mu + sigma * epsilon</li>
+</ol>
+<p>Now, we can train the network like normal! 🚀</p>
+<hr>
+<h3 id="4-the-beta-vae-cost-function-keep-it-organized-"><strong>4. The beta VAE Cost Function: Keep it Organized!</strong> 🧹✨<a href="#4-the-beta-vae-cost-function-keep-it-organized-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>To train a VAE, we minimize a <strong>cost function</strong>:</p>
+<ol>
+<li><strong>Reconstruction Loss</strong>: How well the decoder recreates the input. 🧩</li>
+<li><strong>Regularization</strong>: Encourages disentangled, independent variables in z .</li>
+</ol>
+<p>This makes z super clean, like Marie Kondo organizing a messy house. 🧹🏠</p>
+<hr>
+<h2 id="-appendix-c-interpreting-latent-variables">🔎 Appendix C: Interpreting Latent Variables<a href="#-appendix-c-interpreting-latent-variables" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="whats-a-latent-variable"><strong>What’s a Latent Variable?</strong><a href="#whats-a-latent-variable" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Latent variables are like hidden clues in a mystery novel. 🔍<br>
+In SciNet, they represent the <strong>degrees of freedom</strong> needed to describe the system.</p>
+<p><strong>Example</strong>: For a pendulum, the latent variables might be the damping factor and spring constant—nothing else matters! 🏋️</p>
+<hr>
+<h2 id="-appendix-d-cyclic-representations">🔄 Appendix D: Cyclic Representations<a href="#-appendix-d-cyclic-representations" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="whats-the-problem"><strong>What’s the Problem?</strong><a href="#whats-the-problem" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Some data, like angles, is <strong>cyclic</strong> (e.g., 0 degrees= 360 degrees).<br>
+Neural networks struggle with cyclic data because they assume all data is continuous. 📈</p>
+<p><strong>Example</strong>:</p>
+<ul>
+<li>Imagine mapping angles on a circle to a line. At 360 degrees, the line suddenly &ldquo;jumps&rdquo; back to 0 degrees.</li>
+<li>This discontinuity makes the network go, “What the heck?!” 🤯</li>
+</ul>
+<hr>
+<h3 id="real-life-example-the-bloch-sphere-in-quantum-mechanics-"><strong>Real-Life Example: The Bloch Sphere in Quantum Mechanics</strong> ⚛️<a href="#real-life-example-the-bloch-sphere-in-quantum-mechanics-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>The <strong>Bloch sphere</strong> is used to represent qubits, but it’s cyclic:
+<strong>Latitude (theta)</strong> ranges from 0 degrees at the equator to 180 degrees at the poles.
+<strong>Longitude (phi)</strong> ranges from 0 degrees to 360 degrees, representing a full circle around the sphere.</p>
+<p>Neural networks can’t handle the &ldquo;wrap-around&rdquo; behavior easily, so they approximate it with steep curves, which leads to errors. 🚨</p>
+<hr>
+<h3 id="in-summary"><strong>In Summary:</strong><a href="#in-summary" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ol>
+<li>Neural networks = smart friends solving problems together. 🤖</li>
+<li>VAEs = librarians compressing data without losing meaning. 📚</li>
+<li>Cyclic data = troublemakers for neural networks. 🔄🌀</li>
+</ol>
+
+			</div>
+			
+		</article>
+		<div class="post-nav thin">
+			<a class="prev-post" href="https://raf-97414.github.io/en/posts/papercuts2/">
+				<span class="post-nav-label">&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right">
+      <line x1="5" y1="12" x2="19" y2="12"></line>
+      <polyline points="12 5 19 12 12 19"></polyline>
+   </svg></span><br><span>PaperCuts 2 : Simplified Explanation of Paper Discovering Physical Concepts With Neural Networks 🤓✨</span>
+			</a>
+		</div>
+		<div id="comments" class="thin"></div>
+	</main>
+
+<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+	<p>
+		&copy; 2025 <a href="https://raf-97414.github.io/">Rafelia</a>
+		&#183;  <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0 </a>&#183; Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
+			&#183; Theme <a href="https://github.com/1bl4z3r/hermit-V2" target="_blank" rel="noopener">Hermit-V2</a></p>
+
+</footer>
+<script async src="https://raf-97414.github.io/js/bundle.min.c7c384e4d29d192bbac6811ae4660bb01767194a5bea56baca77e8260f93ea16.js" integrity="sha256-x8OE5NKdGSu6xoEa5GYLsBdnGUpb6la6ynfoJg+T6hY=" crossorigin="anonymous"></script>
+</body>
+
+</html>
