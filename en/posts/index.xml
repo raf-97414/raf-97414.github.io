@@ -9,7 +9,7 @@
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Appendix Section of the Paper: Discovering Physical Concepts With NeuralNetworks Simplified 🤖✨</title>
+			<title>Appendix Section of the Paper: Discovering Physical Concepts With Neural Networks Simplified 🤖✨</title>
 			<link>https://raf-97414.github.io/en/posts/appendix_for_paper_cuts2/</link>
 			<pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
 			
@@ -406,6 +406,22 @@ But Copernicus figured out: the <strong>Sun is at the center</strong>, and plane
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h2>
 <p>SciNet proves that AI can rediscover known physical laws—and maybe uncover new ones! It’s like a curious toddler physicist, learning directly from the universe and asking, “Why does this work?” 🌌✨</p>
+<hr>
+<h2 id="further-reading-"><strong>Further Reading</strong> 📚<a href="#further-reading-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ol>
+<li>
+<p><a href="https://raf-97414.github.io/en/posts/appendix_for_paper_cuts2/">Simplified Version of the Appendix</a><br>
+A simplified explanation of the Appendix section from the paper <em>Discovering Physical Concepts with Neural Networks</em>. Perfect for readers looking for an approachable summary of the technical details.</p>
+</li>
+<li>
+<p><a href="https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/Application%20of%20AI/Discovering%20physical%20concepts%20with%20neural%20networks.pdf">Original Paper: Discovering Physical Concepts with Neural Networks</a><br>
+The original research paper that explores how neural networks can uncover physical concepts through observation and representation learning.</p>
+</li>
+</ol>
 <hr>
 ]]></content>
 		</item>
