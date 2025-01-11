@@ -5,8 +5,223 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Discovering Physics with Neural Networks: SciNet Explained with Emojis 🤓✨</title>
+			<link>https://raf-97414.github.io/en/posts/papercuts2/</link>
+			<pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/papercuts2/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<h1 id="discovering-physics-with-neural-networks-">Discovering Physics with Neural Networks 🤝✨<a href="#discovering-physics-with-neural-networks-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<hr>
+<h2 id="1-introduction-ai--physics--best-friends-forever-"><strong>1. Introduction: AI + Physics = Best Friends Forever?</strong> 🤝✨<a href="#1-introduction-ai--physics--best-friends-forever-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Physics has been built like a series of Jenga towers—stacking new ideas on top of old ones. 🧱 But what if we missed some simple, elegant rules at the bottom? 🤔</p>
+<p>The big question:<br>
+<strong>Can AI, without being taught ANY physics, figure out the laws of the universe just by looking at data?</strong><br>
+Think of it as an AI physicist baby who learns the world by playing with toys. 👶🔬</p>
+<p>Enter <strong>SciNet</strong>: a neural network that discovers physical laws without being spoon-fed (goodbye bias, hello curiosity!). 🍼🤖</p>
+<hr>
+<h2 id="2-scinet-the-ai-physicist-"><strong>2. SciNet: The AI Physicist</strong> 🧠🤓<a href="#2-scinet-the-ai-physicist-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>SciNet mimics how physicists work:</p>
+<ol>
+<li><strong>Look at data</strong>: It observes the universe (like how planets move or pendulums swing). 👀🌍</li>
+<li><strong>Compress the data</strong>: It turns complex observations into a small, meaningful &ldquo;brain&rdquo; called a latent representation. 📦🧠</li>
+<li><strong>Answer questions</strong>: Based on this &ldquo;brain,&rdquo; it predicts things like, “Where will the pendulum be tomorrow?” ⏳❓</li>
+</ol>
+<h3 id="how-it-works">How it works:<a href="#how-it-works" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>Encoder</strong>: Like Marie Kondo, it throws away irrelevant data and keeps only the essentials. 🧹✨</li>
+<li><strong>Decoder</strong>: Uses those essentials to solve physics problems (like a genius physicist with laser focus). 🎯👩‍🔬</li>
+</ul>
+<hr>
+<h2 id="3-scinet-in-action-tackling-physics-challenges-"><strong>3. SciNet in Action: Tackling Physics Challenges</strong> 🌟🔍<a href="#3-scinet-in-action-tackling-physics-challenges-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Now the fun part! SciNet was tested on <strong>four physics problems</strong>, each showing off its inner genius. Let’s break them down!</p>
+<hr>
+<h3 id="a-the-damped-pendulum-"><strong>(a) The Damped Pendulum</strong> 🕰️🏋️‍♂️<a href="#a-the-damped-pendulum-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<h4 id="the-setup"><strong>The Setup</strong>:<a href="#the-setup" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>Imagine a pendulum swinging back and forth&hellip;but slowing down over time because of friction (like a tired swing). 🌊<br>
+Its motion depends on:</p>
+<ul>
+<li><strong>Spring constant \( \kappa \)</strong> (how strong the spring is). ⚙️</li>
+<li><strong>Damping factor \( b \)</strong> (how much friction slows it down). 🛑</li>
+</ul>
+<h4 id="the-ai-challenge"><strong>The AI Challenge</strong>:<a href="#the-ai-challenge" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>Can SciNet predict where the pendulum will be at any time in the future? ⏳❓</p>
+<h4 id="what-scinet-does"><strong>What SciNet Does</strong>:<a href="#what-scinet-does" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>SciNet learns to store just <strong>2 variables</strong>: \( \kappa \) and \( b \). 🎯</li>
+<li>It realizes the third neuron is useless and says, “You can take a nap, neuron!” 💤🤖</li>
+<li>It predicts future positions with <strong>less than 2% error</strong>, like a pendulum psychic. 🔮🕰️</li>
+</ul>
+<hr>
+<h3 id="b-conservation-of-angular-momentum-"><strong>(b) Conservation of Angular Momentum</strong> 🌀⚖️<a href="#b-conservation-of-angular-momentum-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<h4 id="the-setup-1"><strong>The Setup</strong>:<a href="#the-setup-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>Imagine two particles colliding, like bumper cars on a spinning merry-go-round. 🚗💥🌀<br>
+Physicists know a magical rule: <strong>angular momentum</strong> is always conserved—it can’t just vanish into thin air. ✨⚖️</p>
+<h4 id="the-ai-challenge-1"><strong>The AI Challenge</strong>:<a href="#the-ai-challenge-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>After the collision, where will the particles end up? 🤔</p>
+<h4 id="what-scinet-does-1"><strong>What SciNet Does</strong>:<a href="#what-scinet-does-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>It figures out that <strong>only 1 variable matters</strong>: the total angular momentum. 🎯</li>
+<li>Even with noisy data, SciNet calmly goes, “I got this!” 🤓</li>
+<li>It behaves exactly like a physicist using conservation laws. 👩‍🔬✅</li>
+</ul>
+<hr>
+<h3 id="c-quantum-mechanics-qubits-are-spooky-"><strong>(c) Quantum Mechanics: Qubits are Spooky</strong> ✨⚛️<a href="#c-quantum-mechanics-qubits-are-spooky-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<h4 id="the-setup-2"><strong>The Setup</strong>:<a href="#the-setup-2" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>Welcome to quantum mechanics, where particles behave like Schrödinger’s cat—both here and not here at the same time. 🐱📦<br>
+Qubits (quantum bits) are described by weird, complex states that require careful measurements to understand. 🧙‍♂️</p>
+<h4 id="the-ai-challenge-2"><strong>The AI Challenge</strong>:<a href="#the-ai-challenge-2" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>Can SciNet figure out how many variables (degrees of freedom) are needed to describe these quantum states? 🤔</p>
+<h4 id="what-scinet-does-2"><strong>What SciNet Does</strong>:<a href="#what-scinet-does-2" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>For <strong>1 qubit</strong>, it finds <strong>2 parameters</strong>.</li>
+<li>For <strong>2 qubits</strong>, it finds <strong>6 parameters</strong>—matching what quantum physicists already know. 🎯⚛️</li>
+<li>It even throws shade when it doesn’t have enough data, saying, “I can’t work with this incomplete set!” 🕵️‍♀️</li>
+</ul>
+<p>Result? SciNet behaves like a quantum detective, uncovering mysteries without breaking a sweat. 🕶️🔎</p>
+<hr>
+<h3 id="d-heliocentric-model-copernicus-who-"><strong>(d) Heliocentric Model: Copernicus, Who?</strong> 🌍☀️🪐<a href="#d-heliocentric-model-copernicus-who-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<h4 id="the-setup-3"><strong>The Setup</strong>:<a href="#the-setup-3" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>From Earth, the Sun and planets seem to move in weird, wobbly paths. 🌀<br>
+But Copernicus figured out: the <strong>Sun is at the center</strong>, and planets move in simple orbits around it. ☀️🌍</p>
+<h4 id="the-ai-challenge-3"><strong>The AI Challenge</strong>:<a href="#the-ai-challenge-3" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>Can SciNet figure out the heliocentric model just by observing planetary angles? 🤔</p>
+<h4 id="what-scinet-does-3"><strong>What SciNet Does</strong>:<a href="#what-scinet-does-3" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>It compresses planetary data into two simple angles (like a cosmic GPS). 📐</li>
+<li>It learns to describe Mars and Earth’s motions as seen from the Sun, completely on its own. 🌞🪐</li>
+<li>It essentially becomes Copernicus 2.0, discovering the heliocentric model without anyone telling it! 🚀✨</li>
+</ul>
+<hr>
+<h2 id="4-lessons-from-scinet-"><strong>4. Lessons from SciNet</strong> 🧠💡<a href="#4-lessons-from-scinet-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="what-makes-scinet-awesome">What makes SciNet awesome:<a href="#what-makes-scinet-awesome" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ol>
+<li><strong>Minimalism is key</strong>: It only keeps the variables that matter, ignoring the fluff. 🧹➖</li>
+<li><strong>Natural laws emerge</strong>: SciNet discovers conservation laws, quantum states, and planetary motions like a natural-born genius. 🤓✨</li>
+<li><strong>No prior knowledge needed</strong>: SciNet doesn’t need physics textbooks; it learns directly from the data. 📚🚫</li>
+</ol>
+<hr>
+<h2 id="5-challenges-and-future-work-"><strong>5. Challenges and Future Work</strong> 🚀🔍<a href="#5-challenges-and-future-work-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>SciNet is amazing, but there’s more to do:</p>
+<ol>
+<li><strong>Understand the black box</strong>: SciNet’s inner workings can still feel mysterious. 🕶️
+<ul>
+<li>Possible fix: Use symbolic regression to simplify its learned representations into human-readable math. 📜</li>
+</ul>
+</li>
+<li><strong>More experiments!</strong>: Let SciNet tackle even bigger mysteries, like the quantum measurement problem or dark matter. 🌌❓</li>
+<li><strong>Add reinforcement learning</strong>: Let SciNet explore physics experiments actively, like a curious lab assistant. 🧪🤖</li>
+</ol>
+<hr>
+<h2 id="6-conclusion-ai-the-future-scientist-"><strong>6. Conclusion: AI, the Future Scientist</strong> 👩‍🔬🤖<a href="#6-conclusion-ai-the-future-scientist-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>SciNet proves that AI can rediscover known physical laws—and maybe uncover new ones! It’s like a curious toddler physicist, learning directly from the universe and asking, “Why does this work?” 🌌✨</p>
+<hr>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🩺 Hippocratic AI Secures $141M to Build AI Healthcare Sidekicks</title>
