@@ -31,7 +31,7 @@
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h3>
-<p>Sky-T1 doesn’t just guess – it <em>thinks</em>. 🧠 Unlike typical AI models, reasoning models fact-check themselves, taking a bit longer to solve problems but delivering more reliable results.<br>
+<p>Sky-T1 doesn’t just guess – it <em>thinks</em>(more like uses API for cross verification and obtaining accurate results). 🧠 Unlike typical AI models, reasoning models fact-check themselves, taking a bit longer to solve problems but delivering more reliable results.<br>
 Here’s how it stacks up:</p>
 <ul>
 <li>✅ Beats OpenAI’s o1 preview on <strong>MATH500</strong> (basically AI Olympics for math nerds). 📐📊</li>
