@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>https://raf-97414.github.io/en/tags/open-source/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reasoning Models</title>
+      <link>https://raf-97414.github.io/en/tags/reasoning-models/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/reasoning-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Humor</title>
+      <link>https://raf-97414.github.io/en/tags/tech-humor/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-humor/</guid>
       <description></description>
     </item>
     <item>
@@ -55,27 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/physics/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/physics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SciNet</title>
-      <link>https://raf-97414.github.io/en/tags/scinet/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/scinet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>VAEs</title>
-      <link>https://raf-97414.github.io/en/tags/vaes/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/vaes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Healthcare</title>
-      <link>https://raf-97414.github.io/en/tags/healthcare/</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/healthcare/</guid>
       <description></description>
     </item>
   </channel>

@@ -5,8 +5,55 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>💡 Sky-T1: Open Source AI That Thinks (For Only $450!)</title>
+			<link>https://raf-97414.github.io/en/posts/sky-t1/</link>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/sky-t1/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p><strong>Sky-T1: The $450 Reasoning AI That’s Making Waves</strong></p>
+<p>🚀 On Friday, UC Berkeley’s Sky Computing Lab dropped <strong>Sky-T1-32B-Preview</strong>, an open source reasoning model that can compete with earlier versions of OpenAI’s o1 on key benchmarks. Here’s the kicker: it was trained for less than <strong>$450</strong>! 💸</p>
+<hr>
+<h3 id="whats-the-big-deal"><strong>What’s the Big Deal?</strong><a href="#whats-the-big-deal" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>💻 Most AI models cost millions to train, but Sky-T1 shows you can replicate high-level reasoning capabilities without robbing a bank. 🏦 It’s basically the IKEA of AI – affordable, efficient, and you might need a manual to assemble it. 🛠️🤖</p>
+<p>Sky-T1 was trained on <strong>synthetic data</strong> (aka “fake it till you make it” AI style) and ran on a rack of 8 Nvidia H100 GPUs for just 19 hours. 🕒💥</p>
+<hr>
+<h3 id="how-smart-is-it"><strong>How Smart Is It?</strong><a href="#how-smart-is-it" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Sky-T1 doesn’t just guess – it <em>thinks</em>. 🧠 Unlike typical AI models, reasoning models fact-check themselves, taking a bit longer to solve problems but delivering more reliable results.<br>
+Here’s how it stacks up:</p>
+<ul>
+<li>✅ Beats OpenAI’s o1 preview on <strong>MATH500</strong> (basically AI Olympics for math nerds). 📐📊</li>
+<li>✅ Outshines o1 preview on <strong>LiveCodeBench</strong>, solving tough coding challenges like a pro. 💻🎯</li>
+<li>❌ Struggles a bit with <strong>GPQA-Diamond</strong> (aka “PhD-level trivia about physics and biology”). 🧪📚</li>
+</ul>
+<p>The Sky-T1 team says this is just the beginning, promising even better open source reasoning models in the future. 🚀</p>
+<hr>
+<h3 id="why-its-hilarious-and-important"><strong>Why It’s Hilarious (and Important):</strong><a href="#why-its-hilarious-and-important" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>$450 might not seem “cheap,” but when AI training usually costs in the millions, it’s basically pocket change. 🪙💻</li>
+<li>Models like Sky-T1 could make advanced AI accessible to everyone, not just tech giants. 💡🌍</li>
+<li>Plus, it’s open source – so anyone can try to build their own AI genius. Just grab some GPUs and get cracking. 😅🔧</li>
+</ul>
+<p>The race to build smarter, cheaper, and open reasoning AIs is heating up, and NovaSky’s Sky-T1 is a serious contender. But with OpenAI’s o3 around the corner, things are about to get even spicier. 🌶️🤖</p>
+<p>#AI #OpenSource #SkyT1 #TechTrends #ReasoningModels</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Appendix Section of the Paper: Discovering Physical Concepts With Neural Networks Simplified 🤖✨</title>
