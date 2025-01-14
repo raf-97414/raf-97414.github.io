@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humor</title>
+      <link>https://raf-97414.github.io/en/tags/humor/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/humor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>https://raf-97414.github.io/en/tags/microsoft/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech News</title>
+      <link>https://raf-97414.github.io/en/tags/tech-news/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
       <description></description>
     </item>
     <item>
@@ -55,27 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/indian-it/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/indian-it/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neural Networks</title>
-      <link>https://raf-97414.github.io/en/tags/neural-networks/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Physics</title>
-      <link>https://raf-97414.github.io/en/tags/physics/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/physics/</guid>
       <description></description>
     </item>
   </channel>

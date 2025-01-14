@@ -5,8 +5,64 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Microsoft&#39;s New CoreAI Org: 🛠️ Devs, AI, and World Domination</title>
+			<link>https://raf-97414.github.io/en/posts/coreai/</link>
+			<pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/coreai/</guid>
+			<description><![CDATA[Microsoft forms CoreAI, a shiny new dev-focused AI org led by Meta's Jay Parikh. Because why not mix cloud security, AI, and some meta vibes?]]></description>
+			<content type="html"><![CDATA[<p>🚨 <strong>Big Tech Alert</strong>: Microsoft is at it again, stirring the AI pot and adding more layers to its tech empire. This time, they’ve unveiled a new <strong>engineering org</strong> so dev-focused it practically smells like coffee and commit messages. Meet <strong>CoreAI — Platform and Tools</strong>! ☕💻</p>
+<h3 id="whats-cooking-at-microsoft-">What&rsquo;s Cooking at Microsoft? 🍳<a href="#whats-cooking-at-microsoft-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Microsoft decided that combining existing teams into one <em>super team</em> was the next logical step. CoreAI is like an AI smoothie made by blending:</p>
+<ul>
+<li><strong>Dev Div</strong> 🍇 (developers, developers, developers!)</li>
+<li><strong>AI Platform Teams</strong> 🍌 (all about those tasty ML tools).</li>
+<li>A sprinkle of talent from the <strong>Office of the CTO</strong> 🍓 (because why not?).</li>
+</ul>
+<p>And leading this new concoction? <strong>Jay Parikh</strong> — the ex-Meta VP, <em>data center guy</em>, and former CEO of cloud security startup Lacework. Talk about a résumé glow-up. 💼✨</p>
+<h3 id="a-peek-inside-coreai-">A Peek Inside CoreAI 🔍<a href="#a-peek-inside-coreai-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Satya Nadella himself wrote in a memo (likely while sipping on his morning chai):</p>
+<blockquote>
+<p>&ldquo;Our focus this year is <em>model-forward</em> applications that will reshape all application categories.&rdquo;</p>
+</blockquote>
+<p>Translation: Microsoft’s dev teams are laser-focused on making AI-powered apps that’ll make you say, <em>“Wait, is this Excel or Skynet?”</em> 📈🤖</p>
+<h3 id="jay-parikh-the-new-mvp-">Jay Parikh: The New MVP 🏆<a href="#jay-parikh-the-new-mvp-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Parikh isn’t new to tech drama.</p>
+<ul>
+<li>At <strong>Meta</strong>, he worked on technical infrastructure and data centers — a.k.a. the backbone of the internet.</li>
+<li>At <strong>Lacework</strong>, he got a crash course in <strong>cloud security</strong> 🛡️.</li>
+<li>Now, at <strong>Microsoft</strong>, he’s reporting directly to Nadella (no pressure, Jay 😅).</li>
+</ul>
+<p>The man clearly loves juggling <em>big</em> responsibilities. Rumor has it his calendar invites are already AI-generated. 📅🤔</p>
+<h3 id="tldr-">TL;DR 🎉<a href="#tldr-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Microsoft mashed its dev and AI teams into <strong>CoreAI</strong> to focus on <em>model-forward</em> innovation.</li>
+<li>Jay Parikh, fresh from Meta and Lacework, is at the helm.</li>
+<li>AI is now Microsoft’s top-tier obsession. And frankly, we’re here for it. 🤖✨</li>
+</ul>
+<p>Stay tuned, folks. CoreAI might just build the apps that <em>replace us all</em>. 😜</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>💡 Sky-T1: Open Source AI That Thinks (For Only $450!)</title>
