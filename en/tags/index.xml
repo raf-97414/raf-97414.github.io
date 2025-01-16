@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Models</title>
+      <link>https://raf-97414.github.io/en/tags/ai-models/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/ai-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MiniMax</title>
+      <link>https://raf-97414.github.io/en/tags/minimax/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/minimax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Controversy</title>
+      <link>https://raf-97414.github.io/en/tags/tech-controversy/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-controversy/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI Regulation</title>
       <link>https://raf-97414.github.io/en/tags/ai-regulation/</link>
@@ -55,27 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/open-source/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reasoning Models</title>
-      <link>https://raf-97414.github.io/en/tags/reasoning-models/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/reasoning-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Humor</title>
-      <link>https://raf-97414.github.io/en/tags/tech-humor/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/tech-humor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Training</title>
-      <link>https://raf-97414.github.io/en/tags/ai-training/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/ai-training/</guid>
       <description></description>
     </item>
   </channel>

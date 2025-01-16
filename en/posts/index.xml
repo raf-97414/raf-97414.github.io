@@ -5,8 +5,81 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🚀 Chinese AI Company MiniMax Releases Models to Rival Industry Giants 🤖</title>
+			<link>https://raf-97414.github.io/en/posts/chinese-ai-company-minimax-models/</link>
+			<pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/chinese-ai-company-minimax-models/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>🌏 Chinese AI companies are flexing their muscles again, and MiniMax just threw down the gauntlet with <em>three</em> new AI models! 🚀 Backed by Alibaba 🛍️ and Tencent 🎮, MiniMax has raised a cool $850 million 💰 and is valued at over $2.5 billion.</p>
+<hr>
+<h2 id="the-models-">The Models 🤖<a href="#the-models-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="minimax-text-01-">MiniMax-Text-01 🧠<a href="#minimax-text-01-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>Size</strong>: A whopping <strong>456 billion parameters</strong>.</li>
+<li><strong>Skills</strong>: Outperforms Google’s Gemini 2.0 Flash 🌟 on math and trivia benchmarks (e.g., MMLU, SimpleQA).</li>
+<li><strong>Context Window</strong>: A jaw-dropping <strong>4 million tokens</strong> 📝 — enough to process <em>War and Peace</em> <strong>five times</strong> over 📚📚📚📚📚.</li>
+</ul>
+<h3 id="minimax-vl-01-">MiniMax-VL-01 👀🤓<a href="#minimax-vl-01-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>Features</strong>: Multimodal model (text + images 🖼️).</li>
+<li><strong>Skills</strong>: Competes with Anthropic’s Claude 3.5 Sonnet 🎭 on ChartQA but falls short of GPT-4o and InternVL2.5 on many benchmarks. 🤷‍♂️</li>
+</ul>
+<h3 id="t2a-01-hd-">T2A-01-HD 🎤<a href="#t2a-01-hd-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>Talent</strong>: Generates hyper-realistic speech in <strong>17 languages</strong> 🗣️🌍 and clones voices with just <strong>10 seconds</strong> of audio 🎧.</li>
+</ul>
+<hr>
+<h2 id="open-but-not-really-">Open but Not Really 🔓🤔<a href="#open-but-not-really-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>MiniMax made its models available on GitHub 🐙 and Hugging Face 🧸, but…</p>
+<ul>
+<li>🚫 The license prohibits using the models to improve rival systems.</li>
+<li>🤑 Platforms with over <strong>100M users</strong> need a special license.</li>
+</ul>
+<hr>
+<h2 id="controversies-">Controversies 🚨🍿<a href="#controversies-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Talkie App</strong>: AI avatars of public figures (e.g., Taylor Swift 🎤, LeBron James 🏀) appeared without consent 🤦‍♀️.</li>
+<li><strong>Copyright Concerns</strong>: Accused of training on copyrighted TV 📺 and video content 🎥.</li>
+</ul>
+<hr>
+<h2 id="context-us-tech-restrictions-">Context: U.S. Tech Restrictions 🔌🛑<a href="#context-us-tech-restrictions-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>MiniMax’s launch coincides with stricter U.S. export rules 📜 for AI tech, limiting China’s access to advanced chips 🖥️ and models.</p>
+<p>❓ Will MiniMax rise despite the hurdles? Time will tell. ⏳</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>OpenAI&#39;s AI Blueprint: 💡 Chips, Bots, and Bureaucracy</title>
