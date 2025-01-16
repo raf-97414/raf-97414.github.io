@@ -9,100 +9,85 @@
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>🚀 Chinese AI Startup MiniMax Drops New Models to Rival Industry Giants 🤖</title>
+			<title>🚀 MiniMax’s New AI Models: Big Brains, Big Drama 🤖</title>
 			<link>https://raf-97414.github.io/en/posts/chinese-ai-company-minimax-models/</link>
 			<pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
 			
 			<guid>https://raf-97414.github.io/en/posts/chinese-ai-company-minimax-models/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
-			<content type="html"><![CDATA[<p>🌏 Chinese AI companies are flexing their muscles again, and MiniMax just threw down the gauntlet with <em>three</em> new AI models! 💥 Backed by Alibaba 🛍️ and Tencent 🎮, MiniMax has raised a cool $850 million 💰 and is valued at over $2.5 billion. That&rsquo;s enough dough to buy every avocado toast in Silicon Valley 🥑🍞.</p>
-<p>Here’s the tea 🍵:</p>
+			<content type="html"><![CDATA[<p>🎉 Chinese AI company MiniMax just dropped <em>three</em> shiny new AI models! Backed by Alibaba 🛍️ and Tencent 🎮, they’ve raised $850 million 💰 and are worth $2.5 billion. Here’s the lowdown, emoji style:</p>
 <hr>
 <h2 id="the-models-">The Models 🚀<a href="#the-models-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h2>
-<h3 id="1-minimax-text-01">1️⃣ MiniMax-Text-01<a href="#1-minimax-text-01" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<h3 id="1-minimax-text-01">1️⃣ <strong>MiniMax-Text-01</strong><a href="#1-minimax-text-01" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h3>
 <ul>
-<li>🧠 <strong>Size</strong>: A brain-busting <strong>456 billion parameters</strong>.</li>
-<li>📚 <strong>Skill</strong>: Outsmarting Google’s Gemini 2.0 Flash 🌟 on math and trivia benchmarks like MMLU and SimpleQA.</li>
-<li>🧐 <strong>Context Window</strong>: A jaw-dropping <strong>4 million tokens</strong>! That&rsquo;s like reading <em>War and Peace</em> <strong>five times</strong> in one go 📚📚📚📚📚. Meanwhile, GPT-4o is over here squinting at its puny 31x smaller window. 🤏📖</li>
+<li>🧠 <strong>Size</strong>: Huge brain power with <strong>456 billion parameters</strong>.</li>
+<li>📚 <strong>Skill</strong>: Beats Google’s Gemini 2.0 Flash 🌟 at math and trivia.</li>
+<li>🧐 <strong>Context Window</strong>: Can read <strong>4 million tokens</strong> at once — like reading <em>War and Peace</em> <strong>5 times</strong> in one go 📖📖📖📖📖! GPT-4o is tiny in comparison. 🤏</li>
 </ul>
-<h3 id="2-minimax-vl-01">2️⃣ MiniMax-VL-01<a href="#2-minimax-vl-01" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<h3 id="2-minimax-vl-01">2️⃣ <strong>MiniMax-VL-01</strong><a href="#2-minimax-vl-01" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h3>
 <ul>
-<li>👀🤓 <strong>Modality</strong>: A jack-of-all-trades that can read both text and images.</li>
-<li>📝 <strong>Skill</strong>: Answers graph-related questions like “What&rsquo;s the peak of the orange line?” with ease on tests like ChartQA.</li>
-<li>⚖️ <strong>Competition</strong>: Good, but not quite beating OpenAI’s GPT-4o or the open-source InternVL2.5. Nice try though, MiniMax. ✋</li>
+<li>👀 <strong>Features</strong>: Can handle both text and images 🖼️.</li>
+<li>📝 <strong>Skill</strong>: Good at answering questions about charts and graphs 📊, but it doesn’t quite beat OpenAI’s GPT-4o.</li>
 </ul>
-<h3 id="3-t2a-01-hd">3️⃣ T2A-01-HD<a href="#3-t2a-01-hd" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<h3 id="3-t2a-01-hd">3️⃣ <strong>T2A-01-HD</strong><a href="#3-t2a-01-hd" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h3>
 <ul>
-<li>🎤 <strong>Talent</strong>: Generates hyper-realistic voices in <strong>17 languages</strong> and can clone your BFF’s voice from just <strong>10 seconds</strong> of audio 😱👂.</li>
-<li>🎶 <strong>Output</strong>: Adjustable cadence, tone, and tenor. No benchmarks here, but it’s reportedly “on par” with Meta and PlayAI’s models. So… 🎵🥂?</li>
+<li>🎤 <strong>Talent</strong>: Creates super-realistic voices in <strong>17 languages</strong> and can clone your friend’s voice with just <strong>10 seconds</strong> of audio. 😱👂</li>
+<li>🎶 <strong>Output</strong>: You can tweak its tone, speed, and style. Sounds fancy, huh? 🎵🥂</li>
 </ul>
 <hr>
-<h2 id="open-but-not-really-open-">Open but Not Really Open 🛠️🔒<a href="#open-but-not-really-open-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<h2 id="kinda-open-but-not-really-">Kinda Open, But Not Really 🔒<a href="#kinda-open-but-not-really-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h2>
-<p>MiniMax dropped the models on GitHub 🐙 and Hugging Face 🧸💻, but they’re not entirely “open source.”</p>
-<h3 id="fine-print">Fine Print:<a href="#fine-print" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h3>
+<p>MiniMax shared these models on GitHub 🐙 and Hugging Face 🧸, but there’s a catch:</p>
 <ul>
-<li>🚫 No using the models to make <em>better</em> AI models.</li>
-<li>🤑 Platforms with <strong>100M+ users</strong> need a special license (looking at you, Big Tech 👀).</li>
+<li>🚫 <strong>Rules</strong>: You can’t use the models to make better AI.</li>
+<li>🤑 <strong>Big Tech</strong>: If your platform has <strong>100M+ users</strong>, you need a special license (looking at you, Big Tech 👀).</li>
 </ul>
 <hr>
-<h2 id="drama-alert-">Drama Alert 🚨🍿<a href="#drama-alert-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<h2 id="spicy-drama-alert-">Spicy Drama Alert 🚨🍿<a href="#spicy-drama-alert-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h2>
 <ol>
-<li>
-<p><strong>Talkie Trouble</strong>: Their AI role-play app, featuring avatars of Taylor Swift 🎤, Elon Musk 🚀, and LeBron James 🏀, got yanked from the App Store. Why? Let’s just say those celebs didn’t sign up for this. 🖐️🫠</p>
-</li>
-<li>
-<p><strong>Logo Larceny</strong>: Their video tools can recreate British TV logos, which… yeah, feels sus. 📺⚠️</p>
-</li>
-<li>
-<p><strong>Legal Woes</strong>: Streaming giant iQiyi 🎥 is suing MiniMax for allegedly training models on its copyrighted content. Oops. 🧑‍⚖️💸</p>
-</li>
+<li><strong>Celebrity Trouble</strong>: Their AI app <em><strong>Talkie Trouble</strong></em> had avatars of Taylor Swift 🎤, Elon Musk 🚀, and LeBron James 🏀… without permission. Apple pulled the app! 🙅‍♂️</li>
+<li><strong>Logo Copycat</strong>: Their tools can recreate TV logos 📺, which feels a bit sus. ⚠️</li>
+<li><strong>Legal Woes</strong>: Streaming giant iQiyi 🎥 is suing MiniMax for allegedly training their AI on copyrighted content. Oops. 🧑‍⚖️💸</li>
 </ol>
 <hr>
-<h2 id="big-tech-politics-">Big Tech Politics 🌏🔌<a href="#big-tech-politics-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<h2 id="big-tech-politics--x20">Big Tech Politics 🌏🔌  <a href="#big-tech-politics--x20" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h2>
-<p>MiniMax’s splashy debut comes just as the Biden administration proposed stricter rules 📜 to keep advanced AI tech out of China.</p>
-<ul>
-<li>😬 Chipmakers exporting semiconductors now need to double-check they’re not fueling China’s AI boom. 🖥️🛑</li>
-<li>❓ Will MiniMax keep growing despite the crackdown? Stay tuned. 📻👀</li>
-</ul>
+<p>MiniMax’s splashy debut comes just as the Biden administration proposed stricter rules 📜 to keep advanced AI tech out of China.  </p>
+<p>- 😬 Chipmakers exporting semiconductors now need to double-check they’re not fueling China’s AI boom. 🖥️🛑  </p>
+<p>- ❓ Will MiniMax keep growing despite the crackdown? Stay tuned. 📻👀 </p>
 <hr>
 <h2 id="tldr-">TL;DR 📝<a href="#tldr-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h2>
-<p>MiniMax is throwing shade at OpenAI, Google, and Meta with massive models, bold claims, and some spicy controversies. But as with every AI boom, the question remains: Are we impressed, or just slightly terrified? 🤔💣</p>
+<p>MiniMax launched some big, fancy AI models. They’re cool but come with drama and restrictions. Are they the next big thing or just stirring up chaos? 🤔💥</p>
 ]]></content>
 		</item>
 		
