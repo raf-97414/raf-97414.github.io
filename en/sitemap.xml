@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://raf-97414.github.io/en/posts/contextual-ai/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/ai/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/categories/ai/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/categories/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/contextual-ai/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/enterprise-ai/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/posts/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/rag/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/categories/tech-news/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://raf-97414.github.io/en/posts/chinese-ai-company-minimax-models/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,22 +44,10 @@
     <loc>https://raf-97414.github.io/en/categories/ai-news/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/categories/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/categories/china/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/minimax/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/posts/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/tech-drama/</loc>
@@ -49,9 +70,6 @@
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/tech-news/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/ai/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/microsoft/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
@@ -198,9 +216,6 @@
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/tech/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/categories/tech-news/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url>
 </urlset>

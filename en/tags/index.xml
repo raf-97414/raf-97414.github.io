@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://raf-97414.github.io/en/tags/ai/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contextual AI</title>
+      <link>https://raf-97414.github.io/en/tags/contextual-ai/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/contextual-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enterprise AI</title>
+      <link>https://raf-97414.github.io/en/tags/enterprise-ai/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/enterprise-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>https://raf-97414.github.io/en/tags/rag/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/rag/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI Models</title>
       <link>https://raf-97414.github.io/en/tags/ai-models/</link>
@@ -48,34 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/openai/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/openai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech News</title>
-      <link>https://raf-97414.github.io/en/tags/tech-news/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microsoft</title>
-      <link>https://raf-97414.github.io/en/tags/microsoft/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/microsoft/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>https://raf-97414.github.io/en/tags/open-source/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/open-source/</guid>
       <description></description>
     </item>
   </channel>
