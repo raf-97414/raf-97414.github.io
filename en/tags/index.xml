@@ -9,10 +9,24 @@
     <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AGI</title>
+      <link>https://raf-97414.github.io/en/tags/agi/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/agi/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI News</title>
+      <link>https://raf-97414.github.io/en/tags/ai-news/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/ai-news/</guid>
       <description></description>
     </item>
     <item>
@@ -23,10 +37,31 @@
       <description></description>
     </item>
     <item>
+      <title>Deep Learning</title>
+      <link>https://raf-97414.github.io/en/tags/deep-learning/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Enterprise AI</title>
       <link>https://raf-97414.github.io/en/tags/enterprise-ai/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/enterprise-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>François Chollet</title>
+      <link>https://raf-97414.github.io/en/tags/fran%C3%A7ois-chollet/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/fran%C3%A7ois-chollet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ndea</title>
+      <link>https://raf-97414.github.io/en/tags/ndea/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/ndea/</guid>
       <description></description>
     </item>
     <item>
@@ -41,41 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/ai-models/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MiniMax</title>
-      <link>https://raf-97414.github.io/en/tags/minimax/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/minimax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Drama</title>
-      <link>https://raf-97414.github.io/en/tags/tech-drama/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/tech-drama/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Regulation</title>
-      <link>https://raf-97414.github.io/en/tags/ai-regulation/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/ai-regulation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Humor</title>
-      <link>https://raf-97414.github.io/en/tags/humor/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/humor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OpenAI</title>
-      <link>https://raf-97414.github.io/en/tags/openai/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/openai/</guid>
       <description></description>
     </item>
   </channel>
