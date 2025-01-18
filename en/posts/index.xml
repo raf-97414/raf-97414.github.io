@@ -55,6 +55,287 @@
 		</item>
 		
 		<item>
+			<title>A Polynomial-time Nash Equilibrium Algorithm for Repeated Games</title>
+			<link>https://raf-97414.github.io/en/posts/papercuts3/</link>
+			<pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/papercuts3/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<h1 id="-a-polynomial-time-nash-equilibrium-algorithm-for-repeated-games">🎮 A Polynomial-time Nash Equilibrium Algorithm for Repeated Games<a href="#-a-polynomial-time-nash-equilibrium-algorithm-for-repeated-games" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p><em>Simplified and Fun Overview with Emojis</em></p>
+<p><a href="https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/blob/master/AI-Game-Theory/A%20Polynomial-time%20Nash%20Equilibrium%20Algorithm%20for%20Repeated%20Games.pdf"><strong>Read the full research paper here</strong></a> 📄</p>
+<hr>
+<h2 id="-cover-page-whats-this-about">🚀 Cover Page: What’s This About?<a href="#-cover-page-whats-this-about" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p><strong>Topic:</strong> Finding Nash Equilibriums (win-win or balance points) in repeated games, like chess matches or bidding wars.<br>
+<strong>Goal:</strong> Solve it faster (in polynomial time ⏱️) instead of taking forever (exponential time 🕰️).<br>
+<strong>Field:</strong> Game Theory + Algorithms + AI 🤖.</p>
+<hr>
+<h2 id="-page-1-whats-the-problem">🤔 Page 1: What’s the Problem?<a href="#-page-1-whats-the-problem" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="whats-a-repeated-game">What’s a Repeated Game?<a href="#whats-a-repeated-game" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Imagine playing Rock-Paper-Scissors 🪨📄✂️ over and over.</li>
+<li>Players adapt based on previous moves.</li>
+</ul>
+<h3 id="-nash-equilibrium">🎯 Nash Equilibrium:<a href="#-nash-equilibrium" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>A sweet spot where no player wants to change their strategy.</li>
+<li>Example: Agreeing on &ldquo;Rock always beats Scissors&rdquo; (but way smarter).</li>
+</ul>
+<h3 id="-challenge">🚀 Challenge:<a href="#-challenge" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Finding this &ldquo;balance&rdquo; is like looking for treasure in a maze 🗺️—tricky and time-consuming.</li>
+</ul>
+<hr>
+<h2 id="-page-2-why-should-we-care">🌍 Page 2: Why Should We Care?<a href="#-page-2-why-should-we-care" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="real-world-stuff">Real-World Stuff<a href="#real-world-stuff" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Auctions 🛍️, online ads 📢, and poker games ♠️ use these ideas.</li>
+<li>Faster solutions optimize behaviors and save resources!</li>
+</ul>
+<h3 id="-quick-example">⚡ Quick Example:<a href="#-quick-example" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Ad bidding wars: Companies reach their &ldquo;best bid&rdquo; (Nash Equilibrium) faster and don’t waste money 💸.</li>
+</ul>
+<hr>
+<h2 id="-page-3-4-how-do-they-solve-it">🧠 Page 3-4: How Do They Solve It?<a href="#-page-3-4-how-do-they-solve-it" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="the-algorithm-simple-terms">The Algorithm (Simple Terms):<a href="#the-algorithm-simple-terms" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ol>
+<li><strong>Track Moves:</strong> Watch what players do over rounds (detective mode 🔍).</li>
+<li><strong>Predict Patterns:</strong> Use past moves to guess the best responses 🧩.</li>
+<li><strong>Optimize:</strong> Repeat until no one wants to change their strategy 📈.</li>
+</ol>
+<h3 id="-key-trick">💡 Key Trick:<a href="#-key-trick" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Instead of trying every single possibility (huge 😵), they shrink the problem into manageable chunks!</li>
+</ul>
+<hr>
+<h2 id="-page-11-18-mathematical-details-theoretical-explanation">🔢 Page 11-18: Mathematical Details (Theoretical Explanation)<a href="#-page-11-18-mathematical-details-theoretical-explanation" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Here’s where the fun math begins! Let’s break it down in simple terms.</p>
+<h3 id="1-key-definitions">1. <strong>Key Definitions:</strong><a href="#1-key-definitions" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<h4 id="utility-function-">Utility Function 🎯:<a href="#utility-function-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>Each player has a <strong>utility function</strong> \( u_i(a_1, a_2, \ldots, a_n) \) that determines how much they &ldquo;win&rdquo; based on all players’ actions \( a_1, a_2, \ldots, a_n \).</li>
+<li>\( u_i \): Utility for Player \( i \).</li>
+</ul>
+<h4 id="strategies-">Strategies 🔀:<a href="#strategies-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>A <strong>strategy</strong> is a player’s plan for choosing actions over multiple rounds.</li>
+<li><strong>Mixed Strategy</strong>: Players randomize their choices (e.g., \( 70\% \) Rock, \( 30\% \) Paper in Rock-Paper-Scissors).</li>
+</ul>
+<hr>
+<h3 id="2-mathematical-framework">2. <strong>Mathematical Framework:</strong><a href="#2-mathematical-framework" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<h4 id="repeated-game-representation-">Repeated Game Representation 📋:<a href="#repeated-game-representation-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ol>
+<li>A repeated game is represented as \( G(T) \), where \( T \) is the number of rounds.</li>
+<li>Players choose strategies \( \sigma_i \) to maximize cumulative utility:<br>
+\[
+   U_i = \sum_{t=1}^T u_i(a_1^t, a_2^t, \ldots, a_n^t)
+   \]<br>
+\( U_i \): Total utility for Player \( i \) over \( T \) rounds.<br>
+\( a_i^t \): Action of Player \( i \) at round \( t \).</li>
+</ol>
+<h4 id="nash-equilibrium-condition-">Nash Equilibrium Condition ⚖️:<a href="#nash-equilibrium-condition-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>A strategy profile \( (\sigma_1, \sigma_2, \ldots, \sigma_n) \) is a Nash Equilibrium if no player \( i \) can improve their utility \( U_i \) by switching to a different strategy \( \sigma_i' \):<br>
+\[
+   U_i(\sigma_i, \sigma_{-i}) \geq U_i(\sigma_i', \sigma_{-i})
+   \]<br>
+\( \sigma_{-i} \): Strategies of all other players except \( i \).</li>
+</ul>
+<hr>
+<h3 id="3-optimization-problem">3. <strong>Optimization Problem</strong>:<a href="#3-optimization-problem" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<h4 id="linear-programming-formulation-">Linear Programming Formulation 📊:<a href="#linear-programming-formulation-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<ul>
+<li>The algorithm finds Nash Equilibrium by solving a linear programming (LP) problem.</li>
+<li>Define probabilities \( p(a_i) \) for actions \( a_i \) and constraints to ensure valid strategies:
+<ol>
+<li>Non-negative probabilities: \( p(a_i) \geq 0 \).</li>
+<li>Total probability equals 1: \( \sum_{a_i} p(a_i) = 1 \).</li>
+<li>Incentive constraints (no one gains by switching):<br>
+\[
+      \forall i, \ \ u_i(a_i, \sigma_{-i}) \geq u_i(a_i', \sigma_{-i})
+      \]</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3 id="4-algorithm-steps-simplified">4. <strong>Algorithm Steps (Simplified):</strong><a href="#4-algorithm-steps-simplified" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ol>
+<li><strong>Initialization:</strong> Start with a random strategy for each player.</li>
+<li><strong>Update Probabilities:</strong> Adjust \( p(a_i) \) based on observed utilities to improve balance.</li>
+<li><strong>Check Nash Condition:</strong> If no player can improve by switching, stop! Else, repeat.</li>
+</ol>
+<hr>
+<h3 id="5-why-polynomial-time">5. <strong>Why Polynomial Time?</strong><a href="#5-why-polynomial-time" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Instead of exploring every possible combination of actions (which grows exponentially 🚀), the algorithm focuses on <strong>important subsets</strong> of strategies, keeping calculations efficient.</li>
+<li><strong>Linear programming solvers</strong> guarantee polynomial-time complexity.</li>
+</ul>
+<hr>
+<h2 id="-page-6-examples-to-prove-it-works">🎮 Page 6: Examples to Prove It Works<a href="#-page-6-examples-to-prove-it-works" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ol>
+<li>
+<p><strong>Prisoner’s Dilemma 🚔:</strong></p>
+<ul>
+<li>Should prisoners betray or stay silent?</li>
+<li>The algorithm finds the best strategy for repeated rounds.</li>
+</ul>
+</li>
+<li>
+<p><strong>Matching Pennies 🪙:</strong></p>
+<ul>
+<li>Heads/Tails game where players try to outsmart each other.</li>
+<li>This method finds balance points quickly.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="-page-7-why-its-a-big-deal">🔥 Page 7: Why It’s a Big Deal<a href="#-page-7-why-its-a-big-deal" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="innovation">Innovation<a href="#innovation" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Old methods = Needle in a haystack 🪶.</li>
+<li>New method = Clever shortcuts to find the needle 🧵.</li>
+</ul>
+<h3 id="applications">Applications<a href="#applications" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Better gaming strategies 🎮.</li>
+<li>AI planning 🤖.</li>
+<li>Smarter negotiations 🤝.</li>
+</ul>
+<hr>
+<h2 id="-page-10-whats-next">🚀 Page 10: What’s Next?<a href="#-page-10-whats-next" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ol>
+<li>Test on more complex games 🧩.</li>
+<li>Apply to real-world systems like traffic optimization 🚦 or e-commerce 🛒.</li>
+<li>Build smarter AI opponents 🤖.</li>
+</ol>
+<h3 id="-conclusion">🎉 Conclusion:<a href="#-conclusion" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>They cracked a tough problem in game theory, made it faster, and opened doors for cool applications.</p>
+<hr>
+<blockquote>
+<p><strong>Read the full research paper <a href="https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/blob/master/AI-Game-Theory/A%20Polynomial-time%20Nash%20Equilibrium%20Algorithm%20for%20Repeated%20Games.pdf">here</a>.</strong><br>
+Got questions or insights? Share them in the comments or check out similar papers on <a href="https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI">GitHub</a>.</p>
+</blockquote>
+]]></content>
+		</item>
+		
+		<item>
 			<title>📚🚀 Announcing the Contextual AI Platform!</title>
 			<link>https://raf-97414.github.io/en/posts/contextual-ai/</link>
 			<pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
