@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech Humor on Rafelia&#39;s AI LOLs</title>
-    <link>http://localhost:1313/en/tags/tech-humor/</link>
+    <link>https://raf-97414.github.io/en/tags/tech-humor/</link>
     <description>Recent content in Tech Humor on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/tech-humor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raf-97414.github.io/en/tags/tech-humor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💡 Sky-T1: Open Source AI That Thinks (For Only $450!)</title>
-      <link>http://localhost:1313/en/posts/sky-t1/</link>
+      <link>https://raf-97414.github.io/en/posts/sky-t1/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/sky-t1/</guid>
+      <guid>https://raf-97414.github.io/en/posts/sky-t1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Sky-T1: The $450 Reasoning AI That’s Making Waves&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;🚀 On Friday, UC Berkeley’s Sky Computing Lab dropped &lt;strong&gt;Sky-T1-32B-Preview&lt;/strong&gt;, an open source reasoning model that can compete with earlier versions of OpenAI’s o1 on key benchmarks. Here’s the kicker: it was trained for less than &lt;strong&gt;$450&lt;/strong&gt;! 💸&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;whats-the-big-deal&#34;&gt;&lt;strong&gt;What’s the Big Deal?&lt;/strong&gt;&lt;a href=&#34;#whats-the-big-deal&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;💻 Most AI models cost millions to train, but Sky-T1 shows you can replicate high-level reasoning capabilities without robbing a bank. 🏦 It’s basically the IKEA of AI – affordable, efficient, and you might need a manual to assemble it. 🛠️🤖&lt;/p&gt;</description>
     </item>
     <item>
       <title>🩺 Hippocratic AI Secures $141M to Build AI Healthcare Sidekicks</title>
-      <link>http://localhost:1313/en/posts/hippocraticai/</link>
+      <link>https://raf-97414.github.io/en/posts/hippocraticai/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/hippocraticai/</guid>
+      <guid>https://raf-97414.github.io/en/posts/hippocraticai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hippocratic AI is making waves (and robots) in healthcare!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;🚨 &lt;strong&gt;Breaking News:&lt;/strong&gt; The startup just raised a jaw-dropping &lt;strong&gt;$141M Series B&lt;/strong&gt; at a valuation of &lt;strong&gt;$1.64 billion&lt;/strong&gt;. 💰💉 That’s a lot of funding for a company under two years old – most toddlers can’t even tie their shoes yet! 👶🎉&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;what-does-hippocratic-ai-do&#34;&gt;&lt;strong&gt;What Does Hippocratic AI Do?&lt;/strong&gt;&lt;a href=&#34;#what-does-hippocratic-ai-do&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;While most healthcare AI startups are stuck shuffling paperwork 🗂️, &lt;strong&gt;Hippocratic AI&lt;/strong&gt; is tackling the shortage of healthcare professionals by creating &lt;strong&gt;patient-facing AI agents&lt;/strong&gt;. Think of them as AI assistants with scrubs. 🤖🩺&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤯 Elon Musk: We’ve Run Out of AI Training Data!</title>
-      <link>http://localhost:1313/en/posts/elon-musk-ai-data-loss/</link>
+      <link>https://raf-97414.github.io/en/posts/elon-musk-ai-data-loss/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/elon-musk-ai-data-loss/</guid>
+      <guid>https://raf-97414.github.io/en/posts/elon-musk-ai-data-loss/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Elon Musk Has Spoken: We’ve Officially Run Out of Real Data for AI!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;📉 According to Musk, “We’ve now exhausted basically the cumulative sum of human knowledge” for AI training. Translation? The internet has been milked dry. 🥛💻&lt;/p&gt;&#xA;&lt;p&gt;Now what? &lt;strong&gt;Synthetic data to the rescue!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Musk’s Plan&lt;/strong&gt;: Let AI make up its own data. 🤖✍️&lt;/li&gt;&#xA;&lt;li&gt;“With synthetic data, [AI] will sort of grade itself and self-learn,” he says. AI teaching AI? What could go wrong? 😬🌀&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-current-state-of-ai-training&#34;&gt;&lt;strong&gt;The Current State of AI Training:&lt;/strong&gt;&lt;a href=&#34;#the-current-state-of-ai-training&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;💡 &lt;strong&gt;Everyone’s Doing It&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤖 Meta’s AI Profiles: Are We Hanging Out With NPCs Now?</title>
-      <link>http://localhost:1313/en/posts/meta-ai-profile/</link>
+      <link>https://raf-97414.github.io/en/posts/meta-ai-profile/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/meta-ai-profile/</guid>
+      <guid>https://raf-97414.github.io/en/posts/meta-ai-profile/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Meta’s Latest Plan: AI Profiles and Characters to Boost Engagement&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;👀 In a plot twist straight out of a sci-fi movie, Meta is diving headfirst into AI-generated profiles and characters. Forget chatting with your friends – say hello to &lt;em&gt;AI besties&lt;/em&gt; that might just know you better than your mom. Here’s the lowdown:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-details&#34;&gt;&lt;strong&gt;The Details:&lt;/strong&gt;&lt;a href=&#34;#the-details&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;1️⃣ &lt;strong&gt;AI-Powered Profiles&lt;/strong&gt;: Meta’s VP says these profiles will chill right next to your regular accounts, complete with bios, profile pics, and even posts. (Wait&amp;hellip; are &lt;em&gt;they&lt;/em&gt; getting more likes than us now? 😭📱)&lt;br&gt;&#xA;2️⃣ &lt;strong&gt;Character Overload&lt;/strong&gt;: Meta has already tested hundreds of thousands of AI characters. Most are private, but we’re pretty sure &lt;em&gt;at least one&lt;/em&gt; is plotting world domination. 🤖🕶️&lt;br&gt;&#xA;3️⃣ &lt;strong&gt;Text-to-Video Magic&lt;/strong&gt;: Soon, you can star in AI-generated videos. Yes, your AI clone might get a movie deal before you. 🎬✨&lt;/p&gt;</description>
     </item>
     <item>
       <title>🧠 Got Problems? DeepSeek’s ‘DeepThink’ Has Bigger Brains!</title>
-      <link>http://localhost:1313/en/posts/deepseek-complex-problem-solver/</link>
+      <link>https://raf-97414.github.io/en/posts/deepseek-complex-problem-solver/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/deepseek-complex-problem-solver/</guid>
+      <guid>https://raf-97414.github.io/en/posts/deepseek-complex-problem-solver/</guid>
       <description>&lt;p&gt;Welcome to &lt;strong&gt;DeepThink&lt;/strong&gt; – the AI feature that turns your chaos into clarity (well, sort of). 😅 Here&amp;rsquo;s how to master advanced reasoning without losing your mind:&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-by-step&#34;&gt;&lt;strong&gt;Step-by-step:&lt;/strong&gt;&lt;a href=&#34;#step-by-step&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;1️⃣ Visit DeepSeek’s website and smash that &amp;ldquo;Start Now&amp;rdquo; button like it owes you money. 💥💻&lt;br&gt;&#xA;2️⃣ Hit the &lt;strong&gt;DeepThink&lt;/strong&gt; button – because regular thinking is overrated. 🤯&lt;br&gt;&#xA;3️⃣ Throw your most confusing scenario at it. Think: &lt;em&gt;“Should I eat pizza 🍕 or salad 🥗 while solving world peace?”&lt;/em&gt; 🌍&lt;br&gt;&#xA;4️⃣ Watch as DeepThink untangles the mess into baby steps – even your dog could follow these. 🐕&lt;br&gt;&#xA;5️⃣ &lt;strong&gt;Pro Tip:&lt;/strong&gt; Compare solutions across scenarios for bonus brain power. It’s like turning AI into your personal Yoda. 🧙‍♂️✨&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI Losing Money on ChatGPT Pro: Sam Altman’s Pricing Drama</title>
-      <link>http://localhost:1313/en/posts/oops-moment/</link>
+      <link>https://raf-97414.github.io/en/posts/oops-moment/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/oops-moment/</guid>
+      <guid>https://raf-97414.github.io/en/posts/oops-moment/</guid>
       <description>&lt;p&gt;💬 &lt;strong&gt;Sam Altman&lt;/strong&gt;: &amp;ldquo;Let’s charge $200/month for ChatGPT Pro! Easy money!&amp;rdquo; 🤑&lt;br&gt;&#xA;👨‍💻 &lt;strong&gt;Users&lt;/strong&gt;: &amp;ldquo;Oh, really? Watch this.&amp;rdquo; (Proceeds to use it like an all-you-can-eat AI buffet.) 🍔🤖&lt;/p&gt;&#xA;&lt;p&gt;Turns out, &lt;strong&gt;running ChatGPT costs more than a yacht habit&lt;/strong&gt;. At one point, it was &lt;strong&gt;$700K/day&lt;/strong&gt; to keep the AI thinking. 💸&lt;/p&gt;&#xA;&lt;p&gt;OpenAI has now entered &lt;em&gt;panic mode&lt;/em&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Admit they need &amp;ldquo;way more money than imagined.&amp;rdquo; 😬&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; &amp;ldquo;Should we raise prices?&amp;rdquo; 💰💭&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Despite burning cash like a flamethrower 🔥, they’re dreaming big: &lt;strong&gt;$100 billion revenue by 2029&lt;/strong&gt;. (Yes, the same sales as Nestlé. AI KitKats, anyone?) 🍫🤖&lt;/p&gt;</description>
     </item>
   </channel>

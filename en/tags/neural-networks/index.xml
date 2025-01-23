@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Networks on Rafelia&#39;s AI LOLs</title>
-    <link>http://localhost:1313/en/tags/neural-networks/</link>
+    <link>https://raf-97414.github.io/en/tags/neural-networks/</link>
     <description>Recent content in Neural Networks on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raf-97414.github.io/en/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appendix Section of the Paper: Discovering Physical Concepts With Neural Networks Simplified 🤖✨</title>
-      <link>http://localhost:1313/en/posts/appendix_for_paper_cuts2/</link>
+      <link>https://raf-97414.github.io/en/posts/appendix_for_paper_cuts2/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/appendix_for_paper_cuts2/</guid>
+      <guid>https://raf-97414.github.io/en/posts/appendix_for_paper_cuts2/</guid>
       <description>&lt;h2 id=&#34;-appendix-a-neural-networks-101&#34;&gt;🤖 Appendix A: Neural Networks 101&lt;a href=&#34;#-appendix-a-neural-networks-101&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;whats-a-neural-network&#34;&gt;&lt;strong&gt;What’s a Neural Network?&lt;/strong&gt;&lt;a href=&#34;#whats-a-neural-network&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;A neural network is like a group of friends 👫 working together. Each friend (a &lt;strong&gt;neuron&lt;/strong&gt;) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤&lt;/p&gt;</description>
     </item>
     <item>
       <title>PaperCuts 2 : Simplified Explanation of Paper Discovering Physical Concepts With Neural Networks 🤓✨</title>
-      <link>http://localhost:1313/en/posts/papercuts2/</link>
+      <link>https://raf-97414.github.io/en/posts/papercuts2/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/papercuts2/</guid>
+      <guid>https://raf-97414.github.io/en/posts/papercuts2/</guid>
       <description>&lt;h2 id=&#34;1-introduction-ai--physics--best-friends-forever-&#34;&gt;&lt;strong&gt;1. Introduction: AI + Physics = Best Friends Forever?&lt;/strong&gt; 🤝✨&lt;a href=&#34;#1-introduction-ai--physics--best-friends-forever-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Physics has been built like a series of Jenga towers—stacking new ideas on top of old ones. 🧱 But what if we missed some simple, elegant rules at the bottom? 🤔&lt;/p&gt;</description>
     </item>
   </channel>
