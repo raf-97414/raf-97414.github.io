@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ndea on Rafelia&#39;s AI LOLs</title>
-    <link>https://raf-97414.github.io/en/tags/ndea/</link>
+    <link>http://localhost:1313/en/tags/ndea/</link>
     <description>Recent content in Ndea on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raf-97414.github.io/en/tags/ndea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/ndea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🚀 François Chollet&#39;s New AI Adventure: Ndea Lab!</title>
-      <link>https://raf-97414.github.io/en/posts/ndea-lab/</link>
+      <link>http://localhost:1313/en/posts/ndea-lab/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/posts/ndea-lab/</guid>
+      <guid>http://localhost:1313/en/posts/ndea-lab/</guid>
       <description>&lt;p&gt;François Chollet (a.k.a. the AI wizard behind &lt;strong&gt;Keras&lt;/strong&gt;) 🧙‍♂️ has teamed up with Zapier&amp;rsquo;s Mike Knoop 🛠️ to launch &lt;strong&gt;Ndea&lt;/strong&gt;, a shiny new AGI lab aiming to crack the ultimate AI code! 🧩&lt;/p&gt;&#xA;&lt;h2 id=&#34;whats-the-deal-&#34;&gt;What&amp;rsquo;s the deal? 🤔&lt;a href=&#34;#whats-the-deal-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deep Learning + Program Synthesis = 🤖🧠&lt;/strong&gt;&lt;br&gt;&#xA;They’re ditching the &amp;ldquo;big data, bigger GPUs&amp;rdquo; vibe for something more efficient—AI that learns like &lt;em&gt;humans&lt;/em&gt; (a little faster, we hope).&lt;/p&gt;</description>
     </item>
   </channel>

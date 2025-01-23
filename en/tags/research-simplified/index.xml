@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Simplified on Rafelia&#39;s AI LOLs</title>
-    <link>https://raf-97414.github.io/en/tags/research-simplified/</link>
+    <link>http://localhost:1313/en/tags/research-simplified/</link>
     <description>Recent content in Research Simplified on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raf-97414.github.io/en/tags/research-simplified/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/research-simplified/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>✂️ 📄 Paper Cuts 3: Simplified and Fun Version of A Polynomial-time Nash Equilibrium Algorithm for Repeated Games Paper 🎮 ⚖️ </title>
-      <link>https://raf-97414.github.io/en/posts/papercuts3/</link>
+      <link>http://localhost:1313/en/posts/papercuts3/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/posts/papercuts3/</guid>
+      <guid>http://localhost:1313/en/posts/papercuts3/</guid>
       <description>&lt;h2 id=&#34;-whats-this-about&#34;&gt;🚀 What’s This About?&lt;a href=&#34;#-whats-this-about&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Finding Nash Equilibriums (win-win or balance points) in repeated games, like chess matches or bidding wars.&lt;br&gt;&#xA;&lt;strong&gt;Goal:&lt;/strong&gt; Solve it faster (in polynomial time ⏱️) instead of taking forever (exponential time 🕰️).&lt;br&gt;&#xA;&lt;strong&gt;Field:&lt;/strong&gt; Game Theory + Algorithms + AI 🤖.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Regulation on Rafelia&#39;s AI LOLs</title>
-    <link>https://raf-97414.github.io/en/tags/ai-regulation/</link>
+    <link>http://localhost:1313/en/tags/ai-regulation/</link>
     <description>Recent content in AI Regulation on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raf-97414.github.io/en/tags/ai-regulation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/ai-regulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenAI&#39;s AI Blueprint: 💡 Chips, Bots, and Bureaucracy</title>
-      <link>https://raf-97414.github.io/en/posts/openai-blueprint-airegulation/</link>
+      <link>http://localhost:1313/en/posts/openai-blueprint-airegulation/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/posts/openai-blueprint-airegulation/</guid>
+      <guid>http://localhost:1313/en/posts/openai-blueprint-airegulation/</guid>
       <description>&lt;p&gt;🎉 &lt;strong&gt;OpenAI has spoken&lt;/strong&gt; — and their new AI “blueprint” is here to save us all! Or at least, save AI from the messy patchwork of state laws, copyright fights, and not-enough-chips-to-go-around drama. 💾✨&lt;/p&gt;&#xA;&lt;p&gt;This “living document” (because who writes static ones anymore? 🙄) outlines how the U.S. can stay on top of the AI leaderboard while keeping the bots from going rogue. Let’s break it down with some &lt;em&gt;fun and emojis&lt;/em&gt; 👇:&lt;/p&gt;</description>
     </item>
   </channel>

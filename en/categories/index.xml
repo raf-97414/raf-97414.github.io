@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rafelia&#39;s AI LOLs</title>
-    <link>https://raf-97414.github.io/en/categories/</link>
+    <link>http://localhost:1313/en/categories/</link>
     <description>Recent content in Categories on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raf-97414.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Insights</title>
-      <link>https://raf-97414.github.io/en/categories/ai-insights/</link>
+      <link>http://localhost:1313/en/categories/ai-insights/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/ai-insights/</guid>
+      <guid>http://localhost:1313/en/categories/ai-insights/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Humor</title>
-      <link>https://raf-97414.github.io/en/categories/tech-humor/</link>
+      <link>http://localhost:1313/en/categories/tech-humor/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-humor/</guid>
+      <guid>http://localhost:1313/en/categories/tech-humor/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Trends</title>
-      <link>https://raf-97414.github.io/en/categories/tech-trends/</link>
+      <link>http://localhost:1313/en/categories/tech-trends/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-trends/</guid>
+      <guid>http://localhost:1313/en/categories/tech-trends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Campus Tech</title>
+      <link>http://localhost:1313/en/categories/campus-tech/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/campus-tech/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Security</title>
-      <link>https://raf-97414.github.io/en/categories/ai-security/</link>
+      <link>http://localhost:1313/en/categories/ai-security/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/ai-security/</guid>
+      <guid>http://localhost:1313/en/categories/ai-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech News</title>
-      <link>https://raf-97414.github.io/en/categories/tech-news/</link>
+      <link>http://localhost:1313/en/categories/tech-news/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-news/</guid>
+      <guid>http://localhost:1313/en/categories/tech-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Security</title>
-      <link>https://raf-97414.github.io/en/categories/tech-security/</link>
+      <link>http://localhost:1313/en/categories/tech-security/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-security/</guid>
+      <guid>http://localhost:1313/en/categories/tech-security/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Industry</title>
-      <link>https://raf-97414.github.io/en/categories/ai-industry/</link>
+      <link>http://localhost:1313/en/categories/ai-industry/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/ai-industry/</guid>
+      <guid>http://localhost:1313/en/categories/ai-industry/</guid>
       <description></description>
     </item>
     <item>
       <title>Research Summaries</title>
-      <link>https://raf-97414.github.io/en/categories/research-summaries/</link>
+      <link>http://localhost:1313/en/categories/research-summaries/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/research-summaries/</guid>
+      <guid>http://localhost:1313/en/categories/research-summaries/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://raf-97414.github.io/en/categories/ai/</link>
+      <link>http://localhost:1313/en/categories/ai/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI News</title>
-      <link>https://raf-97414.github.io/en/categories/ai-news/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/ai-news/</guid>
+      <guid>http://localhost:1313/en/categories/ai/</guid>
       <description></description>
     </item>
   </channel>
