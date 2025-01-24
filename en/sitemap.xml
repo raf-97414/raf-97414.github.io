@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://raf-97414.github.io/en/posts/ogopenai-deepseek/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <loc>https://raf-97414.github.io/en/posts/mira-murati-agi-lab/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/agi/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/ai/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/ai-insights/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/categories/industry-news/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/mira-murati/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/openai/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/posts/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/tech-news/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/posts/ogopenai-deepseek/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/deepseek/</loc>
@@ -20,25 +47,10 @@
     <loc>https://raf-97414.github.io/en/tags/open-source-ai/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/openai/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/posts/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/tags/reasoning-models/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/categories/tech-humor/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/tech-news/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/tech-trends/</loc>
@@ -119,9 +131,6 @@
     <loc>https://raf-97414.github.io/en/tags/game-theory/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/mira-murati/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/tags/nash-equilibrium/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -138,9 +147,6 @@
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/posts/ndea-lab/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/agi/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/ai/</loc>
