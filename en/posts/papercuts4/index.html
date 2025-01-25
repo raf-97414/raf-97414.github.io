@@ -1,0 +1,346 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="robots" content="index, follow"><link rel="author" href="/humans.txt">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#494f5c">
+<meta name="msapplication-TileColor" content="#494f5c">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#494f5c"><meta name="author" content="Rafelia"><meta name="description" content="Exploring how deep networks memorize data with a fun, simplified breakdown of the paper.">
+
+  <meta itemprop="name" content="🧠 Deep Learning and Memorization: A Closer Look 🔍">
+  <meta itemprop="description" content="Exploring how deep networks memorize data with a fun, simplified breakdown of the paper.">
+  <meta itemprop="datePublished" content="2025-01-22T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-01-22T00:00:00+00:00">
+  <meta itemprop="wordCount" content="576">
+  <meta itemprop="keywords" content="Deep Learning,Machine Learning,Memorization,AI Research"><meta property="og:url" content="https://raf-97414.github.io/en/posts/papercuts4/">
+  <meta property="og:site_name" content="Rafelia&#39;s AI LOLs">
+  <meta property="og:title" content="🧠 Deep Learning and Memorization: A Closer Look 🔍">
+  <meta property="og:description" content="Exploring how deep networks memorize data with a fun, simplified breakdown of the paper.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-01-22T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-01-22T00:00:00+00:00">
+    <meta property="article:tag" content="Deep Learning">
+    <meta property="article:tag" content="Machine Learning">
+    <meta property="article:tag" content="Memorization">
+    <meta property="article:tag" content="AI Research">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="🧠 Deep Learning and Memorization: A Closer Look 🔍">
+  <meta name="twitter:description" content="Exploring how deep networks memorize data with a fun, simplified breakdown of the paper.">
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "🧠 Deep Learning and Memorization: A Closer Look 🔍",
+    "name": "🧠 Deep Learning and Memorization: A Closer Look 🔍",
+    "description": "Exploring how deep networks memorize data with a fun, simplified breakdown of the paper.",
+    "keywords": ["Deep Learning", "Machine Learning", "Memorization", "AI Research"],
+    "articleBody": "🤔 What’s This Paper About? Deep learning models are super smart, but sometimes they’re just like students cramming for exams—memorizing instead of truly understanding! 📚💻\nThis paper takes a deep dive into how deep networks memorize data, why it happens, and what we can do about it.\n📄 Page 1: Introduction 🎬 Big Question:\nDo deep networks really learn, or are they just really good at remembering things? 🤨\nKey Takeaways:\nDeep learning works incredibly well, but at what cost? Memorization ≠ Generalization (aka learning concepts vs. just remembering facts). They’ll explore different factors and experiments to understand this phenomenon. 👩‍🏫 Think of it like a detective story… but with math.\n📄 Page 2: What Is Memorization? 🧠 Memorization: The model stores specific details of the training data instead of recognizing patterns. 🤯 Generalization: The model understands and applies patterns to new, unseen data. 💡 🧐 Why should you care?\nBecause an AI that memorizes will fail in real-world scenarios (like trying to apply calculus to ordering coffee ☕).\n📄 Page 3: Factors That Make Models Memorize 📊 Deep networks memorize more when:\nNot enough data: Small datasets force models to remember specific details. 🗂️ Too many parameters: Bigger models have more room to “cram.” 💾 High complexity: Complicated patterns = brain overload = memory mode. 🤯 Lesson: Bigger isn’t always better! 🚫💪\n📄 Page 4: Experiment Time 🧪 Researchers ran experiments with:\nCorrect labels ✔️ Random labels ❌ (because chaos is fun!) What happened?\nEven with random nonsense, the models memorized EVERYTHING. 🤦\n📄 Page 5: Role of Regularization 🛑 What’s Regularization?\nIt’s like an AI diet—it keeps the model from going overboard on the details. 🏋️‍♂️\nKey methods:\nDropout: Randomly turning off parts of the network. 💤 Weight decay: Keeping those weight numbers in check. ⚖️ Without regularization, models will memorize everything like a trivia nerd at a pub quiz. 🍻\n📄 Page 6: Data Augmentation to the Rescue! 🦸‍♂️ If regularization is a diet, data augmentation is exercise! 🏃\nTricks to boost generalization:\nRotating images 🔄 Adding noise 📢 Changing colors 🌈 More diverse data = better AI performance = less overfitting.\n📄 Page 7: The Great Battle – Memorization vs. Generalization 🤼 Who wins in the ring? 🥊\nMemorization: Knows everything but lacks flexibility. 🤓 Generalization: Knows just enough but can handle the unknown. 🦸 Smart design choices lead to a perfect balance.\n📄 Page 8: How Training Time Affects Memorization ⏳ Train too long? 📖 The model memorizes everything. Train too short? ⏩ The model doesn’t learn enough. 🎯 Find the sweet spot to avoid AI burnout!\n📄 Page 9: Implications for Model Design 🏗️ When building deep models:\nChoose the right architecture – Not too big, not too small. Use diverse data – More variety = better learning. Don’t overtrain – Your AI doesn’t need an all-nighter. 😴 📄 Page 10: Conclusion 🎉 TL;DR of the entire paper:\nDeep networks memorize… a LOT. But we can fight it with smart design (regularization, augmentation, etc.). Be mindful—AI needs to generalize to truly be useful. 🌍 🏁 Final Thoughts Deep networks might act like students cramming for finals, but with the right tweaks, they can become top-tier problem solvers! 🎯\nKey lessons learned:\nMore data, better methods, less cramming! Use regularization and augmentation wisely. Training is an art—find the right balance. 📖 Want the full technical details? Check out the original paper:\nRead the Paper Here\n#AI #DeepLearning #MachineLearning #Memorization #TechHumor #SmartAI\n",
+    "wordCount" : "576",
+    "inLanguage": "en",
+    "datePublished": "2025-01-22T00:00:00Z",
+    "dateModified": "2025-01-22T00:00:00Z",
+    "author":{
+        "@type": "Person",
+        "name": "Rafelia",},
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://raf-97414.github.io/en/posts/papercuts4/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Rafelia's AI LOLs",
+      "description": "Projects, Research \u0026 Insights Simplified!",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://raf-97414.github.io/favicon.ico"
+      }
+    }
+}
+</script><title>🧠 Deep Learning and Memorization: A Closer Look 🔍</title>
+<link rel="stylesheet dns-prefetch preconnect preload prefetch" as="style" href="https://raf-97414.github.io/css/style.min.c3036c047ed8d59fbb4d0ef890701274478817f8fe707d57b66a1b0f6ac5cc21.css" integrity="sha256-wwNsBH7Y1Z+7TQ74kHASdEeIF/j+cH1XtmobD2rFzCE=" crossorigin="anonymous">
+	</head>
+<body id="page">
+	<header id="site-header" class="animated slideInUp">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://raf-97414.github.io/">Rafelia&#39;s AI LOLs</a>
+				</div>
+				<nav class="site-nav hide-in-mobile"><a href="https://raf-97414.github.io/en/about/">About Rafelia</a><a href="https://raf-97414.github.io/en/posts/">Posts</a><a href="https://raf-97414.github.io/en/projects/">Projects</a></nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-links hide-in-mobile"><a href="https://www.linkedin.com/in/rafelia-edwige-fernandes-490603203/" target="_blank" rel="noopener me" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+   <rect x="2" y="9" width="4" height="12"></rect>
+   <circle cx="4" cy="4" r="2"></circle>
+</svg></a><a href="https://x.com/Rafelia97" target="_blank" rel="noopener me" title="X"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path class="st0" d="m21.3 21.1 -11.4 -18.2h-7.2l11.4 18.2zm-18.6 0 7.2 -6.6m4.2 -5 7.2 -6.6" />
+</svg></a><a href="https://github.com/raf-97414" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none"
+   stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+   <path
+      d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+   </path>
+</svg></a><a href="https://www.kaggle.com/rafeliafernandes" target="_blank" rel="noopener me" title="Kaggle"><svg xmlns="http://www.w3.org/2000/svg" class="feather feather-link" width="24" height="24" viewBox="0 0 24 24"
+      fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+      <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+   </svg></a></span><button id="menu-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+   </svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://raf-97414.github.io/en/about/">About Rafelia</a></li>
+			<li><a href="https://raf-97414.github.io/en/posts/">Posts</a></li>
+			<li><a href="https://raf-97414.github.io/en/projects/">Projects</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster"><article class="thin">
+			<header class="post-header">
+				<div class="post-date"><span>Jan 22, 2025</span></div>
+				<h1>🧠 Deep Learning and Memorization: A Closer Look 🔍</h1>
+			</header>
+			<div class="post-description"><p>Exploring how deep networks memorize data with a fun, simplified breakdown of the paper.</p><p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+   stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-feather">
+   <path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path>
+   <line x1="16" y1="8" x2="2" y2="22"></line>
+   <line x1="17.5" y1="15" x2="9" y2="15"></line>
+</svg>Rafelia</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon">
+      <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+      <line x1="7" y1="7" x2="7" y2="7"></line>
+   </svg><span class="tag"><a href="https://raf-97414.github.io/en/tags/deep-learning">Deep Learning</a></span><span class="tag"><a href="https://raf-97414.github.io/en/tags/machine-learning">Machine Learning</a></span><span class="tag"><a href="https://raf-97414.github.io/en/tags/memorization">Memorization</a></span><span class="tag"><a href="https://raf-97414.github.io/en/tags/ai-research">AI Research</a></span></p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder">
+      <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+   </svg><span class="category"><a href="https://raf-97414.github.io/en/categories/ai-research">AI Research</a></span><span class="category"><a href="https://raf-97414.github.io/en/categories/fun-reads">Fun Reads</a></span></p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+      <polyline points="14 2 14 8 20 8"></polyline>
+      <line x1="16" y1="13" x2="8" y2="13"></line>
+      <line x1="16" y1="17" x2="8" y2="17"></line>
+      <polyline points="10 9 9 9 8 9"></polyline>
+   </svg>576 </p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar">
+      <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+      <line x1="16" y1="2" x2="16" y2="6"></line>
+      <line x1="8" y1="2" x2="8" y2="6"></line>
+      <line x1="3" y1="10" x2="21" y2="10"></line>
+   </svg>2025-01-22 05:30 &#43;0530</p></div>
+			<hr class="post-end">
+			<div class="content">
+				 <h2 id="-whats-this-paper-about">🤔 What&rsquo;s This Paper About?<a href="#-whats-this-paper-about" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Deep learning models are <strong>super smart</strong>, but sometimes they’re just like students cramming for exams—<strong>memorizing instead of truly understanding!</strong> 📚💻</p>
+<p>This paper takes a deep dive into <strong>how deep networks memorize data, why it happens, and what we can do about it.</strong></p>
+<hr>
+<h2 id="-page-1-introduction-">📄 Page 1: Introduction 🎬<a href="#-page-1-introduction-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p><strong>Big Question:</strong><br>
+Do deep networks <strong>really learn</strong>, or are they just really good at <em>remembering things</em>? 🤨</p>
+<p><strong>Key Takeaways:</strong></p>
+<ul>
+<li>Deep learning works incredibly well, but at what cost?</li>
+<li><strong>Memorization ≠ Generalization</strong> (aka learning concepts vs. just remembering facts).</li>
+<li>They’ll explore different factors and experiments to understand this phenomenon.</li>
+</ul>
+<p>👩‍🏫 <em>Think of it like a detective story&hellip; but with math.</em></p>
+<hr>
+<h2 id="-page-2-what-is-memorization-">📄 Page 2: What Is Memorization? 🧠<a href="#-page-2-what-is-memorization-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Memorization:</strong> The model stores <strong>specific</strong> details of the training data instead of recognizing patterns. 🤯</li>
+<li><strong>Generalization:</strong> The model understands and applies patterns to new, unseen data. 💡</li>
+</ul>
+<p>🧐 <strong>Why should you care?</strong><br>
+Because an AI that memorizes will fail in real-world scenarios (like trying to apply calculus to ordering coffee ☕).</p>
+<hr>
+<h2 id="-page-3-factors-that-make-models-memorize-">📄 Page 3: Factors That Make Models Memorize 📊<a href="#-page-3-factors-that-make-models-memorize-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Deep networks <strong>memorize more</strong> when:</p>
+<ol>
+<li><strong>Not enough data:</strong> Small datasets force models to remember specific details. 🗂️</li>
+<li><strong>Too many parameters:</strong> Bigger models have more room to “cram.” 💾</li>
+<li><strong>High complexity:</strong> Complicated patterns = brain overload = memory mode. 🤯</li>
+</ol>
+<p><strong>Lesson:</strong> Bigger isn&rsquo;t always better! 🚫💪</p>
+<hr>
+<h2 id="-page-4-experiment-time-">📄 Page 4: Experiment Time 🧪<a href="#-page-4-experiment-time-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Researchers ran experiments with:</p>
+<ul>
+<li><strong>Correct labels</strong> ✔️</li>
+<li><strong>Random labels</strong> ❌ (because chaos is fun!)</li>
+</ul>
+<p><strong>What happened?</strong><br>
+Even with random nonsense, the models memorized EVERYTHING. 🤦</p>
+<hr>
+<h2 id="-page-5-role-of-regularization-">📄 Page 5: Role of Regularization 🛑<a href="#-page-5-role-of-regularization-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p><strong>What’s Regularization?</strong><br>
+It’s like an AI diet—it keeps the model from going overboard on the details. 🏋️‍♂️</p>
+<p><strong>Key methods:</strong></p>
+<ol>
+<li><strong>Dropout:</strong> Randomly turning off parts of the network. 💤</li>
+<li><strong>Weight decay:</strong> Keeping those weight numbers in check. ⚖️</li>
+</ol>
+<p>Without regularization, models will <strong>memorize everything</strong> like a trivia nerd at a pub quiz. 🍻</p>
+<hr>
+<h2 id="-page-6-data-augmentation-to-the-rescue-">📄 Page 6: Data Augmentation to the Rescue! 🦸‍♂️<a href="#-page-6-data-augmentation-to-the-rescue-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>If regularization is a diet, <strong>data augmentation is exercise!</strong> 🏃</p>
+<p><strong>Tricks to boost generalization:</strong></p>
+<ul>
+<li>Rotating images 🔄</li>
+<li>Adding noise 📢</li>
+<li>Changing colors 🌈</li>
+</ul>
+<p>More diverse data = better AI performance = less overfitting.</p>
+<hr>
+<h2 id="-page-7-the-great-battle--memorization-vs-generalization-">📄 Page 7: The Great Battle – Memorization vs. Generalization 🤼<a href="#-page-7-the-great-battle--memorization-vs-generalization-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Who wins in the ring? 🥊</p>
+<ul>
+<li><strong>Memorization:</strong> Knows everything but lacks flexibility. 🤓</li>
+<li><strong>Generalization:</strong> Knows just enough but can handle the unknown. 🦸</li>
+</ul>
+<p>Smart design choices lead to a <strong>perfect balance.</strong></p>
+<hr>
+<h2 id="-page-8-how-training-time-affects-memorization-">📄 Page 8: How Training Time Affects Memorization ⏳<a href="#-page-8-how-training-time-affects-memorization-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Train too long?</strong> 📖 The model memorizes everything.</li>
+<li><strong>Train too short?</strong> ⏩ The model doesn’t learn enough.</li>
+</ul>
+<p>🎯 <strong>Find the sweet spot to avoid AI burnout!</strong></p>
+<hr>
+<h2 id="-page-9-implications-for-model-design-">📄 Page 9: Implications for Model Design 🏗️<a href="#-page-9-implications-for-model-design-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>When building deep models:</p>
+<ol>
+<li><strong>Choose the right architecture</strong> – Not too big, not too small.</li>
+<li><strong>Use diverse data</strong> – More variety = better learning.</li>
+<li><strong>Don&rsquo;t overtrain</strong> – Your AI doesn&rsquo;t need an all-nighter. 😴</li>
+</ol>
+<hr>
+<h2 id="-page-10-conclusion-">📄 Page 10: Conclusion 🎉<a href="#-page-10-conclusion-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p><strong>TL;DR of the entire paper:</strong></p>
+<ul>
+<li>Deep networks memorize&hellip; a LOT.</li>
+<li>But we can fight it with smart design (regularization, augmentation, etc.).</li>
+<li>Be mindful—AI needs to generalize to <strong>truly be useful.</strong> 🌍</li>
+</ul>
+<hr>
+<h2 id="-final-thoughts">🏁 Final Thoughts<a href="#-final-thoughts" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Deep networks might act like students cramming for finals, but with the right tweaks, they can become top-tier problem solvers! 🎯</p>
+<p><strong>Key lessons learned:</strong></p>
+<ul>
+<li><strong>More data, better methods, less cramming!</strong></li>
+<li>Use regularization and augmentation wisely.</li>
+<li>Training is an art—find the right balance.</li>
+</ul>
+<p>📖 Want the full technical details? Check out the original paper:<br>
+<a href="https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/blob/master/Deep-learning/A%20Closer%20Look%20at%20Memorization%20in%20Deep%20Networks.pdf"><strong>Read the Paper Here</strong></a></p>
+<hr>
+<p>#AI #DeepLearning #MachineLearning #Memorization #TechHumor #SmartAI</p>
+
+			</div>
+			
+		</article>
+		<div class="post-nav thin">
+			<a class="next-post" href="https://raf-97414.github.io/en/posts/openai-operator/">
+				<span class="post-nav-label"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left">
+      <line x1="19" y1="12" x2="5" y2="12"></line>
+      <polyline points="12 19 5 12 12 5"></polyline>
+   </svg>&nbsp;</span><br><span>🤖 OpenAI&#39;s Operator: Your AI Assistant for Computer Tasks!</span>
+			</a>
+			<a class="prev-post" href="https://raf-97414.github.io/en/posts/about-ciscoaidefense/">
+				<span class="post-nav-label">&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right">
+      <line x1="5" y1="12" x2="19" y2="12"></line>
+      <polyline points="12 5 19 12 12 19"></polyline>
+   </svg></span><br><span>🔐 Cisco AI Defense: Secure Your AI Transformation 🚀</span>
+			</a>
+		</div>
+		<div id="comments" class="thin"></div>
+	</main>
+
+<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+	<p>
+		&copy; 2025 <a href="https://raf-97414.github.io/">Rafelia</a>
+		&#183;  <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0 </a>&#183; Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
+			&#183; Theme <a href="https://github.com/1bl4z3r/hermit-V2" target="_blank" rel="noopener">Hermit-V2</a>
+		&#183; <a href="https://raf-97414.github.io/en/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+   stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss">
+   <path d="M4 11a9 9 0 0 1 9 9"></path>
+   <path d="M4 4a16 16 0 0 1 16 16"></path>
+   <circle cx="5" cy="19" r="1"></circle>
+</svg></a></p>
+
+</footer>
+<script async src="https://raf-97414.github.io/js/bundle.min.c7c384e4d29d192bbac6811ae4660bb01767194a5bea56baca77e8260f93ea16.js" integrity="sha256-x8OE5NKdGSu6xoEa5GYLsBdnGUpb6la6ynfoJg+T6hY=" crossorigin="anonymous"></script>
+</body>
+
+</html>

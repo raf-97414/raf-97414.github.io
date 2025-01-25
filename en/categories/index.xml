@@ -6,13 +6,20 @@
     <description>Recent content in Categories on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Insights</title>
       <link>https://raf-97414.github.io/en/categories/ai-insights/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/categories/ai-insights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Trends</title>
+      <link>https://raf-97414.github.io/en/categories/tech-trends/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/tech-trends/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tech Trends</title>
-      <link>https://raf-97414.github.io/en/categories/tech-trends/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-trends/</guid>
+      <title>AI Research</title>
+      <link>https://raf-97414.github.io/en/categories/ai-research/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/ai-research/</guid>
       <description></description>
     </item>
     <item>
@@ -48,6 +55,13 @@
       <link>https://raf-97414.github.io/en/categories/campus-tech/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/categories/campus-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fun Reads</title>
+      <link>https://raf-97414.github.io/en/categories/fun-reads/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/fun-reads/</guid>
       <description></description>
     </item>
     <item>
@@ -62,20 +76,6 @@
       <link>https://raf-97414.github.io/en/categories/tech-news/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/categories/tech-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Security</title>
-      <link>https://raf-97414.github.io/en/categories/tech-security/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Industry</title>
-      <link>https://raf-97414.github.io/en/categories/ai-industry/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/ai-industry/</guid>
       <description></description>
     </item>
   </channel>
