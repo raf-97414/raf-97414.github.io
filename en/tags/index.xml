@@ -6,13 +6,41 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>https://raf-97414.github.io/en/tags/genai/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLMs</title>
+      <link>https://raf-97414.github.io/en/tags/llms/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/llms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech News</title>
+      <link>https://raf-97414.github.io/en/tags/tech-news/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yann LeCun</title>
+      <link>https://raf-97414.github.io/en/tags/yann-lecun/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/yann-lecun/</guid>
       <description></description>
     </item>
     <item>
@@ -48,34 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/deepseek/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/deepseek/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Memorization</title>
-      <link>https://raf-97414.github.io/en/tags/memorization/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/memorization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>https://raf-97414.github.io/en/tags/open-source/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OpenAI</title>
-      <link>https://raf-97414.github.io/en/tags/openai/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/openai/</guid>
       <description></description>
     </item>
   </channel>
