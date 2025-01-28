@@ -6,8 +6,15 @@
     <description>Recent content in Tech News on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/tech-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚨 Nvidia Loses $600B Market Cap Amid DeepSeek&#39;s AI Revolution 🤯</title>
+      <link>https://raf-97414.github.io/en/posts/nvidia-loss/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/posts/nvidia-loss/</guid>
+      <description>&lt;h2 id=&#34;-deepseeks-r1-shakes-the-ai-world-and-nvidias-stock&#34;&gt;🤖 DeepSeek’s R1 Shakes the AI World (and Nvidia’s Stock)&lt;a href=&#34;#-deepseeks-r1-shakes-the-ai-world-and-nvidias-stock&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;DeepSeek, a Chinese AI startup, just &lt;strong&gt;dropped the mic 🎤&lt;/strong&gt; on the AI industry with the release of its R1 model, sending shockwaves across the market—and &lt;strong&gt;Nvidia’s stock tumbling 16.9%!&lt;/strong&gt; 📉&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤯 Yann LeCun Says GenAI &amp; LLMs Will Be Useless in 5 Years! 🚀</title>
       <link>https://raf-97414.github.io/en/posts/yann-lecun-genai-future/</link>
@@ -70,13 +77,6 @@
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/posts/openai-blueprint-airegulation/</guid>
       <description>&lt;p&gt;🎉 &lt;strong&gt;OpenAI has spoken&lt;/strong&gt; — and their new AI “blueprint” is here to save us all! Or at least, save AI from the messy patchwork of state laws, copyright fights, and not-enough-chips-to-go-around drama. 💾✨&lt;/p&gt;&#xA;&lt;p&gt;This “living document” (because who writes static ones anymore? 🙄) outlines how the U.S. can stay on top of the AI leaderboard while keeping the bots from going rogue. Let’s break it down with some &lt;em&gt;fun and emojis&lt;/em&gt; 👇:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft&#39;s New CoreAI Org: 🛠️ Devs, AI, and World Domination</title>
-      <link>https://raf-97414.github.io/en/posts/coreai/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/posts/coreai/</guid>
-      <description>&lt;p&gt;🚨 &lt;strong&gt;Big Tech Alert&lt;/strong&gt;: Microsoft is at it again, stirring the AI pot and adding more layers to its tech empire. This time, they’ve unveiled a new &lt;strong&gt;engineering org&lt;/strong&gt; so dev-focused it practically smells like coffee and commit messages. Meet &lt;strong&gt;CoreAI — Platform and Tools&lt;/strong&gt;! ☕💻&lt;/p&gt;&#xA;&lt;h3 id=&#34;whats-cooking-at-microsoft-&#34;&gt;What&amp;rsquo;s Cooking at Microsoft? 🍳&lt;a href=&#34;#whats-cooking-at-microsoft-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Microsoft decided that combining existing teams into one &lt;em&gt;super team&lt;/em&gt; was the next logical step. CoreAI is like an AI smoothie made by blending:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
