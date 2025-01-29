@@ -5,8 +5,99 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Wed, 29 Jan 2025 12:46:41 +0530</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🤖 Former Intel CEO Pat Gelsinger Ditches OpenAI for DeepSeek’s R1 at Gloo</title>
+			<link>https://raf-97414.github.io/en/posts/pat-gelsinger-deepseek/</link>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/pat-gelsinger-deepseek/</guid>
+			<description><![CDATA[Pat Gelsinger embraces DeepSeek's open-source AI, shaking up the industry and leaving OpenAI in the dust at his new startup.]]></description>
+			<content type="html"><![CDATA[<h2 id="-pat-gelsinger-chooses-deepseek-over-openai-at-his-new-startup-gloo">🚨 Pat Gelsinger Chooses DeepSeek Over OpenAI at His New Startup, Gloo<a href="#-pat-gelsinger-chooses-deepseek-over-openai-at-his-new-startup-gloo" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>What do you do after leaving Intel and trying (but failing) to outdo Nvidia with your own AI chips? 🤔<br>
+If you’re <strong>Pat Gelsinger</strong>, you jump ship to <strong>DeepSeek</strong> and stir the AI pot! 🍵</p>
+<p>Gelsinger, now chairman of <strong>Gloo</strong>, a messaging platform for churches ⛪, is all-in on <strong>DeepSeek’s R1 model</strong>—a high-performance, low-cost open-source AI reasoning model that’s making waves 🌊 (and tanking Nvidia’s stock 📉).</p>
+<hr>
+<h2 id="-deepseeks-55m-ai-revolution-vs-billion-dollar-behemoths">💰 <strong>DeepSeek’s $5.5M AI Revolution vs. Billion-Dollar Behemoths</strong><a href="#-deepseeks-55m-ai-revolution-vs-billion-dollar-behemoths" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>DeepSeek trained its <strong>R1 model</strong> in <strong>two months</strong> using 2,000 Nvidia H800 GPUs, costing a mere <strong>$5.5 million</strong>. Compare that to U.S. giants throwing billions at AI chips 🤑, and you can see why R1 is <em>the talk of the town.</em></p>
+<p>Gelsinger couldn’t hide his excitement:</p>
+<blockquote>
+<p><strong>“Thank you DeepSeek team!”</strong></p>
+</blockquote>
+<hr>
+<h2 id="-why-skip-openai">🤷 Why Skip OpenAI?<a href="#-why-skip-openai" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Gloo, which is building an AI service called <strong>Kallm</strong> (yes, like “call me” 📞), decided to <strong>ditch OpenAI’s APIs</strong> in favor of R1.</p>
+<p>Gelsinger’s reasons?</p>
+<ol>
+<li><strong>Lower cost = More AI everywhere</strong> 💸
+<ul>
+<li>“I want better AI in my phone, my Oura Ring, my hearing aid, and even my EV!” 🚗💡</li>
+</ul>
+</li>
+<li><strong>Open wins</strong> 👐
+<ul>
+<li>Unlike OpenAI and Anthropic, DeepSeek’s open-source approach reminds us of the <strong>power of ingenuity.</strong></li>
+</ul>
+</li>
+<li><strong>No dependency on closed ecosystems</strong> 🔒
+<ul>
+<li>Why rent an API when you can build your own AI service from scratch? 🤷</li>
+</ul>
+</li>
+</ol>
+<p>In just <strong>two weeks</strong>, Gloo plans to have Kallm rebuilt using DeepSeek’s model. 🚀</p>
+<hr>
+<h2 id="-skepticism-gelsinger-doesnt-care">🤔 Skepticism? Gelsinger Doesn’t Care<a href="#-skepticism-gelsinger-doesnt-care" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Of course, DeepSeek’s meteoric rise hasn’t been without controversy:</p>
+<ul>
+<li><strong>&ldquo;Fake numbers!&rdquo;</strong> Some skeptics argue DeepSeek’s training costs must’ve been higher. 🕵️</li>
+<li><strong>&ldquo;Wait for OpenAI’s o3!&rdquo;</strong> Others think OpenAI’s next model will obliterate R1. 💥</li>
+<li><strong>&ldquo;China concerns!&rdquo;</strong> Privacy, censorship, and geopolitics loom large. 🌏</li>
+</ul>
+<p>Gelsinger? He’s unbothered. <strong>“DeepSeek is 10-50x cheaper than o1,”</strong> he says.</p>
+<blockquote>
+<p>“Having the Chinese remind us of the power of open ecosystems is maybe a touch embarrassing for the Western world,” he adds. 😬</p>
+</blockquote>
+<hr>
+<h2 id="-why-this-matters">💡 Why This Matters<a href="#-why-this-matters" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>DeepSeek’s R1 isn’t just a <strong>win for affordability</strong>—it’s a wake-up call for the AI industry. 🚨</p>
+<p>Instead of throwing more hardware at problems, <strong>creativity and engineering</strong> are pushing the boundaries of AI. 🛠️</p>
+<p>Meanwhile, Gelsinger is proof that even as AI heats up, <strong>open-source innovation</strong> might be the key to democratizing AI everywhere.</p>
+<hr>
+<h2 id="-final-thoughts">🤩 Final Thoughts<a href="#-final-thoughts" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>With <strong>DeepSeek’s R1</strong>, the AI landscape is shifting—Nvidia, OpenAI, and Anthropic better watch their backs.<br>
+As for Pat Gelsinger, he’s already ahead of the curve, rebuilding Kallm from scratch with <strong>open AI power</strong>. 💪</p>
+<p>Who’s next to join the DeepSeek revolution? 👀</p>
+<p>🔗 <strong>Follow the story and more AI updates here!</strong></p>
+<p>#DeepSeek #AI #OpenSource #PatGelsinger #OpenAI #TechTrends</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🤖 Kimi k1.5: China&#39;s Moonshot AI Outshines OpenAI’s o1!</title>
