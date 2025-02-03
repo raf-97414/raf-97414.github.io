@@ -6,8 +6,29 @@
     <description>Recent content in Categories on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agriculture</title>
+      <link>https://raf-97414.github.io/en/categories/agriculture/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/agriculture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://raf-97414.github.io/en/categories/ai/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google X</title>
+      <link>https://raf-97414.github.io/en/categories/google-x/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/google-x/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI Research</title>
       <link>https://raf-97414.github.io/en/categories/ai-research/</link>
@@ -55,27 +76,6 @@
       <link>https://raf-97414.github.io/en/categories/tech-tips/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/categories/tech-tips/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Trends</title>
-      <link>https://raf-97414.github.io/en/categories/tech-trends/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-trends/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fun Tech</title>
-      <link>https://raf-97414.github.io/en/categories/fun-tech/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/fun-tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Industry News</title>
-      <link>https://raf-97414.github.io/en/categories/industry-news/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/industry-news/</guid>
       <description></description>
     </item>
   </channel>
