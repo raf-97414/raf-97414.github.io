@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reasoning AI on Rafelia&#39;s AI LOLs</title>
+    <link>https://raf-97414.github.io/en/tags/reasoning-ai/</link>
+    <description>Recent content in Reasoning AI on Rafelia&#39;s AI LOLs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raf-97414.github.io/en/tags/reasoning-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🧠 OpenAI’s o3-mini Now Explains Itself – AI With an Inner Monologue! 🤖💭</title>
+      <link>https://raf-97414.github.io/en/posts/openai-o3-chain-of-thought/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/posts/openai-o3-chain-of-thought/</guid>
+      <description>OpenAI finally lets us peek inside ChatGPT&amp;rsquo;s thought process—AI is now explaining itself, kinda. But is it really more transparent or just better at justifying its mistakes? 🤔</description>
+    </item>
+  </channel>
+</rss>
