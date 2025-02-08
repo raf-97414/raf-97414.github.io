@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://raf-97414.github.io/en/posts/deepmind-ai-survival-game/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/ai/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/categories/ai-breakthroughs/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/categories/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/categories/deep-learning/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/deepmind/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/gaming-ai/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/machine-learning/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/posts/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/reinforcement-learning/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://raf-97414.github.io/en/posts/tinder-ai-matching/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +45,6 @@
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/ai-matching/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/categories/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/chatgpt/</loc>
@@ -38,16 +71,7 @@
     <loc>https://raf-97414.github.io/en/categories/openai/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/posts/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/tags/reasoning-ai/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/tech/</loc>
@@ -60,9 +84,6 @@
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/posts/krutrim/</loc>
-    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/ai/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/ai-news/</loc>
@@ -119,9 +140,6 @@
     <loc>https://raf-97414.github.io/en/posts/google-x-farming/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/machine-learning/</loc>
-    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/tags/sustainability/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -131,9 +149,6 @@
     <loc>https://raf-97414.github.io/en/tags/ai-safety/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/tags/deepmind/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/posts/deepseek-r1-paper/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -141,9 +156,6 @@
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/posts/google-mona/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/reinforcement-learning/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/technology/</loc>

@@ -5,8 +5,155 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🚀 Google DeepMind&#39;s AI Breakthrough: Smarter, Faster RL Models! 🤖🎯</title>
+			<link>https://raf-97414.github.io/en/posts/deepmind-ai-survival-game/</link>
+			<pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/deepmind-ai-survival-game/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<h1 id="-google-deepminds-ai-breakthrough-smarter-faster-rl-models-">🚀 Google DeepMind&rsquo;s AI Breakthrough: Smarter, Faster RL Models! 🤖🎯<a href="#-google-deepminds-ai-breakthrough-smarter-faster-rl-models-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<h2 id="ai-just-beat-humans-at-a-survival-gameand-its-learning-even-faster-"><strong>AI Just Beat Humans at a Survival Game—And It’s Learning Even Faster!</strong> 🏆🎮<a href="#ai-just-beat-humans-at-a-survival-gameand-its-learning-even-faster-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="-page-1-ai-gets-craftybeats-humans-at-a-2d-survival-game"><strong>📜 Page 1: AI Gets Crafty—Beats Humans at a 2D Survival Game!</strong><a href="#-page-1-ai-gets-craftybeats-humans-at-a-2d-survival-game" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>DeepMind’s latest AI, powered by an upgraded <strong>Transformer World Model (TWM)</strong>, just <strong>outperformed human players</strong> in a survival game called <strong>Craftax-classic</strong>! 🕹️🔥 The AI learns using <strong>Model-Based Reinforcement Learning (MBRL)</strong>, meaning it <strong>imagines future scenarios</strong> before taking action. Think of it as AI playing chess in its head, but with survival tactics! ♟️🌲</p>
+<h3 id="-page-2-whats-so-special-about-this-ai"><strong>🔬 Page 2: What’s So Special About This AI?</strong><a href="#-page-2-whats-so-special-about-this-ai" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>The new <strong>MBRL model</strong> beats its predecessor, <strong>DreamerV3</strong>, with a whopping <strong>67.42% success rate</strong>—way ahead of DreamerV3’s <strong>53.2%</strong> and even better than human experts at <strong>65%</strong>! 🧠📈</p>
+<p>How? Three game-changing tricks:<br>
+1️⃣ <strong>Dyna with Warmup</strong> – AI trains on both real AND imagined data! 🤯<br>
+2️⃣ <strong>Nearest Neighbor Tokenizer (NNT)</strong> – A smarter way to process game visuals. 🎨<br>
+3️⃣ <strong>Block Teacher Forcing (BTF)</strong> – AI plans multiple steps ahead without losing track. 🏗️</p>
+<h3 id="-page-3-reinforcement-learningais-secret-sauce"><strong>🧠 Page 3: Reinforcement Learning—AI’s Secret Sauce</strong><a href="#-page-3-reinforcement-learningais-secret-sauce" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Reinforcement Learning (RL) teaches AI <strong>like a video game tutorial</strong>: every time it does something right, it earns points! ✅ But instead of memorizing solutions, MBRL <strong>builds a world model</strong> to “imagine” future moves before making them. 🕶️</p>
+<h3 id="-page-4-why-ai-needs-a-world-model"><strong>🌎 Page 4: Why AI Needs a ‘World Model’</strong><a href="#-page-4-why-ai-needs-a-world-model" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Most AI just reacts to what it sees. MBRL <strong>simulates</strong> possible futures, <strong>like a chess grandmaster planning moves ahead</strong>. 🎭 This means AI <strong>doesn’t just memorize strategies—it actually learns to think!</strong> 🤔</p>
+<h3 id="-page-5-ais-training-ground--the-2d-minecraft-of-rl"><strong>🎮 Page 5: AI’s Training Ground – The 2D Minecraft of RL!</strong><a href="#-page-5-ais-training-ground--the-2d-minecraft-of-rl" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>DeepMind uses <strong>Craftax-classic</strong>, a <strong>procedurally generated</strong> (randomized) survival game where AI learns:<br>
+✅ Exploration 🗺️<br>
+✅ Resource management 🌿<br>
+✅ Survival instincts 🏹</p>
+<h3 id="-page-6-building-an-ai-that-learns-efficiently"><strong>🛠 Page 6: Building an AI That Learns Efficiently</strong><a href="#-page-6-building-an-ai-that-learns-efficiently" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>DeepMind ditched old-school approaches and <strong>redesigned</strong> AI training by:<br>
+✔️ <strong>Combining CNNs (vision) &amp; RNNs (memory)</strong> 🧠<br>
+✔️ <strong>Using a hybrid ‘real + imagined’ training method</strong> 🤖<br>
+✔️ <strong>Making AI process images in smart, bite-sized chunks</strong> 🔍</p>
+<h3 id="-page-7-ais-image-processingwhy-it-matters"><strong>🖼️ Page 7: AI’s Image Processing—Why It Matters</strong><a href="#-page-7-ais-image-processingwhy-it-matters" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Instead of looking at a whole game screen, the AI <strong>divides images into small 7x7 patches</strong> 📸. This helps it <strong>track objects better</strong> and improves learning speed. 📊</p>
+<h3 id="-page-8-ais-daydreaming-tricktraining-on-fake-data"><strong>⏳ Page 8: AI’s ‘Daydreaming’ Trick—Training on Fake Data</strong><a href="#-page-8-ais-daydreaming-tricktraining-on-fake-data" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Unlike normal AI that trains only on real experiences, DeepMind’s AI <strong>imagines alternate realities</strong> (called ‘rollouts’) to prepare for different game scenarios! 🤯</p>
+<h3 id="-page-9-making-ai-think-in-steps-not-just-blurt-out-answers"><strong>🎭 Page 9: Making AI Think in Steps, Not Just Blurt Out Answers</strong><a href="#-page-9-making-ai-think-in-steps-not-just-blurt-out-answers" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Traditional AI makes <strong>random guesses</strong> sometimes. <strong>Block Teacher Forcing (BTF)</strong> helps AI think logically <strong>before speaking</strong>—like when you plan what to say in a debate. 🎤</p>
+<h3 id="-page-10-ai-vs-humanswho-wins"><strong>📈 Page 10: AI vs. Humans—Who Wins?</strong><a href="#-page-10-ai-vs-humanswho-wins" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>🏆 <strong>AI’s Score:</strong> 67.42%<br>
+😎 <strong>Human Score:</strong> 65%<br>
+❌ <strong>Old AI Score:</strong> 53.2%</p>
+<p>AI <strong>now officially beats humans at survival gaming</strong>—and it’s only getting better! 🚀</p>
+<h3 id="-page-11-ais-thought-processreading-its-mind"><strong>🔍 Page 11: AI’s Thought Process—Reading Its ‘Mind’</strong><a href="#-page-11-ais-thought-processreading-its-mind" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>DeepMind’s AI now <strong>explains its moves</strong> step-by-step, so researchers can see how it thinks. 🧐 This means fewer “mystery AI” moments where nobody understands why it did something weird. 🤷‍♂️</p>
+<h3 id="-page-12-ai-performance-metrics--breaking-it-down"><strong>📊 Page 12: AI Performance Metrics – Breaking It Down</strong><a href="#-page-12-ai-performance-metrics--breaking-it-down" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>Best Model:</strong> 67.42% Success 🎯</li>
+<li><strong>Improved Training Speed</strong> (twice as fast as before) ⏩</li>
+<li><strong>Lower Mistakes in Rollouts</strong> 🛠️</li>
+</ul>
+<h3 id="-page-13-20-ais-climb-to-the-top--step-by-step"><strong>🚀 Page 13-20: AI’s Climb to the Top – Step by Step</strong><a href="#-page-13-20-ais-climb-to-the-top--step-by-step" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>DeepMind’s team gradually improved AI’s success rate by:<br>
+1️⃣ <strong>Adding real + imagined training</strong> 🏋️<br>
+2️⃣ <strong>Using smarter visual processing</strong> 🖼️<br>
+3️⃣ <strong>Teaching it to think logically before answering</strong> 🧐</p>
+<p>Every tweak <strong>boosted AI’s performance</strong>, leading to a <strong>superhuman agent!</strong> 🏆</p>
+<h3 id="-page-21-25-what-this-means-for-ais-future"><strong>📢 Page 21-25: What This Means for AI’s Future</strong><a href="#-page-21-25-what-this-means-for-ais-future" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>🔬 <strong>Better RL models = Smarter AI assistants</strong> 🏡💡<br>
+🎮 <strong>AI that learns games = AI that can learn ANY task</strong> 🚗🧑‍⚕️<br>
+🌍 <strong>More efficient AI = Less energy consumption</strong> ⚡</p>
+<h3 id="-page-26-29-whats-next-for-ai"><strong>🔮 Page 26-29: What’s Next for AI?</strong><a href="#-page-26-29-whats-next-for-ai" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>DeepMind’s ultimate goal? <strong>Build an AI brain that can adapt to ANY situation.</strong> 🌍🚀 Expect:</p>
+<ul>
+<li>AI <strong>that learns like humans</strong> (not just memorizes) 🧠</li>
+<li>AI <strong>that explains itself better</strong> 📖</li>
+<li>AI <strong>that trains faster with less data</strong> 📊</li>
+</ul>
+<h3 id="-conclusion-ai-is-now-a-smarter-gamerwhats-next"><strong>🏁 Conclusion: AI is Now a Smarter Gamer—What’s Next?</strong><a href="#-conclusion-ai-is-now-a-smarter-gamerwhats-next" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>DeepMind’s <strong>Transformer World Model</strong> is a HUGE step forward in AI learning. Expect smarter AI <strong>not just in gaming, but in science, medicine, and even space exploration!</strong> 🚀🌌</p>
+<p><strong>TL;DR?</strong><br>
+DeepMind’s new AI is like a <strong>genius gamer who learns on the fly, adapts to new environments, and finally beats humans at their own game!</strong> 🎮🔥</p>
+<p>🔗 <strong><a href="https://arxiv.org/pdf/2502.01591">Link to paper</a></strong></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>❤️ Tinder Turns to AI to Fix Dating Fatigue – Will It Work? 🤖💔</title>

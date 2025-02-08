@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Breakthroughs on Rafelia&#39;s AI LOLs</title>
+    <link>https://raf-97414.github.io/en/categories/ai-breakthroughs/</link>
+    <description>Recent content in AI Breakthroughs on Rafelia&#39;s AI LOLs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raf-97414.github.io/en/categories/ai-breakthroughs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Google DeepMind&#39;s AI Breakthrough: Smarter, Faster RL Models! 🤖🎯</title>
+      <link>https://raf-97414.github.io/en/posts/deepmind-ai-survival-game/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/posts/deepmind-ai-survival-game/</guid>
+      <description>DeepMind’s latest AI, powered by an upgraded Transformer World Model (TWM), just outperformed human players in a survival game called Craftax-classic! Learn how this AI uses Model-Based Reinforcement Learning (MBRL) to think ahead and dominate gaming like never before.</description>
+    </item>
+  </channel>
+</rss>

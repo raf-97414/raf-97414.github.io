@@ -6,8 +6,15 @@
     <description>Recent content in DeepMind on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/deepmind/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Google DeepMind&#39;s AI Breakthrough: Smarter, Faster RL Models! 🤖🎯</title>
+      <link>https://raf-97414.github.io/en/posts/deepmind-ai-survival-game/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/posts/deepmind-ai-survival-game/</guid>
+      <description>DeepMind’s latest AI, powered by an upgraded Transformer World Model (TWM), just outperformed human players in a survival game called Craftax-classic! Learn how this AI uses Model-Based Reinforcement Learning (MBRL) to think ahead and dominate gaming like never before.</description>
+    </item>
     <item>
       <title>MONA: Making AI Less Sneaky 🤖😆</title>
       <link>https://raf-97414.github.io/en/posts/google-mona/</link>
