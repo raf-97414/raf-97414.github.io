@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Tools</title>
+      <link>https://raf-97414.github.io/en/categories/ai-tools/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/ai-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://raf-97414.github.io/en/categories/productivity/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/categories/productivity/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI Breakthroughs</title>
       <link>https://raf-97414.github.io/en/categories/ai-breakthroughs/</link>
@@ -62,20 +76,6 @@
       <link>https://raf-97414.github.io/en/categories/ai-news/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/categories/ai-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech News</title>
-      <link>https://raf-97414.github.io/en/categories/tech-news/</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/tech-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Agriculture</title>
-      <link>https://raf-97414.github.io/en/categories/agriculture/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/categories/agriculture/</guid>
       <description></description>
     </item>
   </channel>
