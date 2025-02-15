@@ -6,13 +6,41 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funny</title>
+      <link>https://raf-97414.github.io/en/tags/funny/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/funny/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLMs</title>
+      <link>https://raf-97414.github.io/en/tags/llms/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/llms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Agent Systems</title>
+      <link>https://raf-97414.github.io/en/tags/multi-agent-systems/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/multi-agent-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Research</title>
+      <link>https://raf-97414.github.io/en/tags/tech-research/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-research/</guid>
       <description></description>
     </item>
     <item>
@@ -48,34 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/critical-thinking/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/critical-thinking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Generative AI</title>
-      <link>https://raf-97414.github.io/en/tags/generative-ai/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/generative-ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Productivity</title>
-      <link>https://raf-97414.github.io/en/tags/productivity/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/productivity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Workplace Tech</title>
-      <link>https://raf-97414.github.io/en/tags/workplace-tech/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/workplace-tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chatbots</title>
-      <link>https://raf-97414.github.io/en/tags/chatbots/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/chatbots/</guid>
       <description></description>
     </item>
   </channel>
