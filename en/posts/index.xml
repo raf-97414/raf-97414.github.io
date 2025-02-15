@@ -254,6 +254,261 @@
 		</item>
 		
 		<item>
+			<title>🤖 MaAS: The AI Avengers or Just a Fancy Group Chat? 🦸‍♂️🤖</title>
+			<link>https://raf-97414.github.io/en/posts/maas/</link>
+			<pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/maas/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<h1 id="-maas-the-ai-avengers-or-just-a-fancy-group-chat-">🤖 MaAS: The AI Avengers or Just a Fancy Group Chat? 🦸‍♂️🤖<a href="#-maas-the-ai-avengers-or-just-a-fancy-group-chat-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>📄 <strong>Read the full research paper here:</strong> <a href="https://arxiv.org/pdf/2502.04180">MaAS - Multi-Agent Architecture Search</a> 📑</p>
+<hr>
+<h2 id="-page-1-what-even-is-maas-">📜 Page 1: What Even is MaAS? 🤔<a href="#-page-1-what-even-is-maas-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> AI agents working together, instead of struggling alone.</p>
+<h3 id="-problem">🚨 Problem:<a href="#-problem" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Old AI systems are <strong>too rigid</strong>—one-size-fits-all <strong>doesn’t work</strong>.</li>
+<li>They <strong>waste computing power</strong> on simple tasks.</li>
+</ul>
+<h3 id="-solution">💡 Solution:<a href="#-solution" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>MaAS (Multi-agent Architecture Search)</strong> creates <strong>custom AI squads</strong> for each problem.</li>
+<li><strong>Think of it as AI Avengers assembling dynamically.</strong> 🦸‍♂️💥</li>
+</ul>
+<hr>
+<h2 id="-page-2-why-should-we-care">📜 Page 2: Why Should We Care?<a href="#-page-2-why-should-we-care" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> AI teamwork = <strong>smarter, cheaper, and faster</strong> solutions.</p>
+<h3 id="-before-vs-after-maas">🤯 Before vs. After MaAS:<a href="#-before-vs-after-maas" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>❌ <strong>Before:</strong> One AI tries to do <strong>everything alone</strong>. 😵<br>
+✅ <strong>Now:</strong> MaAS <strong>chooses the best AI combo</strong> for each task. 🎯</p>
+<h3 id="-example">🎯 Example:<a href="#-example" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>Easy math problem?</strong> → <strong>Small AI handles it.</strong> 🧮</li>
+<li><strong>Complicated algebra?</strong> → <strong>Big-brain AI squad is called in.</strong> 🧠🔢</li>
+</ul>
+<p>🚀 <strong>Result:</strong> More accuracy, <strong>less wasted computing power.</strong></p>
+<hr>
+<h2 id="-page-3-ai-but-efficient-">📜 Page 3: AI, But Efficient 🔥<a href="#-page-3-ai-but-efficient-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> AI <strong>doesn’t have to waste resources</strong> to be smart.</p>
+<h3 id="-problem-1">🛠️ Problem:<a href="#-problem-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>AI <strong>uses too many LLM calls</strong>, which is <strong>expensive</strong>. 💰</li>
+</ul>
+<h3 id="-solution-1">⚙️ Solution:<a href="#-solution-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>MaAS adjusts power use</strong> based on problem difficulty.</li>
+</ul>
+<p>💡 <strong>Think of it like:</strong><br>
+🔋 <strong>Using a phone charger</strong> instead of powering up <strong>a nuclear reactor</strong> for a battery boost. ⚡😂</p>
+<hr>
+<h2 id="-page-4-traditional-ai-meh-maas-">📜 Page 4: Traditional AI? Meh. MaAS? 🔥<a href="#-page-4-traditional-ai-meh-maas-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> <strong>MaAS isn’t another AI—it’s a framework that organizes AI teams.</strong></p>
+<ul>
+<li><strong>Old AI methods:</strong> <strong>Static, inefficient, and manually programmed.</strong> 💤</li>
+<li><strong>MaAS:</strong> <strong>Adapts in real-time</strong>, like a <strong>chess grandmaster switching strategies mid-game.</strong> ♟️🧠</li>
+</ul>
+<hr>
+<h2 id="-page-5-the-ai-battle-royale-">📜 Page 5: The AI Battle Royale! 🥊<a href="#-page-5-the-ai-battle-royale-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> MaAS vs. Traditional AI → <strong>MaAS wins.</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Feature</strong></th>
+          <th><strong>Old AI</strong> 🤖</th>
+          <th><strong>MaAS AI</strong> 🚀</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>One-Size-Fits-All</strong></td>
+          <td>✅</td>
+          <td>❌</td>
+      </tr>
+      <tr>
+          <td><strong>Adapts to Different Tasks</strong></td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td><strong>Computing Power Efficient</strong></td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td><strong>Plays Well with Others?</strong></td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+  </tbody>
+</table>
+<p>💡 <strong>Verdict:</strong> <strong>MaAS is flexible. Old AI is stuck in the past.</strong></p>
+<hr>
+<h2 id="-page-6-ai-needs-to-be-smarter-not-just-bigger-">📜 Page 6: AI Needs to Be Smarter, Not Just Bigger 🤯<a href="#-page-6-ai-needs-to-be-smarter-not-just-bigger-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> Bigger AI <strong>≠ always better</strong>—smart AI teamwork is the key.</p>
+<ul>
+<li><strong>AI shouldn’t just throw power at a problem</strong>—it should <strong>use the right amount</strong> of power. 💡</li>
+<li><strong>MaAS creates custom AI teams, not brute-force solutions.</strong></li>
+</ul>
+<p>💡 <strong>Think smartphone battery optimization</strong> instead of <strong>leaving your flashlight on 24/7</strong>. 🔋💡</p>
+<hr>
+<h2 id="-page-7-can-maas-adapt-to-everything">📜 Page 7: Can MaAS Adapt to Everything?<a href="#-page-7-can-maas-adapt-to-everything" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> <strong>Yes, and that’s the whole point.</strong></p>
+<ul>
+<li><strong>Traditional AI</strong> → Works in <strong>one domain</strong>.</li>
+<li><strong>MaAS</strong> → Can handle <strong>math, coding, web search, and more</strong>.</li>
+</ul>
+<p>💡 <strong>It’s like an AI Swiss Army knife.</strong> 🛠️🔧</p>
+<hr>
+<h2 id="-page-8-lets-talk-efficiency-">📜 Page 8: Let’s Talk Efficiency 💰<a href="#-page-8-lets-talk-efficiency-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> AI <strong>shouldn’t be expensive.</strong></p>
+<ul>
+<li><strong>MaAS cuts computing costs by up to 85%</strong> while maintaining performance. 🚀💵</li>
+<li><strong>Uses fewer LLM calls</strong> = <strong>Saves money and speeds up results.</strong></li>
+</ul>
+<p>💡 <strong>It’s like getting Netflix Premium for the price of a free trial.</strong> 📺😂</p>
+<hr>
+<h2 id="-page-9-ai-squads-assemble-">📜 Page 9: AI Squads, Assemble! 🦸‍♂️🤖<a href="#-page-9-ai-squads-assemble-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> <strong>MaAS picks AI agents dynamically.</strong></p>
+<p>💡 <strong>Think fast-food workers switching roles during rush hour.</strong> 🍔🍟</p>
+<hr>
+<h2 id="-page-10-the-super-ai-workflow-">📜 Page 10: The Super AI Workflow 🚀<a href="#-page-10-the-super-ai-workflow-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> AI <strong>should act like a team, not a solo player.</strong></p>
+<p>💡 <strong>It’s like football:</strong> You don’t want your <strong>goalkeeper taking penalty shots.</strong> ⚽😂</p>
+<hr>
+<h2 id="-page-11-real-world-testing-">📜 Page 11: Real-World Testing 🧪<a href="#-page-11-real-world-testing-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> MaAS <strong>outperformed every AI system</strong> it was tested against.</p>
+<p>🏅 <strong>Higher accuracy</strong><br>
+💰 <strong>Lower cost</strong><br>
+⚡ <strong>Faster performance</strong></p>
+<p>💡 <strong>Basically, MaAS is winning AI gold medals.</strong> 🏆🤖</p>
+<hr>
+<h2 id="-page-12-the-resource-smackdown-">📜 Page 12: The Resource Smackdown! 💥<a href="#-page-12-the-resource-smackdown-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> <strong>Less AI compute, better results.</strong></p>
+<p>💡 <strong>It’s like a tiny electric car beating a Ferrari in a race.</strong> 🏎️⚡</p>
+<hr>
+<h2 id="-page-13-adaptability--survival-">📜 Page 13: Adaptability = Survival 🦾<a href="#-page-13-adaptability--survival-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> MaAS <strong>learns new tasks without extra training.</strong></p>
+<p>💡 <strong>It’s like hiring an employee who learns everything on the job.</strong> 💼😂</p>
+<hr>
+<h2 id="-page-14-the-future-of-multi-agent-ai-">📜 Page 14: The Future of Multi-Agent AI 🌍<a href="#-page-14-the-future-of-multi-agent-ai-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> AI <strong>teamwork = more power, less cost, and better performance.</strong></p>
+<p>🚀 <strong>AI just got a LOT more efficient.</strong></p>
+<hr>
+<h2 id="-page-15-is-maas-the-next-big-thing">📜 Page 15: Is MaAS the Next Big Thing?<a href="#-page-15-is-maas-the-next-big-thing" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> <strong>Probably.</strong></p>
+<p>💡 <strong>AI is learning to work smart, not hard.</strong> 💡</p>
+<hr>
+<h2 id="-page-16-any-downsides-">📜 Page 16: Any Downsides? 🤔<a href="#-page-16-any-downsides-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> Not many, but still a few.</p>
+<p>❌ <strong>Still experimental</strong>—needs <strong>more real-world testing</strong>.<br>
+❌ <strong>Some AI tasks still require tweaking</strong>.<br>
+✅ <strong>But it’s already outperforming everything else.</strong></p>
+<hr>
+<h2 id="-page-17-the-final-verdict-">📜 Page 17: The Final Verdict 🏆<a href="#-page-17-the-final-verdict-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>TL;DR:</strong> AI <strong>teamwork is the future.</strong></p>
+<p>💡 <strong>If AI were The Avengers, MaAS would be their Nick Fury.</strong> 😎💥</p>
+<hr>
+<p>📄 <strong>Read the full research paper here:</strong> <a href="https://arxiv.org/pdf/2502.04180">MaAS - Multi-Agent Architecture Search</a> 📑</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>🇫🇷 Macron Wants Europe to “Plug, Baby, Plug” into AI! 🤖🔌</title>
 			<link>https://raf-97414.github.io/en/posts/macron-ai-europe/</link>
 			<pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
