@@ -6,20 +6,55 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asteroid Mining</title>
+      <link>https://raf-97414.github.io/en/tags/asteroid-mining/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/asteroid-mining/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biotech</title>
+      <link>https://raf-97414.github.io/en/tags/biotech/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/biotech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food Safety</title>
+      <link>https://raf-97414.github.io/en/tags/food-safety/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/food-safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
       <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space Tech</title>
+      <link>https://raf-97414.github.io/en/tags/space-tech/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/space-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startups</title>
+      <link>https://raf-97414.github.io/en/tags/startups/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/startups/</guid>
       <description></description>
     </item>
     <item>
@@ -41,41 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/regulations/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/regulations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Startups</title>
-      <link>https://raf-97414.github.io/en/tags/startups/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/startups/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Policy</title>
-      <link>https://raf-97414.github.io/en/tags/tech-policy/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/tech-policy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Funny</title>
-      <link>https://raf-97414.github.io/en/tags/funny/</link>
-      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/funny/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LLMs</title>
-      <link>https://raf-97414.github.io/en/tags/llms/</link>
-      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/llms/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Multi-Agent Systems</title>
-      <link>https://raf-97414.github.io/en/tags/multi-agent-systems/</link>
-      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/multi-agent-systems/</guid>
       <description></description>
     </item>
   </channel>
