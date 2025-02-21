@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reasoning Agents</title>
+      <link>https://raf-97414.github.io/en/tags/reasoning-agents/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/reasoning-agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://raf-97414.github.io/en/tags/tech/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech/</guid>
       <description></description>
     </item>
     <item>
@@ -37,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>Machine Learning</title>
-      <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Space Tech</title>
       <link>https://raf-97414.github.io/en/tags/space-tech/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
@@ -62,20 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/tech-trends/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/tech-trends/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Europe</title>
-      <link>https://raf-97414.github.io/en/tags/europe/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/europe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Regulations</title>
-      <link>https://raf-97414.github.io/en/tags/regulations/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/regulations/</guid>
       <description></description>
     </item>
   </channel>

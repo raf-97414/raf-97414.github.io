@@ -6,8 +6,15 @@
     <description>Recent content in Machine Learning on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🧠 Grok 3 Beta — The Age of Reasoning Agents is Here!</title>
+      <link>https://raf-97414.github.io/en/posts/grok3/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/posts/grok3/</guid>
+      <description>&lt;h1 id=&#34;-grok-3-beta--the-age-of-reasoning-agents-is-here&#34;&gt;🚀 Grok 3 Beta — The Age of Reasoning Agents is Here!&lt;a href=&#34;#-grok-3-beta--the-age-of-reasoning-agents-is-here&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;AI is getting &lt;strong&gt;brainier&lt;/strong&gt;, and xAI’s latest model, &lt;strong&gt;Grok 3&lt;/strong&gt;, is proof. It’s &lt;strong&gt;faster, smarter, and now actually &lt;em&gt;thinks&lt;/em&gt; before answering&lt;/strong&gt;. Yes, that’s right—Grok 3 doesn’t just spit out responses; it &lt;strong&gt;backtracks, explores different solutions, and corrects itself in real time.&lt;/strong&gt; 🤯💡&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🦠 Spore.Bio Raises $23M to Speed Up Microbiology Testing with AI</title>
       <link>https://raf-97414.github.io/en/posts/spore-bio/</link>
@@ -70,13 +77,6 @@
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/posts/appendix_for_paper_cuts2/</guid>
       <description>&lt;h2 id=&#34;-appendix-a-neural-networks-101&#34;&gt;🤖 Appendix A: Neural Networks 101&lt;a href=&#34;#-appendix-a-neural-networks-101&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;whats-a-neural-network&#34;&gt;&lt;strong&gt;What’s a Neural Network?&lt;/strong&gt;&lt;a href=&#34;#whats-a-neural-network&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;A neural network is like a group of friends 👫 working together. Each friend (a &lt;strong&gt;neuron&lt;/strong&gt;) takes some inputs (e.g., gossip) and decides what’s important before passing it along. 📤&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PaperCuts 2 : Simplified Explanation of Paper Discovering Physical Concepts With Neural Networks 🤓✨</title>
-      <link>https://raf-97414.github.io/en/posts/papercuts2/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/posts/papercuts2/</guid>
-      <description>&lt;h2 id=&#34;1-introduction-ai--physics--best-friends-forever-&#34;&gt;&lt;strong&gt;1. Introduction: AI + Physics = Best Friends Forever?&lt;/strong&gt; 🤝✨&lt;a href=&#34;#1-introduction-ai--physics--best-friends-forever-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Physics has been built like a series of Jenga towers—stacking new ideas on top of old ones. 🧱 But what if we missed some simple, elegant rules at the bottom? 🤔&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

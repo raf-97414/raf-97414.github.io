@@ -5,8 +5,79 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🧠 Grok 3 Beta — The Age of Reasoning Agents is Here!</title>
+			<link>https://raf-97414.github.io/en/posts/grok3/</link>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/grok3/</guid>
+			<description><![CDATA[xAI just dropped Grok 3, a next-gen AI model with insane reasoning, a massive 1M-token context window, and a new agent called DeepSearch. Welcome to the AI era where thinking is optional—unless you press the Think button. 🤖💡]]></description>
+			<content type="html"><![CDATA[<h1 id="-grok-3-beta--the-age-of-reasoning-agents-is-here">🚀 Grok 3 Beta — The Age of Reasoning Agents is Here!<a href="#-grok-3-beta--the-age-of-reasoning-agents-is-here" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>AI is getting <strong>brainier</strong>, and xAI’s latest model, <strong>Grok 3</strong>, is proof. It’s <strong>faster, smarter, and now actually <em>thinks</em> before answering</strong>. Yes, that’s right—Grok 3 doesn’t just spit out responses; it <strong>backtracks, explores different solutions, and corrects itself in real time.</strong> 🤯💡</p>
+<h2 id="-whats-new-in-grok-3">🤖 What’s New in Grok 3?<a href="#-whats-new-in-grok-3" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✔️ <strong>Supercharged Reasoning</strong> – Thanks to <strong>reinforcement learning (RL) at scale</strong>, Grok 3 can <strong>think for seconds to minutes</strong> before answering complex questions. It literally <strong>pauses to reason</strong>—unlike most of us. 🤔⏳<br>
+✔️ <strong>Insane Performance</strong> – Achieved <strong>93.3%</strong> on the 2025 <strong>American Invitational Mathematics Exam (AIME)</strong> and <strong>79.4% on LiveCodeBench</strong> for coding. <strong>Mathletes and devs, rejoice!</strong> 🔢👨‍💻<br>
+✔️ <strong>1 Million Token Context Window</strong> – This thing can remember <strong>more text than your entire high school essay folder.</strong>  📚🎓<br>
+✔️ <strong>&ldquo;Think&rdquo; Mode &amp; DeepSearch Agent</strong> – A <strong>new AI tool</strong> that <strong>cross-checks facts, refines answers, and hunts for truth across the web.</strong> Perfect for deep research, life advice, or proving your friends wrong. 🔍📖<br>
+✔️ <strong>Outperforms Chatbots Everywhere</strong> – Under the codename <strong>Chocolate</strong>, an early version of Grok 3 <strong>dominated the LMArena Chatbot Arena leaderboard</strong>. 🍫🏆</p>
+<hr>
+<h2 id="-meet-the-grok-3-family">🏆 Meet the Grok 3 Family<a href="#-meet-the-grok-3-family" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>💡 <strong>Grok 3 (Think Mode)</strong> – Press the <strong>Think button</strong>, and it actually <strong>works through problems step-by-step</strong>, verifying its own logic like a human. (Unlike most chatbots that make things up.) 🤯<br>
+💰 <strong>Grok 3 Mini</strong> – <strong>A budget-friendly, cost-efficient AI</strong>, perfect for math &amp; STEM tasks that don’t need deep world knowledge.</p>
+<hr>
+<h2 id="-deepsearch-your-ai-detective">⚡ DeepSearch: Your AI Detective<a href="#-deepsearch-your-ai-detective" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>🔎 <strong>DeepSearch is here!</strong> This <strong>next-gen AI agent</strong> doesn’t just <strong>Google things</strong>—it <strong>cross-examines sources, detects conflicting info, and synthesizes key insights.</strong> It’s like <strong>Wikipedia, but actually reliable.</strong> 🕵️‍♂️💡</p>
+<p>🎯 <strong>What DeepSearch Can Do:</strong><br>
+✔️ <strong>Fact-check news &amp; research</strong> 📜<br>
+✔️ <strong>Dig into complex topics &amp; conflicting opinions</strong> 🤯<br>
+✔️ <strong>Summarize real-time info faster than you can scroll</strong> ⚡</p>
+<hr>
+<h2 id="-how-to-get-grok-3">🔥 How to Get Grok 3<a href="#-how-to-get-grok-3" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>🚀 <strong>Grok 3 is rolling out NOW</strong> to <strong>𝕏 Premium &amp; Premium+ users on 𝕏 and Grok.com.</strong><br>
+💎 <strong>Premium+ users get full access to Think Mode &amp; DeepSearch.</strong><br>
+💡 <strong>API access is coming soon</strong> for developers &amp; enterprises.</p>
+<hr>
+<h2 id="-whats-next">🏗️ What’s Next?<a href="#-whats-next" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>📈 <strong>Bigger &amp; smarter models</strong> – Grok 3 was trained on <strong>200,000 GPUs</strong>, but xAI isn’t stopping there. More upgrades coming. 🏋️‍♂️<br>
+🔬 <strong>Advanced reasoning agents</strong> – Think <strong>AI that can plan, problem-solve, and execute complex tasks autonomously.</strong> 🤖<br>
+🔎 <strong>More DeepSearch capabilities</strong> – Imagine <strong>an AI agent that does all your research while you sip coffee.</strong> ☕</p>
+<hr>
+<h2 id="-final-thought">💭 Final Thought<a href="#-final-thought" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>xAI just <strong>leveled up AI reasoning</strong>—and <strong>thinking is now optional.</strong> Ready to see how deep the AI rabbit hole goes?</p>
+<p><strong>🚀 Grok 3: The AI That Actually Thinks.</strong> 🤖💡</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🚀 Karman&#43; Raises $20M to Mine Asteroids (Yes, Really)</title>
