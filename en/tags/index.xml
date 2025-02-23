@@ -6,19 +6,33 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>https://raf-97414.github.io/en/tags/computer-vision/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explainability</title>
+      <link>https://raf-97414.github.io/en/tags/explainability/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/explainability/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
       <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/machine-learning/</guid>
       <description></description>
     </item>
@@ -62,20 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/space-tech/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/space-tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Startups</title>
-      <link>https://raf-97414.github.io/en/tags/startups/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/startups/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Trends</title>
-      <link>https://raf-97414.github.io/en/tags/tech-trends/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/tech-trends/</guid>
       <description></description>
     </item>
   </channel>

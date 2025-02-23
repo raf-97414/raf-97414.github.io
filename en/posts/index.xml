@@ -5,8 +5,201 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🤖 AI That Explains Itself? Meet PJ-X! 🧐</title>
+			<link>https://raf-97414.github.io/en/posts/ai-explains-itself-pj-x/</link>
+			<pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/ai-explains-itself-pj-x/</guid>
+			<description><![CDATA[Deep learning models make decisions, but can they explain *why*? Enter PJ-X, an AI that justifies its choices in words and points to visual evidence. Let's break this down (with jokes). 🤖💬]]></description>
+			<content type="html"><![CDATA[<h1 id="-ai-that-explains-itself-meet-pj-x-">📢 AI That Explains Itself? Meet PJ-X! 🧐<a href="#-ai-that-explains-itself-meet-pj-x-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>You know how people make bad decisions and then <em>try</em> to explain them? AI does that too. Except this time, it’s actually useful.</p>
+<h3 id="-whats-pj-x">🤖 What’s PJ-X?<a href="#-whats-pj-x" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p><strong>Pointing and Justification (PJ-X)</strong> is an AI model that:<br>
+✅ Makes decisions <strong>(like answering a question or identifying an action)</strong><br>
+✅ <strong>Explains its decision in plain English</strong> (because &ldquo;🤷‍♂️&rdquo; isn&rsquo;t acceptable)<br>
+✅ <strong>Points to visual evidence</strong> in an image (like a lawyer proving their case)</p>
+<h2 id="-why-do-we-need-this">🧐 Why Do We Need This?<a href="#-why-do-we-need-this" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>AI is great at making <strong>mysterious black-box</strong> decisions. But when a model tells you <em>“That’s a baseball,”</em> it should also tell you <strong>why</strong> (e.g., &ldquo;Because that guy is swinging a bat.&rdquo;) Instead of just guessing, PJ-X:<br>
+🔍 <strong>Thinks</strong> before it speaks<br>
+🖼️ <strong>Highlights the most relevant parts of the image</strong><br>
+💬 <strong>Justifies its answers with text</strong></p>
+<hr>
+<h2 id="-breakdown-of-the-paper-with-jokes">📜 <strong>Breakdown of the Paper (With Jokes)</strong><a href="#-breakdown-of-the-paper-with-jokes" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="-page-1-introduction-">📄 Page 1: Introduction 🤔<a href="#-page-1-introduction-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>AI models are <strong>smart but mysterious</strong> – they make decisions, but we have no idea <strong>why</strong>. Enter <strong>PJ-X</strong>, which can <em>justify</em> decisions using text and <strong>literally point to evidence</strong> in an image. Basically, it&rsquo;s AI&rsquo;s way of saying, <em>&ldquo;See? I&rsquo;m not just making this up!&rdquo;</em> 🎯</p>
+<h3 id="-page-2-why-do-we-care-">📄 Page 2: Why Do We Care? 🚀<a href="#-page-2-why-do-we-care-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Humans explain stuff all the time (<em>sometimes even when they’re wrong</em>). AI should too! We want models that can:<br>
+🔹 Answer questions 🔹 Justify their answers 🔹 Highlight <strong>important image parts</strong></p>
+<h3 id="-page-3-how-does-pj-x-work-">📄 Page 3: How Does PJ-X Work? 🔬<a href="#-page-3-how-does-pj-x-work-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>PJ-X is like <strong>Sherlock Holmes for AI</strong>:<br>
+🕵️ Step 1: Looks at an image 🔍<br>
+🕵️ Step 2: Answers a question about it ❓<br>
+🕵️ Step 3: Justifies <em>why</em> that answer makes sense 💡<br>
+🕵️ Step 4: Points to the relevant part of the image 🎯</p>
+<h3 id="-page-4-teaching-ai-to-justify-itself-">📄 Page 4: Teaching AI to Justify Itself 🤓<a href="#-page-4-teaching-ai-to-justify-itself-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Since AI can’t learn explanations by magic 🪄, researchers built <strong>two datasets</strong>:<br>
+📸 <strong>VQA-X</strong> – AI answers <strong>questions about images</strong> with justifications.<br>
+🏃 <strong>ACT-X</strong> – AI <strong>recognizes human activities</strong> and explains its classification.</p>
+<h3 id="-page-5-the-science-behind-pj-x-">📄 Page 5: The Science Behind PJ-X 🔥<a href="#-page-5-the-science-behind-pj-x-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>PJ-X uses <strong>deep learning magic</strong> ✨ to create two types of explanations:<br>
+1️⃣ <strong>Text-based</strong> – &ldquo;This is soccer because the player is kicking a ball.&rdquo;<br>
+2️⃣ <strong>Visual-based</strong> – [<em>AI highlights the soccer ball in the image</em>] 🎯</p>
+<h3 id="-page-6-ai-vs-humans-showdown-">📄 Page 6: AI vs. Humans Showdown 👊<a href="#-page-6-ai-vs-humans-showdown-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>👀 AI’s explanations were almost as good as human ones!<br>
+✅ PJ-X matched human <strong>attention patterns</strong> (it focused on the right stuff!)<br>
+✅ It even <strong>helped detect AI mistakes</strong> (like when it confused skiing for snowboarding).</p>
+<h3 id="-page-7-challenges-">📄 Page 7: Challenges 🚧<a href="#-page-7-challenges-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>❌ AI sometimes gives <strong>generic</strong> explanations (like “It’s an animal” instead of “It has fur and four legs”).<br>
+❌ AI struggles with <strong>abstract ideas</strong> (<em>like sarcasm</em>).<br>
+❌ AI still <strong>makes dumb mistakes</strong> (just like us).</p>
+<h3 id="-page-8-vqa-x-dataset-">📄 Page 8: VQA-X Dataset 📸<a href="#-page-8-vqa-x-dataset-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>A dataset of <strong>images with questions, answers, and explanations</strong> so AI can learn <em>why things are what they are</em>. Example:<br>
+<strong>Q:</strong> What is the person doing? <strong>A:</strong> Playing basketball.<br>
+<strong>Justification:</strong> &ldquo;Because they are holding a basketball and jumping.&rdquo;</p>
+<h3 id="-page-9-act-x-dataset-">📄 Page 9: ACT-X Dataset 🏃‍♂️<a href="#-page-9-act-x-dataset-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>For <strong>human activities</strong> – AI learns that &ldquo;jumping rope&rdquo; means <strong>someone is literally holding a rope and jumping</strong>.</p>
+<h3 id="-page-10-the-pointing--justification-model-">📄 Page 10: The Pointing &amp; Justification Model 🧐<a href="#-page-10-the-pointing--justification-model-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>PJ-X uses <strong>two attention mechanisms</strong>:<br>
+🔹 One for answering the question<br>
+🔹 One for justifying the answer</p>
+<h3 id="-page-11-visual-question-answering-mode-">📄 Page 11: Visual Question Answering Mode 🎥<a href="#-page-11-visual-question-answering-mode-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p><strong>PJ-X looks at an image, answers a question, and generates an explanation.</strong><br>
+📢 Instead of <em>guessing</em>, it actually <strong>thinks through its answer</strong> like a proper detective.</p>
+<h3 id="-page-12-explaining-human-activities-">📄 Page 12: Explaining Human Activities 🏋️‍♀️<a href="#-page-12-explaining-human-activities-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Recognizing <strong>human actions</strong> is hard (because people do weird stuff). PJ-X figures it out by <strong>focusing on the right details</strong> (like <strong>yoga poses, sports, or dancing</strong>).</p>
+<h3 id="-page-13-ai-explaining-ai-mistakes-">📄 Page 13: AI Explaining AI Mistakes 😆<a href="#-page-13-ai-explaining-ai-mistakes-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>PJ-X is <strong>so good at explaining</strong> that it can even justify <strong>wrong answers</strong>! Example:<br>
+❌ AI says: &ldquo;He is playing tennis.&rdquo;<br>
+🤦 Explanation: &ldquo;Because he is holding a racket.&rdquo;<br>
+😆 Reality: He was <strong>stretching</strong>.</p>
+<h3 id="-page-14-testing-pj-x-">📄 Page 14: Testing PJ-X 🏆<a href="#-page-14-testing-pj-x-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>📊 Researchers <strong>compared PJ-X to other AI models</strong> and:<br>
+✅ PJ-X had <strong>more accurate justifications</strong> 📢<br>
+✅ It <strong>pointed to the right evidence</strong> 🎯<br>
+✅ It <strong>made fewer dumb mistakes</strong> 🤓</p>
+<h3 id="-page-15-ai-vs-humans--who-explains-better--vs-">📄 Page 15: AI vs. Humans – Who Explains Better? 🤖 vs 🧠<a href="#-page-15-ai-vs-humans--who-explains-better--vs-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Humans still explain things <strong>a bit better</strong>, but AI is <strong>catching up fast</strong>! PJ-X sometimes <strong>outperforms humans in focusing on key evidence</strong>.</p>
+<h3 id="-page-16-practical-uses-of-pj-x-">📄 Page 16: Practical Uses of PJ-X 🏅<a href="#-page-16-practical-uses-of-pj-x-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>📢 <strong>Where can we use this?</strong><br>
+✅ <strong>Medical AI</strong> – Doctors can see <em>why</em> AI made a diagnosis.<br>
+✅ <strong>Self-Driving Cars</strong> – AI can explain <em>why</em> it stopped.<br>
+✅ <strong>Security Systems</strong> – AI can justify <em>why</em> someone looks suspicious.</p>
+<h3 id="-page-17-the-future-of-explainable-ai-">📄 Page 17: The Future of Explainable AI 🔮<a href="#-page-17-the-future-of-explainable-ai-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>👀 AI will soon:<br>
+✅ Give <strong>more detailed explanations</strong><br>
+✅ Work <strong>better with abstract concepts</strong><br>
+✅ Be able to say <em>&ldquo;Oops, my bad&rdquo;</em> when it&rsquo;s wrong 😆</p>
+<hr>
+<h2 id="-why-this-matters">🔥 <strong>Why This Matters</strong><a href="#-why-this-matters" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>PJ-X is <strong>a big step toward AI transparency</strong>:<br>
+✔️ Helps <strong>users trust AI</strong> 🤝<br>
+✔️ Useful for <strong>medical diagnoses, security, and self-driving cars</strong> 🚗💡<br>
+✔️ Can help <strong>debug AI errors</strong> before they cause real-world problems 🚨</p>
+<p>📢 <strong>Bottom line:</strong> AI that explains itself = AI we can actually use.<br>
+🚀 <strong>PJ-X: Because AI should do more than just guess!</strong></p>
+<hr>
+<h3 id="-whats-next">🤔 <strong>What’s Next?</strong><a href="#-whats-next" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>🔜 Smarter AI explanations 💬<br>
+🔜 AI that debates like a lawyer 🧑‍⚖️<br>
+🔜 AI that apologizes when it&rsquo;s wrong (we wish) 😂</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🧠 Grok 3 Beta — The Age of Reasoning Agents is Here!</title>
