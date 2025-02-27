@@ -369,6 +369,186 @@
 		</item>
 		
 		<item>
+			<title>🤖 Claude AI: Everything You Need to Know (Without the Boring Stuff)</title>
+			<link>https://raf-97414.github.io/en/posts/claude/</link>
+			<pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/claude/</guid>
+			<description><![CDATA[Anthropic's AI, Claude, is getting smarter, faster, and… more expensive? Here's a breakdown of all the Claude models, pricing, and why it still can't browse the internet. 🚀]]></description>
+			<content type="html"><![CDATA[<h1 id="-claude-ai-everything-you-need-to-know-without-the-boring-stuff">🤖 Claude AI: Everything You Need to Know (Without the Boring Stuff)<a href="#-claude-ai-everything-you-need-to-know-without-the-boring-stuff" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p><strong>Claude AI is like the poet of AI models</strong>—literally. Anthropic names them after literary forms: <strong>Haiku, Sonnet, and Opus.</strong> ✍️📖</p>
+<p>But before you ask <strong>&ldquo;Which Claude is best for me?&rdquo;</strong> let’s break it down <strong>(with jokes).</strong> 🚀😂</p>
+<hr>
+<h2 id="-meet-the-claude-family">📚 Meet the Claude Family<a href="#-meet-the-claude-family" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Claude models come in <strong>three poetic flavors</strong>:</p>
+<table>
+  <thead>
+      <tr>
+          <th>📜 Claude Model</th>
+          <th>⚡ Speed</th>
+          <th>🧠 Intelligence</th>
+          <th>💰 Cost</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Claude 3.5 Haiku</strong></td>
+          <td>🚀 Fastest</td>
+          <td>😬 Struggles with complex stuff</td>
+          <td>Cheap &amp; cheerful 💸</td>
+      </tr>
+      <tr>
+          <td><strong>Claude 3.7 Sonnet</strong></td>
+          <td>⚖️ Balanced</td>
+          <td>🏆 Smartest model so far</td>
+          <td>Mid-range 💰</td>
+      </tr>
+      <tr>
+          <td><strong>Claude 3 Opus</strong></td>
+          <td>🐢 Slowest</td>
+          <td>📉 Least capable (for now)</td>
+          <td>Most expensive 💵</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Fun fact:</strong> <strong>Claude 3 Opus</strong>, despite being the biggest and most expensive, <strong>is currently the weakest</strong>. (But don&rsquo;t worry, it’ll get an upgrade soon. Probably. 🤷‍♂️)</p>
+<hr>
+<h2 id="-claude-37-sonnet-the-thinking-machine">🧠 Claude 3.7 Sonnet: The Thinking Machine<a href="#-claude-37-sonnet-the-thinking-machine" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Claude 3.7 Sonnet is <strong>Anthropic’s first AI model with reasoning abilities.</strong> 🧠⚡</p>
+<p>🎭 <strong>Two Modes:</strong><br>
+1️⃣ <strong>Fast Mode</strong> – Instant answers. (Good for impatient humans.)<br>
+2️⃣ <strong>Think Mode</strong> – Takes <strong>seconds to minutes</strong> to process. (Like AI doing deep meditation 🧘‍♂️)</p>
+<p>During Think Mode, Claude <strong>breaks down complex prompts, checks its answers, and makes sure it doesn’t embarrass itself.</strong></p>
+<hr>
+<h2 id="-context-window-how-much-can-claude-remember">⏳ Context Window: How Much Can Claude Remember?<a href="#-context-window-how-much-can-claude-remember" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>All Claude models have a <strong>200,000-token memory</strong> (about 150,000 words or a <strong>600-page novel</strong> 📖).</p>
+<p>For <strong>Claude Enterprise customers</strong>, that jumps to <strong>500,000 tokens</strong> (about <strong>three Harry Potter books worth of memory</strong>). ⚡📚</p>
+<hr>
+<h2 id="-what-can-claude-do">🤖 What Can Claude Do?<a href="#-what-can-claude-do" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>Multistep instructions</strong> – “Claude, explain quantum physics like I’m five.”<br>
+✅ <strong>Use tools</strong> – Stock tickers, data trackers, JSON formatting 📊<br>
+✅ <strong>Analyze text, but not images</strong> – (Except Claude 3 Opus &amp; Sonnet, which <em>can</em> analyze images)<br>
+❌ <strong>No internet browsing</strong> – Still living in 2023 📵</p>
+<hr>
+<h2 id="-how-much-does-claude-cost">💰 How Much Does Claude Cost?<a href="#-how-much-does-claude-cost" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Claude’s API pricing is <strong>like a Starbucks menu</strong>, ranging from cheap to <strong>&ldquo;Did I just spend $75?&rdquo;</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>☕ Model</th>
+          <th>💰 Input Cost (Per Million Tokens)</th>
+          <th>💰 Output Cost (Per Million Tokens)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Claude 3.5 Haiku</strong></td>
+          <td>$0.80</td>
+          <td>$4.00</td>
+      </tr>
+      <tr>
+          <td><strong>Claude 3.7 Sonnet</strong></td>
+          <td>$3.00</td>
+          <td>$15.00</td>
+      </tr>
+      <tr>
+          <td><strong>Claude 3 Opus</strong></td>
+          <td>$15.00</td>
+          <td>$75.00</td>
+      </tr>
+  </tbody>
+</table>
+<p><em>&quot;$75 per million output tokens?! For that price, it better write poetry that wins a Pulitzer!&quot;</em> 😅</p>
+<hr>
+<h2 id="-claude-plans-from-free-to-enterprise-">🏢 Claude Plans: From Free to Enterprise $$$<a href="#-claude-plans-from-free-to-enterprise-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Want to use Claude <strong>without breaking the bank</strong>? Here are your options:</p>
+<table>
+  <thead>
+      <tr>
+          <th>💼 Plan</th>
+          <th>🚀 Features</th>
+          <th>💰 Cost</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Claude Free</strong></td>
+          <td>Basic access with limits</td>
+          <td>$0</td>
+      </tr>
+      <tr>
+          <td><strong>Claude Pro</strong></td>
+          <td>5x higher limits, priority access</td>
+          <td>$20/month</td>
+      </tr>
+      <tr>
+          <td><strong>Claude Team</strong></td>
+          <td>For small businesses, CRM &amp; billing tools</td>
+          <td>$30/user/month</td>
+      </tr>
+      <tr>
+          <td><strong>Claude Enterprise</strong></td>
+          <td>Custom AI, 500K-token memory, GitHub integration</td>
+          <td>Expensive™</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Perks for Pro &amp; Team users:</strong><br>
+🔹 <strong>Projects:</strong> Claude remembers your <strong>style guides, transcripts, and data.</strong><br>
+🔹 <strong>Artifacts:</strong> Create &amp; edit content (like AI-generated code or documents).<br>
+🔹 <strong>Citations Toggle:</strong> Helps fact-check AI claims (because, yes, <strong>Claude sometimes lies</strong>).</p>
+<hr>
+<h2 id="-the-fine-print-risks-of-using-claude-ai">⚠️ The <em>Fine Print</em>: Risks of Using Claude AI<a href="#-the-fine-print-risks-of-using-claude-ai" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>🚨 <strong>Claude sometimes hallucinates.</strong> (Not in a psychedelic way, but in a <em>&ldquo;I totally made this up&rdquo;</em> way. 🤦‍♂️)<br>
+🚨 <strong>Trained on public web data.</strong> Meaning <strong>copyrighted info <em>might</em> be in the mix.</strong> 🎭<br>
+🚨 <strong>No legal protection for everyone.</strong> (Only <strong>some customers</strong> get lawsuit protection if a copyright claim happens.)</p>
+<hr>
+<h2 id="-final-thoughts-is-claude-worth-it">🤔 Final Thoughts: Is Claude Worth It?<a href="#-final-thoughts-is-claude-worth-it" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>💡 <strong>Claude 3.7 Sonnet is the smartest &amp; fastest model right now.</strong><br>
+💰 <strong>Claude Pro gives the best value at $20/month.</strong><br>
+🛠️ <strong>If you want Claude to work for your business, Enterprise has the best perks (for a price).</strong></p>
+<p>📢 <strong>Bottom line?</strong> If you need a <strong>fast, business-ready AI</strong> that can <strong>actually &ldquo;think&rdquo;</strong>, <strong>Claude is a solid choice.</strong></p>
+<hr>
+]]></content>
+		</item>
+		
+		<item>
 			<title>🤖 Small Language Models: Why Bigger Isn’t Always Better</title>
 			<link>https://raf-97414.github.io/en/posts/small-language-models-ai-future/</link>
 			<pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
