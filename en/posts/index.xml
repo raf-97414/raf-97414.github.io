@@ -5,8 +5,125 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🤖 Machine Learning: The Cheat Sheet You Wish You Had! 📚🔥</title>
+			<link>https://raf-97414.github.io/en/posts/things-to-know-about-machine-learning/</link>
+			<pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/things-to-know-about-machine-learning/</guid>
+			<description><![CDATA[Machine learning isn't just about fancy algorithms—it's about avoiding dumb mistakes! Here’s a fun, no-BS breakdown of the key lessons. 🚀]]></description>
+			<content type="html"><![CDATA[<h1 id="-machine-learning-the-cheat-sheet-you-wish-you-had-">🤖 Machine Learning: The Cheat Sheet You Wish You Had! 📚🔥<a href="#-machine-learning-the-cheat-sheet-you-wish-you-had-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>Machine learning is awesome, but <strong>it&rsquo;s also full of gotchas!</strong> 🚨<br>
+Pedro Domingos breaks it down in <em>A Few Useful Things to Know about Machine Learning</em>—but who has time for all those pages? <strong>We got you covered!</strong> Here’s the <strong>fun-sized, meme-ready version</strong> of the key lessons. 🎉</p>
+<hr>
+<h2 id="-1-learning--representation--evaluation--optimization">🧠 <strong>1. Learning = Representation + Evaluation + Optimization</strong><a href="#-1-learning--representation--evaluation--optimization" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>You need three things to make ML work:<br>
+✅ <strong>A way to represent the problem</strong> (think decision trees, neural networks, etc.) 🌳🔗<br>
+✅ <strong>A scoring system</strong> (accuracy, precision, recall… basically how you judge success) 📊<br>
+✅ <strong>An optimization method</strong> (fancy way of saying &ldquo;find the best model&rdquo;) 🚀</p>
+<hr>
+<h2 id="-2-generalization-is-everything">🎯 <strong>2. Generalization is Everything</strong><a href="#-2-generalization-is-everything" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Training well ≠ Performing well on new data. <strong>No one cares if you memorize the answers!</strong> 📚🔁</li>
+<li>Always <strong>test your model on fresh data</strong> or risk building a glorified parrot. 🦜</li>
+</ul>
+<hr>
+<h2 id="-3-more-data--better-algorithms">📉 <strong>3. More Data &gt; Better Algorithms</strong><a href="#-3-more-data--better-algorithms" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>A <strong>simple model with LOTS of data beats a fancy model with little data.</strong> 📊</li>
+<li>If your ML model sucks, <strong>try getting more data before diving into hyperparameter hell.</strong> 😵‍💫</li>
+</ul>
+<hr>
+<h2 id="-4-overfitting-the-ml-monster-under-your-bed">🕵️‍♂️ <strong>4. Overfitting: The ML Monster Under Your Bed</strong><a href="#-4-overfitting-the-ml-monster-under-your-bed" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>If your model is <strong>too good on training data</strong>, it’s probably just <em>cheating</em> on the test. 🚩</li>
+<li><strong>Solution?</strong> Regularization, cross-validation, and not trusting models that predict the future too well. 🔮</li>
+</ul>
+<hr>
+<h2 id="-5-simplicity--accuracy">🏆 <strong>5. Simplicity ≠ Accuracy</strong><a href="#-5-simplicity--accuracy" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Occam’s Razor says <strong>&ldquo;simpler is better&rdquo;</strong>—but in ML, this isn’t always true! ❌🔪</li>
+<li>Sometimes, complex ensembles (many models working together) <strong>crush simple models</strong>. 🏋️‍♂️</li>
+</ul>
+<hr>
+<h2 id="-6-features-matter-more-than-algorithms">🔢 <strong>6. Features Matter More Than Algorithms</strong><a href="#-6-features-matter-more-than-algorithms" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Garbage in, garbage out!</strong> Your model is only as smart as the data you give it. 🗑️➡️🤖</li>
+<li><strong>Feature engineering</strong> (crafting better inputs) beats endlessly tweaking hyperparameters.</li>
+</ul>
+<hr>
+<h2 id="-7-correlation--causation">🔮 <strong>7. Correlation ≠ Causation</strong><a href="#-7-correlation--causation" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Just because <strong>people who buy diapers also buy beer</strong>, doesn&rsquo;t mean babies drink beer. 🍺👶</li>
+<li><strong>ML finds patterns, not explanations.</strong> Use experiments if you want real cause-and-effect insights!</li>
+</ul>
+<hr>
+<h2 id="-8-try-many-models-not-just-one">🤹 <strong>8. Try Many Models, Not Just One!</strong><a href="#-8-try-many-models-not-just-one" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>One ML model is good, but <strong>an ensemble of models is god-tier.</strong> 🔥</li>
+<li>Bagging, boosting, and stacking <strong>help reduce errors and improve accuracy.</strong> 🏆</li>
+</ul>
+<hr>
+<h2 id="-9-the-curse-of-dimensionality-is-real">🎭 <strong>9. The Curse of Dimensionality is Real</strong><a href="#-9-the-curse-of-dimensionality-is-real" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Adding more features <strong>doesn&rsquo;t always help</strong>—sometimes it makes things worse! 🚨</li>
+<li><strong>High-dimensional data is a mess</strong>—use dimensionality reduction (PCA, t-SNE) wisely. 🎨</li>
+</ul>
+<hr>
+<h3 id="-final-thoughts">🚀 <strong>Final Thoughts</strong><a href="#-final-thoughts" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Machine learning isn’t magic—it&rsquo;s <strong>part art, part science, and mostly trial and error.</strong> 🎭🔬💥<br>
+If you remember anything, <strong>just know that more data, better features, and avoiding overfitting</strong> will save you from 90% of ML headaches. 💡</p>
+<hr>
+<p>🔗 <strong>Want to go full nerd mode?</strong> Read the original paper here: <a href="https://homes.cs.washington.edu/~pedrod/papers/domingos12a.pdf">Pedro Domingos&rsquo; ML Guide</a> 📖🤓</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🤖 Meta&#39;s New AI Chatbot App: Because We All Need Another Chat Buddy! 💬</title>
