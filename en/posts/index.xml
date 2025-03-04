@@ -55,6 +55,75 @@
 		</item>
 		
 		<item>
+			<title>🎮 Super Mario: The Newest AI Benchmark? 🍄🤖</title>
+			<link>https://raf-97414.github.io/en/posts/ai-mario-benchmark/</link>
+			<pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/ai-mario-benchmark/</guid>
+			<description><![CDATA[AI models are now being tested in Super Mario Bros.—because nothing says ‘cutting-edge tech’ like dodging Goombas! 😂]]></description>
+			<content type="html"><![CDATA[<h1 id="-super-mario-the-newest-ai-benchmark-">🎮 Super Mario: The Newest AI Benchmark? 🍄🤖<a href="#-super-mario-the-newest-ai-benchmark-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>Thought <strong>Pokémon</strong> was the ultimate AI test? <strong>Think again.</strong> Researchers are now using <strong>Super Mario Bros.</strong> to see if AI models can handle <strong>real-time platforming chaos.</strong> 😆</p>
+<hr>
+<h2 id="-whos-jumping-the-best">🕹️ Who&rsquo;s Jumping the Best?<a href="#-whos-jumping-the-best" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>🏆 <strong>Claude 3.7</strong>: The <strong>Mario speedrunner</strong> of AI. Best performance! 🚀</li>
+<li>🥈 <strong>Claude 3.5</strong>: A solid second place. Just a few Koopa missteps. 🐢</li>
+<li>🥉 <strong>Gemini 1.5 Pro &amp; GPT-4o</strong>: Looked at a Goomba and panicked. 🤦‍♂️💀</li>
+</ul>
+<hr>
+<h2 id="-how-ai-plays-mario">🎮 How AI Plays Mario<a href="#-how-ai-plays-mario" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Researchers at <strong>Hao AI Lab (UC San Diego)</strong> created <strong>GamingAgent</strong>, an AI-powered <strong>Mario controller</strong> that:<br>
+✅ Feeds AI <strong>screenshots &amp; basic commands</strong> 📸<br>
+✅ Lets AI <strong>write Python code</strong> to move Mario 🖥️<br>
+✅ Watches AI <strong>either succeed or get stomped by Bowser</strong> 😂</p>
+<hr>
+<h2 id="-strategy-vs-speed-ais-biggest-problem">🏆 Strategy vs. Speed: AI’s Biggest Problem<a href="#-strategy-vs-speed-ais-biggest-problem" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>&ldquo;Thinking AI&rdquo; models (like OpenAI’s o1)</strong> tried to <em>strategize</em> their jumps—but <strong>took too long</strong> and fell into pits. 🕳️😢</li>
+<li><strong>Non-reasoning models</strong>? Just <strong>jump &amp; pray</strong>—and somehow did better! 🤷‍♂️</li>
+</ul>
+<p>Turns out, in <strong>Mario speed matters more than intelligence.</strong> (Looking at you, Toad. 🍄🏃‍♂️💨)</p>
+<hr>
+<h2 id="-should-we-really-be-measuring-ai-with-games">🤔 Should We Really Be Measuring AI with Games?<a href="#-should-we-really-be-measuring-ai-with-games" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>🎲 AI <strong>has been tested on games for decades</strong>, but some researchers are skeptical:<br>
+🔹 <strong>Games ≠ real life.</strong> (Mario isn’t exactly paying rent or coding in Python for a living.)<br>
+🔹 <strong>Infinite training data</strong> makes AI look smarter than it really is.<br>
+🔹 <strong>Even AI experts are confused</strong> about what these benchmarks really mean. 😅</p>
+<p><strong>Andrej Karpathy</strong> (ex-OpenAI) summed it up best:<br>
+🗣️ <em>&ldquo;I don’t really know how good these models are right now.&rdquo;</em> 😵</p>
+<hr>
+<h2 id="-final-thoughts">🚀 Final Thoughts<a href="#-final-thoughts" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Mario is fun, but does <strong>stomping Goombas really prove AI intelligence?</strong> 🤔</p>
+<p>Either way, <strong>AI learning to play video games is hilarious,</strong> and we’re here for it. 🍄🎮</p>
+<hr>
+]]></content>
+		</item>
+		
+		<item>
 			<title>🤖 Machine Learning: The Cheat Sheet You Wish You Had! 📚🔥</title>
 			<link>https://raf-97414.github.io/en/posts/things-to-know-about-machine-learning/</link>
 			<pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
