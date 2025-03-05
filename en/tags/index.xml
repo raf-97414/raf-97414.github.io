@@ -6,13 +6,41 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analytics</title>
+      <link>https://raf-97414.github.io/en/tags/data-analytics/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fraud Prevention</title>
+      <link>https://raf-97414.github.io/en/tags/fraud-prevention/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/fraud-prevention/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantexa</title>
+      <link>https://raf-97414.github.io/en/tags/quantexa/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/quantexa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech News</title>
+      <link>https://raf-97414.github.io/en/tags/tech-news/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
       <description></description>
     </item>
     <item>
@@ -37,13 +65,6 @@
       <description></description>
     </item>
     <item>
-      <title>Tech News</title>
-      <link>https://raf-97414.github.io/en/tags/tech-news/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Apple</title>
       <link>https://raf-97414.github.io/en/tags/apple/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
@@ -55,27 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/delayed-upgrades/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/delayed-upgrades/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Siri</title>
-      <link>https://raf-97414.github.io/en/tags/siri/</link>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/siri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://raf-97414.github.io/en/tags/machine-learning/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pedro Domingos</title>
-      <link>https://raf-97414.github.io/en/tags/pedro-domingos/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/pedro-domingos/</guid>
       <description></description>
     </item>
   </channel>
