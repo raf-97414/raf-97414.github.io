@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgriTech</title>
+      <link>https://raf-97414.github.io/en/tags/agritech/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/agritech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://raf-97414.github.io/en/tags/ai/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coco-Bot</title>
+      <link>https://raf-97414.github.io/en/tags/coco-bot/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/coco-bot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coconut Harvesting</title>
+      <link>https://raf-97414.github.io/en/tags/coconut-harvesting/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/coconut-harvesting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kerala</title>
+      <link>https://raf-97414.github.io/en/tags/kerala/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/kerala/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI Dubbing</title>
       <link>https://raf-97414.github.io/en/tags/ai-dubbing/</link>
@@ -41,41 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/tech-news/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Analytics</title>
-      <link>https://raf-97414.github.io/en/tags/data-analytics/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/data-analytics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fraud Prevention</title>
-      <link>https://raf-97414.github.io/en/tags/fraud-prevention/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/fraud-prevention/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quantexa</title>
-      <link>https://raf-97414.github.io/en/tags/quantexa/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/quantexa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Benchmarks</title>
-      <link>https://raf-97414.github.io/en/tags/benchmarks/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/benchmarks/</guid>
       <description></description>
     </item>
   </channel>
