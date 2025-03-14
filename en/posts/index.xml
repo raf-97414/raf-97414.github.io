@@ -5,8 +5,80 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🗣️ Sesame Drops Its AI Voice Model – Because Talking to Robots is the Future! 🤖🎙️</title>
+			<link>https://raf-97414.github.io/en/posts/sesame/</link>
+			<pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/sesame/</guid>
+			<description><![CDATA[Sesame, the startup behind the viral AI assistant Maya, has open-sourced its voice model. But should we be worried about AI that talks *too* well? 👀]]></description>
+			<content type="html"><![CDATA[<h1 id="-sesame-drops-its-ai-voice-model--because-talking-to-robots-is-the-future-">🗣️ Sesame Drops Its AI Voice Model – Because Talking to Robots is the Future! 🤖🎙️<a href="#-sesame-drops-its-ai-voice-model--because-talking-to-robots-is-the-future-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>AI startup <strong>Sesame</strong> just open-sourced the <strong>voice model behind Maya</strong>, the <strong>creepily realistic</strong> virtual assistant that recently went viral. 🚀</p>
+<p>Their model, <strong>CSM-1B</strong>, is now available under an <strong>Apache 2.0 license</strong>, meaning you can use it however you like—<strong>even for commercial projects</strong>. 💰</p>
+<p>But wait… <strong>voice cloning in under a minute?</strong> What could possibly go wrong? 😬</p>
+<hr>
+<h2 id="-whats-so-special-about-csm-1b">🎤 What’s So Special About CSM-1B?<a href="#-whats-so-special-about-csm-1b" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✔️ <strong>1 billion parameters</strong> – Because bigger is (usually) better! 🤓<br>
+✔️ Uses <strong>Residual Vector Quantization (RVQ)</strong> for high-quality audio 🔊<br>
+✔️ <strong>Based on Meta’s Llama AI</strong> 🦙 + an <strong>audio decoder</strong> 🎛️<br>
+✔️ <strong>Can generate many different voices</strong>… just not perfectly yet! 🎙️</p>
+<p>Sesame warns: <em>“This model isn’t fine-tuned for specific voices.”</em><br>
+Translation: <strong>It can’t perfectly mimic your favorite celeb… yet.</strong> 👀🎭</p>
+<hr>
+<h2 id="-the-tiny-ethical-problem">🕵️‍♂️ The <em>Tiny</em> Ethical Problem…<a href="#-the-tiny-ethical-problem" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Here’s the catch: <strong>CSM-1B has no built-in safeguards.</strong><br>
+🤔 No restrictions.<br>
+🤔 No safety rails.<br>
+🤔 Just a friendly <em>“please don’t use this for evil”</em> reminder from Sesame.</p>
+<p>What could go wrong? 🤡</p>
+<hr>
+<h2 id="-cloning-voices-in-a-minute">🏴‍☠️ Cloning Voices in a Minute?!<a href="#-cloning-voices-in-a-minute" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>I tested it on <strong>Hugging Face</strong>, and within <strong>one minute</strong>, I cloned my own voice. 🎙️😱<br>
+From there, I could make it say <strong>anything</strong>—<strong>even controversial topics</strong> like elections and, well… <em>Russian propaganda.</em> 🏴</p>
+<p>Consumer Reports <strong>already warned</strong> that many AI voice cloning tools <strong>lack meaningful safeguards.</strong> But at least this one <em>kindly asks</em> you to behave. 😅</p>
+<hr>
+<h2 id="-the-company-behind-the-madness">🔥 The Company Behind the Madness<a href="#-the-company-behind-the-madness" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Sesame was <strong>co-founded by Oculus co-creator Brendan Iribe</strong> (because, of course, VR people would make this). 🎮🧠<br>
+The company has <strong>big investors</strong> like:<br>
+💰 <strong>Andreessen Horowitz</strong><br>
+💰 <strong>Spark Capital</strong><br>
+💰 <strong>Matrix Partners</strong></p>
+<p>And beyond voice AI, <strong>Sesame is also making AI glasses</strong> that they claim can be <strong>worn all day</strong>. Because why stop at <strong>creepy voices</strong> when you can have <strong>creepy AR too?</strong> 👓🤖</p>
+<hr>
+<h2 id="-final-thoughts--cool-or-creepy">🚀 Final Thoughts – Cool or Creepy?<a href="#-final-thoughts--cool-or-creepy" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>AI voice tech is advancing <strong>at lightning speed.</strong> 🚀<br>
+But when it’s <em>this</em> easy to <strong>clone voices and spread misinformation</strong>, should we be concerned? 🤨</p>
+<p>Sesame says <em>&ldquo;trust us.&rdquo;</em> But do we? 🤔</p>
+<hr>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🕵️‍♂️ Spy vs. AI: Anthropic CEO Says Hackers Want $100M Secrets! 🤖💰</title>

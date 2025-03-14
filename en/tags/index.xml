@@ -6,13 +6,41 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maya</title>
+      <link>https://raf-97414.github.io/en/tags/maya/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/maya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sesame</title>
+      <link>https://raf-97414.github.io/en/tags/sesame/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/sesame/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech News</title>
+      <link>https://raf-97414.github.io/en/tags/tech-news/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Voice Cloning</title>
+      <link>https://raf-97414.github.io/en/tags/voice-cloning/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/voice-cloning/</guid>
       <description></description>
     </item>
     <item>
@@ -48,34 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/agentic-ai/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/agentic-ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>https://raf-97414.github.io/en/tags/automation/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Manus</title>
-      <link>https://raf-97414.github.io/en/tags/manus/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/manus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Hype</title>
-      <link>https://raf-97414.github.io/en/tags/tech-hype/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/tech-hype/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deep Reinforcement Learning</title>
-      <link>https://raf-97414.github.io/en/tags/deep-reinforcement-learning/</link>
-      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/deep-reinforcement-learning/</guid>
       <description></description>
     </item>
   </channel>
