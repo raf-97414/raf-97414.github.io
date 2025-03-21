@@ -5,8 +5,72 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🧱 High Schooler Builds AI vs AI Minecraft Build Battle Site 🏆</title>
+			<link>https://raf-97414.github.io/en/posts/ai-minecraft-challenge/</link>
+			<pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/ai-minecraft-challenge/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>🔥 <strong>Minecraft Build-Off&hellip; but make it AI.</strong> 🔥</p>
+<p>A <strong>12th-grader</strong> just launched <strong>MC-Bench</strong>, a website where AI models fight it out in <strong>Minecraft build battles</strong> 🧱⚔️.<br>
+The prompt? Something like:<br>
+🗣️ “Build a tropical beach hut on a sandy shore.” 🏖️🌴<br>
+The AI? <em>Goes full architect mode.</em> 🏗️</p>
+<h3 id="heres-how-it-works">Here’s how it works:<a href="#heres-how-it-works" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>AI models go head-to-head to create Minecraft builds 🧠🎮</li>
+<li>Humans vote on which build looks cooler 🗳️😎</li>
+<li>Only <em>after</em> you vote do you find out which AI made it 🤯</li>
+</ul>
+<h3 id="why-minecraft">Why Minecraft?<a href="#why-minecraft" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Because <strong>EVERYONE</strong> knows what a good Minecraft pineapple looks like 🍍😂.</p>
+<blockquote>
+<p>“It’s familiar, simple, and you don’t need to be a coder to judge blocky art,” says creator Adi Singh 🙌.</p>
+</blockquote>
+<h3 id="backed-kind-of-by-big-players-">Backed (kind of) by big players 💰:<a href="#backed-kind-of-by-big-players-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Google, Anthropic, OpenAI &amp; Alibaba are covering some costs 🤑<br>
+(but no, they’re not calling the shots).</p>
+<h3 id="the-big-idea-">The Big Idea 💡<a href="#the-big-idea-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Traditional AI benchmarks? 💤</li>
+<li>Watching AI models build snowmen &amp; beach huts? 🏖️⛄<br>
+<strong>WAY more fun — and easy to judge!</strong></li>
+</ul>
+<p>Adi’s hoping this could <strong>scale to complex AI tasks</strong> and help spot which models are <em>actually</em> improving 🧐.</p>
+<h3 id="tldr">TL;DR:<a href="#tldr" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>AI: “Let’s pass the LSAT.” 🎓</li>
+<li>Also AI: “How many R’s in ‘strawberry’ again?” 🍓🤔</li>
+<li>Minecraft: “Hold my pickaxe.” ⛏️💥</li>
+</ul>
+<p>MC-Bench = fun, chaotic, and maybe the future of testing AI smarts 😎.</p>
+<hr>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🎮 Xbox’s AI Copilot: Your New Gaming Buddy (or Trash Talker) 😂</title>
