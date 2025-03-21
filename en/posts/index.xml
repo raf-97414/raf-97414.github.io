@@ -9,6 +9,60 @@
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>🕵️‍♂️ Claude Finally Gets Web Search (Yes, Really) 🌐🤖</title>
+			<link>https://raf-97414.github.io/en/posts/claude-web-search/</link>
+			<pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/claude-web-search/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p><strong>Claude just learned how to Google.</strong> 🥳🔍</p>
+<p>Anthropic’s chatbot, <strong>Claude</strong>, now has web search powers! 🌐✨<br>
+✅ Paid U.S. users can try it now<br>
+✅ Free users &amp; other countries coming soon 🌍<br>
+✅ Only works (for now) on <strong>Claude 3.7 Sonnet</strong> 🎵🤖</p>
+<h3 id="what-does-it-do-">What does it do? 🤔<a href="#what-does-it-do-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Claude will <strong>auto-search the web</strong> when it needs fresh info 📰</li>
+<li>Delivers <strong>answers + receipts</strong> (yep, it gives you source links!) 📎</li>
+<li>No more digging through tabs like a detective 🕵️‍♀️</li>
+</ul>
+<h3 id="but-">BUT… 👀<a href="#but-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li>Sometimes Claude <em>forgets</em> to search 🙄</li>
+<li>Sometimes Claude might still <strong>hallucinate</strong> or grab weird info 😬</li>
+<li>Reminder: ALL chatbots are still chaotic when it comes to accuracy 🤡</li>
+</ul>
+<blockquote>
+<p>Study says 60% of chatbot answers are 💩. Yikes.</p>
+</blockquote>
+<h3 id="why-now-">Why now? 🏃‍♂️<a href="#why-now-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Because ChatGPT, Gemini, and Mistral’s Le Chat already had it 😏<br>
+Anthropic: &ldquo;Claude is self-contained!&rdquo;<br>
+Also Anthropic: <em>adds web search quietly anyway</em> 🤫📡</p>
+<h3 id="tldr">TL;DR:<a href="#tldr" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Claude can now read the internet — just don’t trust it blindly 😅.<br>
+You might get breaking news, or a hot mess 🗞️🔥</p>
+<hr>
+]]></content>
+		</item>
+		
+		<item>
 			<title>🧱 High Schooler Builds AI vs AI Minecraft Build Battle Site 🏆</title>
 			<link>https://raf-97414.github.io/en/posts/ai-minecraft-challenge/</link>
 			<pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
