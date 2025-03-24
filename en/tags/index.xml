@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agentic AI</title>
+      <link>https://raf-97414.github.io/en/tags/agentic-ai/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/agentic-ai/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>AI</title>
       <link>https://raf-97414.github.io/en/tags/ai/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
@@ -30,17 +37,17 @@
       <description></description>
     </item>
     <item>
+      <title>MLLM</title>
+      <link>https://raf-97414.github.io/en/tags/mllm/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/mllm/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Open Source</title>
       <link>https://raf-97414.github.io/en/tags/open-source/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Productivity</title>
-      <link>https://raf-97414.github.io/en/tags/productivity/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/microservices/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/microservices/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Snapchat</title>
-      <link>https://raf-97414.github.io/en/tags/snapchat/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/snapchat/</guid>
       <description></description>
     </item>
   </channel>
