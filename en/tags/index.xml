@@ -6,20 +6,55 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://raf-97414.github.io/en/tags/ai/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anubis</title>
+      <link>https://raf-97414.github.io/en/tags/anubis/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/anubis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FOSS</title>
+      <link>https://raf-97414.github.io/en/tags/foss/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/foss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nepenthes</title>
+      <link>https://raf-97414.github.io/en/tags/nepenthes/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/nepenthes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenSource</title>
+      <link>https://raf-97414.github.io/en/tags/opensource/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebCrawlers</title>
+      <link>https://raf-97414.github.io/en/tags/webcrawlers/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/webcrawlers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agentic AI</title>
       <link>https://raf-97414.github.io/en/tags/agentic-ai/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/agentic-ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/ai/</guid>
       <description></description>
     </item>
     <item>
@@ -41,41 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/mllm/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/mllm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>https://raf-97414.github.io/en/tags/open-source/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Agents</title>
-      <link>https://raf-97414.github.io/en/tags/ai-agents/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/ai-agents/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dapr</title>
-      <link>https://raf-97414.github.io/en/tags/dapr/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/dapr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Generative Video</title>
-      <link>https://raf-97414.github.io/en/tags/generative-video/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/generative-video/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microservices</title>
-      <link>https://raf-97414.github.io/en/tags/microservices/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/microservices/</guid>
       <description></description>
     </item>
   </channel>

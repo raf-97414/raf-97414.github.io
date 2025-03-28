@@ -5,8 +5,126 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🪤 Devs vs. AI Crawlers: Anubis, Bleach Articles &amp; Vengeful Vibes</title>
+			<link>https://raf-97414.github.io/en/posts/anubis/</link>
+			<pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/anubis/</guid>
+			<description><![CDATA[FOSS devs are fighting back against aggressive AI web crawlers with clever, chaotic, and sometimes vengeful tricks.]]></description>
+			<content type="html"><![CDATA[<h3 id="-ai-bots-were-here-to-learn">🤖 AI bots: &ldquo;We’re here to learn!&rdquo;<a href="#-ai-bots-were-here-to-learn" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Open-source devs: <em>“You&rsquo;re about to learn PAIN.”</em> 🪓🔥</p>
+<p>Welcome to the <strong>AI Crawler Wars</strong>, where bots don’t respect boundaries (or robot.txt files), and developers have had enough.</p>
+<hr>
+<h3 id="-the-problem-crawlers-gone-wild">🚫 The Problem: Crawlers Gone Wild<a href="#-the-problem-crawlers-gone-wild" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>AI bots are crawling FOSS (Free and Open Source Software) sites like termites on a sugar cube.</p>
+<ul>
+<li><strong>Ignore robot.txt</strong> 🤥</li>
+<li><strong>Pretend to be human</strong> 👨</li>
+<li><strong>Hit servers like a DDoS hurricane</strong> 🌪️</li>
+<li><strong>Click every. single. link.</strong> over and over and over&hellip; 🤯</li>
+</ul>
+<p>Xe Iaso described AmazonBot hammering their Git server so hard it caused outages. And it lied while doing it. Rude.</p>
+<blockquote>
+<p>&ldquo;They will scrape your site until it falls over, then scrape it some more.&rdquo; — Xe, crying into terminal logs 🧵</p>
+</blockquote>
+<hr>
+<h3 id="-enter-anubis-aka-internet-gatekeeper-supreme">🐕 Enter: <strong>Anubis</strong> (aka Internet Gatekeeper Supreme)<a href="#-enter-anubis-aka-internet-gatekeeper-supreme" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Xe built a tool called <strong>Anubis</strong> — named after the Egyptian god who weighs your soul.</p>
+<ul>
+<li>Human? ✅ You pass the challenge, see a cute anime Anubis pic 🐶</li>
+<li>Bot? ❌ Denied. Your soul’s too heavy, get wrecked 👻</li>
+</ul>
+<p>Since March 19:</p>
+<ul>
+<li>⭐ 2,000+ GitHub stars</li>
+<li>👨‍💻 20+ contributors</li>
+<li>🍴 39 forks</li>
+</ul>
+<p>FOSS devs are LOVING it.</p>
+<hr>
+<h3 id="-dev-pain-global-scale">😤 Dev Pain, Global Scale:<a href="#-dev-pain-global-scale" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ul>
+<li><strong>SourceHut</strong> CEO: spends up to <strong>100% of the week</strong> just fighting LLM crawlers.</li>
+<li><strong>LWN.net</strong>: slowed down by crawler-driven DDoS.</li>
+<li><strong>Fedora’s sysadmin</strong>: had to block <strong>Brazil</strong> (yes, the <em>entire country</em>).</li>
+<li>Others: blocked <strong>China</strong>, blocked <strong>entire continents</strong>, rage posted on Hacker News.</li>
+</ul>
+<hr>
+<h3 id="-meet-nepenthes-the-trap-plant-">🪰 Meet Nepenthes: The Trap Plant 🌿<a href="#-meet-nepenthes-the-trap-plant-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>A dev named “Aaron” built <strong>Nepenthes</strong>, a tool that:</p>
+<ul>
+<li>Creates a fake maze of pages</li>
+<li>Wastes bot compute time</li>
+<li>Feeds it garbage data 🗑️</li>
+</ul>
+<p><strong>Goal:</strong> Make bots <em>regret everything</em>.</p>
+<blockquote>
+<p>&ldquo;Bots shouldn&rsquo;t just get zero value. They should get <strong>negative</strong> value.&rdquo; — Hacker News user xyzal 🧪</p>
+</blockquote>
+<hr>
+<h3 id="-cloudflares-turn-ai-labyrinth">🧪 Cloudflare’s Turn: <strong>AI Labyrinth</strong><a href="#-cloudflares-turn-ai-labyrinth" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Cloudflare joined the party with a bot trap of their own:</p>
+<ul>
+<li>Slows AI crawlers</li>
+<li>Feeds them <strong>useless nonsense</strong></li>
+<li>Wastes their compute budget 💸</li>
+</ul>
+<p>Big tech playing tower defense now.</p>
+<hr>
+<h3 id="-devs-say-enough-already">🛑 Devs Say: Enough Already<a href="#-devs-say-enough-already" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>SourceHut’s founder Drew DeVault:</p>
+<blockquote>
+<p>“Please stop using LLMs. Stop making them. Just&hellip; stop.” 🙏</p>
+</blockquote>
+<p>Odds of that? Roughly 0.00001%. So instead:</p>
+<ul>
+<li>Devs are building traps 🪤</li>
+<li>Naming them after gods &amp; carnivorous plants 🌿</li>
+<li>Dropping anime pics as rewards 🎀</li>
+</ul>
+<h3 id="tldr">TL;DR:<a href="#tldr" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>AI crawlers came for open source.
+Open source devs came back with ✨<em>vengeance</em>✨.</p>
+<hr>
+<p>#AI #Anubis #Nepenthes #WebCrawlers #OpenSource #FOSS #DevHumor #BotWars</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🕸️ Browser Use Raises $17M to Help AI Agents Surf the Web Like Pros 🌐🤖</title>
