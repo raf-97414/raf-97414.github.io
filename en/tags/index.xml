@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raf-97414.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Costs</title>
+      <link>https://raf-97414.github.io/en/tags/ai-costs/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/ai-costs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative AI</title>
+      <link>https://raf-97414.github.io/en/tags/generative-ai/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/generative-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>O3 Model</title>
+      <link>https://raf-97414.github.io/en/tags/o3-model/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/o3-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI</title>
+      <link>https://raf-97414.github.io/en/tags/openai/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech News</title>
+      <link>https://raf-97414.github.io/en/tags/tech-news/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://raf-97414.github.io/en/tags/tech-news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI Coach</title>
       <link>https://raf-97414.github.io/en/tags/ai-coach/</link>
@@ -41,41 +76,6 @@
       <link>https://raf-97414.github.io/en/tags/tech-humor/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/tags/tech-humor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>https://raf-97414.github.io/en/tags/ai/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>https://raf-97414.github.io/en/tags/automation/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gemini 2.5 Pro</title>
-      <link>https://raf-97414.github.io/en/tags/gemini-2.5-pro/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/gemini-2.5-pro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Google</title>
-      <link>https://raf-97414.github.io/en/tags/google/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/google/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Healthcare</title>
-      <link>https://raf-97414.github.io/en/tags/healthcare/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/tags/healthcare/</guid>
       <description></description>
     </item>
   </channel>

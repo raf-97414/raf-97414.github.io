@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Generative AI on Rafelia&#39;s AI LOLs</title>
-    <link>https://raf-97414.github.io/en/tags/generative-ai/</link>
-    <description>Recent content in Generative AI on Rafelia&#39;s AI LOLs</description>
+    <title>O3 Model on Rafelia&#39;s AI LOLs</title>
+    <link>https://raf-97414.github.io/en/tags/o3-model/</link>
+    <description>Recent content in O3 Model on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raf-97414.github.io/en/tags/generative-ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raf-97414.github.io/en/tags/o3-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💸 OpenAI’s o3 Model: Smarter, But at What Cost? 🤯</title>
       <link>https://raf-97414.github.io/en/posts/openai-o3/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/posts/openai-o3/</guid>
       <description>&lt;h1 id=&#34;-openais-o3-model-smarter-but-at-what-cost-&#34;&gt;💸 OpenAI’s o3 Model: Smarter, But at What Cost? 🤯&lt;a href=&#34;#-openais-o3-model-smarter-but-at-what-cost-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;You know that moment when you buy the newest gadget thinking it&amp;rsquo;ll save money, and then boom—your power bill triples? ⚡📈&lt;br&gt;&#xA;That’s basically what’s happening with &lt;strong&gt;OpenAI’s o3 model&lt;/strong&gt; right now. 😂&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤖 Is AI Making Us Dumb? 🧠💨</title>
-      <link>https://raf-97414.github.io/en/posts/ai-making-dumb/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/posts/ai-making-dumb/</guid>
-      <description>A new study from Microsoft &amp;amp; Carnegie Mellon suggests AI could be making us mentally lazy. Are we outsourcing too much thinking to AI?</description>
-    </item>
-    <item>
-      <title>About Me: Rafelia’s Tech &amp; AI Journey 🚀</title>
-      <link>https://raf-97414.github.io/en/about/rafelia/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/about/rafelia/</guid>
-      <description>From hunting bugs to mastering ML, AI, GenAI, and DL—Rafelia’s journey is about innovating, simplifying, and making tech fun!</description>
     </item>
   </channel>
 </rss>
