@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://raf-97414.github.io/en/posts/google-ai-retention/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/tags/ai/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/cpu-inference/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/iit-madras/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/kompact-ai/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/posts/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/tech-innovation/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/tags/ziroh-labs/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/posts/kompact-ai/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raf-97414.github.io/en/posts/google-ai-retention/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/google/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raf-97414.github.io/en/posts/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://raf-97414.github.io/en/tags/silicon-valley/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/talent-wars/</loc>
@@ -738,9 +756,6 @@
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/categories/campus-tech/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://raf-97414.github.io/en/tags/iit-madras/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://raf-97414.github.io/en/tags/perplexity-ai/</loc>

@@ -5,8 +5,65 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🧠 Kompact AI: Running Big Models on Regular Laptops – No GPUs Needed! 💻✨</title>
+			<link>https://raf-97414.github.io/en/posts/kompact-ai/</link>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/kompact-ai/</guid>
+			<description><![CDATA[Ziroh Labs and IIT Madras unveil Kompact AI, a platform enabling large AI models to run efficiently on standard CPUs, making advanced AI more accessible and affordable. 🚀🔧]]></description>
+			<content type="html"><![CDATA[<h1 id="-kompact-ai-running-big-models-on-regular-laptops--no-gpus-needed-">🧠 Kompact AI: Running Big Models on Regular Laptops – No GPUs Needed! 💻✨<a href="#-kompact-ai-running-big-models-on-regular-laptops--no-gpus-needed-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>Forget the GPU shortage! Ziroh Labs and IIT Madras have introduced <strong>Kompact AI</strong>, a groundbreaking platform that allows large AI models to run smoothly on standard CPUs.</p>
+<hr>
+<h2 id="-whats-the-buzz">🔍 What’s the Buzz?<a href="#-whats-the-buzz" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>No GPU? No Problem!</strong> Kompact AI enables AI inference on everyday CPUs, eliminating the need for expensive and scarce GPUs.</li>
+<li><strong>Real-World Performance:</strong> Demonstrations showed models like Meta’s Llama 2 and Alibaba’s Qwen2.5 operating efficiently on a standard Intel Xeon laptop.</li>
+<li><strong>Inclusive AI:</strong> This innovation aligns with India&rsquo;s &ldquo;AI for All&rdquo; vision, aiming to democratize AI access across regions with limited computing resources.</li>
+</ul>
+<hr>
+<h2 id="-tech-highlights">🧪 Tech Highlights<a href="#-tech-highlights" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Optimized for Inference:</strong> While GPUs remain essential for training, Kompact AI focuses on the inference phase, ensuring efficient performance on CPUs.</li>
+<li><strong>Broad Compatibility:</strong> The platform supports 17 widely used AI models, particularly those with under 50 billion parameters, without compromising accuracy.</li>
+<li><strong>Industry Validation:</strong> Major chip manufacturers like Intel and AMD have tested and validated Kompact AI&rsquo;s performance.</li>
+</ul>
+<hr>
+<h2 id="-why-it-matters">🌍 Why It Matters<a href="#-why-it-matters" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Bridging the AI Divide:</strong> By reducing reliance on high-end hardware, Kompact AI empowers startups, educational institutions, and researchers to participate in AI development.</li>
+<li><strong>Cost-Effective Solutions:</strong> Organizations can now deploy advanced AI models without significant infrastructure investments.</li>
+<li><strong>Global Impact:</strong> This innovation has the potential to level the playing field in AI, fostering innovation in regions previously hindered by resource constraints.</li>
+</ul>
+<hr>
+<h2 id="-final-thoughts">💬 Final Thoughts<a href="#-final-thoughts" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Kompact AI is a game-changer, proving that powerful AI doesn&rsquo;t require powerful hardware. As IIT Madras Director V. Kamakoti aptly put it, &ldquo;We&rsquo;re demonstrating that you don&rsquo;t need a revolver to kill a mosquito.&rdquo;</p>
+<hr>
+]]></content>
+		</item>
 		
 		<item>
 			<title>💼 Google’s New AI Strategy: Pay Engineers to Do... Absolutely Nothing 😴💸</title>
