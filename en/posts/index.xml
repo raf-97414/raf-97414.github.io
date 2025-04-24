@@ -5,8 +5,65 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🚫 Sand AI&#39;s Magi-1: The Video Generator That Sees (Almost) Everything 👀🎬</title>
+			<link>https://raf-97414.github.io/en/posts/sand-ai-magi-1/</link>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/sand-ai-magi-1/</guid>
+			<description><![CDATA[Sand AI's Magi-1 model impresses with its video generation capabilities but raises eyebrows by blocking politically sensitive images. Here's the scoop on this AI's selective vision. 🤖🖼️]]></description>
+			<content type="html"><![CDATA[<h1 id="-sand-ais-magi-1-the-video-generator-that-sees-almost-everything-">🚫 Sand AI&rsquo;s Magi-1: The Video Generator That Sees (Almost) Everything 👀🎬<a href="#-sand-ais-magi-1-the-video-generator-that-sees-almost-everything-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p><strong>Sand AI</strong>, a Chinese startup, has introduced <strong>Magi-1</strong>, an open-source video-generating AI model that&rsquo;s turning heads in the tech community.</p>
+<hr>
+<h2 id="-whats-magi-1">🎥 What’s Magi-1?<a href="#-whats-magi-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Autoregressive Video Generation</strong>: Magi-1 predicts sequences of frames to create high-quality, controllable footage.</li>
+<li><strong>Massive Model</strong>: With 24 billion parameters, it requires 4–8 Nvidia H100 GPUs to run, making it impractical for most consumer hardware.</li>
+<li><strong>Hosted Access</strong>: Due to its size, many users rely on Sand AI&rsquo;s platform to test Magi-1.</li>
+</ul>
+<hr>
+<h2 id="-the-censorship-conundrum">🛑 The Censorship Conundrum<a href="#-the-censorship-conundrum" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>While Magi-1 showcases impressive capabilities, it comes with a catch:</p>
+<ul>
+<li><strong>Image Filtering</strong>: The platform blocks uploads of politically sensitive images, including:
+<ul>
+<li>Xi Jinping</li>
+<li>Tiananmen Square and Tank Man</li>
+<li>Taiwanese flag</li>
+<li>Hong Kong liberation symbols</li>
+</ul>
+</li>
+<li><strong>Strict Enforcement</strong>: Renaming files doesn&rsquo;t bypass the filters; the censorship operates at the image level.</li>
+</ul>
+<hr>
+<h2 id="-why-the-restrictions">🤔 Why the Restrictions?<a href="#-why-the-restrictions" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Chinese regulations mandate that AI models avoid content that could &ldquo;damage the unity of the country and social harmony.&rdquo; To comply:</p>
+<ul>
+<li><strong>Prompt-Level Filters</strong>: Sand AI employs filters to prevent the generation of politically sensitive content.</li>
+<li><strong>Aggressive Censorship</strong>: Compared to peers like Hailuo AI, Sand AI&rsquo;s filtering is notably stringent.</li>
+</ul>
+<hr>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🔍 Instagram’s AI Detects Teens Faking Their Age – Time to Face the (Digital) Music! 🎭📱</title>

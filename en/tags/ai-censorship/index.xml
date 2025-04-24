@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>China on Rafelia&#39;s AI LOLs</title>
-    <link>https://raf-97414.github.io/en/tags/china/</link>
-    <description>Recent content in China on Rafelia&#39;s AI LOLs</description>
+    <title>AI Censorship on Rafelia&#39;s AI LOLs</title>
+    <link>https://raf-97414.github.io/en/tags/ai-censorship/</link>
+    <description>Recent content in AI Censorship on Rafelia&#39;s AI LOLs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raf-97414.github.io/en/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raf-97414.github.io/en/tags/ai-censorship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🚫 Sand AI&#39;s Magi-1: The Video Generator That Sees (Almost) Everything 👀🎬</title>
       <link>https://raf-97414.github.io/en/posts/sand-ai-magi-1/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://raf-97414.github.io/en/posts/sand-ai-magi-1/</guid>
       <description>&lt;h1 id=&#34;-sand-ais-magi-1-the-video-generator-that-sees-almost-everything-&#34;&gt;🚫 Sand AI&amp;rsquo;s Magi-1: The Video Generator That Sees (Almost) Everything 👀🎬&lt;a href=&#34;#-sand-ais-magi-1-the-video-generator-that-sees-almost-everything-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sand AI&lt;/strong&gt;, a Chinese startup, has introduced &lt;strong&gt;Magi-1&lt;/strong&gt;, an open-source video-generating AI model that&amp;rsquo;s turning heads in the tech community.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-whats-magi-1&#34;&gt;🎥 What’s Magi-1?&lt;a href=&#34;#-whats-magi-1&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Autoregressive Video Generation&lt;/strong&gt;: Magi-1 predicts sequences of frames to create high-quality, controllable footage.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Massive Model&lt;/strong&gt;: With 24 billion parameters, it requires 4–8 Nvidia H100 GPUs to run, making it impractical for most consumer hardware.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hosted Access&lt;/strong&gt;: Due to its size, many users rely on Sand AI&amp;rsquo;s platform to test Magi-1.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-the-censorship-conundrum&#34;&gt;🛑 The Censorship Conundrum&lt;a href=&#34;#-the-censorship-conundrum&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;While Magi-1 showcases impressive capabilities, it comes with a catch:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🕵️‍♂️ Spy vs. AI: Anthropic CEO Says Hackers Want $100M Secrets! 🤖💰</title>
-      <link>https://raf-97414.github.io/en/posts/anthropic-spies/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://raf-97414.github.io/en/posts/anthropic-spies/</guid>
-      <description>&lt;h1 id=&#34;-spy-vs-ai-anthropic-ceo-says-hackers-want-100m-secrets-&#34;&gt;🕵️‍♂️ Spy vs. AI: Anthropic CEO Says Hackers Want $100M Secrets! 🤖💰&lt;a href=&#34;#-spy-vs-ai-anthropic-ceo-says-hackers-want-100m-secrets-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;AI is valuable. Like, &lt;strong&gt;“$100 million for a few lines of code”&lt;/strong&gt; valuable. 💸&lt;br&gt;&#xA;And according to &lt;strong&gt;Anthropic’s CEO, Dario Amodei&lt;/strong&gt;, spies—probably from &lt;strong&gt;China&lt;/strong&gt;—are trying to steal it. 🕶️&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
