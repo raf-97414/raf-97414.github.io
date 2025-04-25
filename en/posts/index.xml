@@ -5,8 +5,56 @@
 		<description>Recent content in Posts on Rafelia&#39;s AI LOLs</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://raf-97414.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>🌐 Bluesky&#39;s Decentralized Dream Hits a Snag: Outage Leaves Users in the Dark 🔌</title>
+			<link>https://raf-97414.github.io/en/posts/bluesky-app/</link>
+			<pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+			
+			<guid>https://raf-97414.github.io/en/posts/bluesky-app/</guid>
+			<description><![CDATA[Even decentralized networks aren't immune to hiccups. Bluesky experienced a significant outage, raising questions about its infrastructure. Here's what happened. 🤖⚠️]]></description>
+			<content type="html"><![CDATA[<h1 id="-blueskys-decentralized-dream-hits-a-snag-outage-leaves-users-in-the-dark-">🌐 Bluesky&rsquo;s Decentralized Dream Hits a Snag: Outage Leaves Users in the Dark 🔌<a href="#-blueskys-decentralized-dream-hits-a-snag-outage-leaves-users-in-the-dark-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p><strong>Bluesky</strong>, the decentralized social network, faced a surprising challenge on April 24, 2025, when users were unable to load the app on both web and mobile platforms for approximately an hour.</p>
+<hr>
+<h2 id="-what-went-wrong">🛠️ What Went Wrong?<a href="#-what-went-wrong" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Despite its decentralized architecture, Bluesky&rsquo;s outage was attributed to &ldquo;Major PDS Networking Problems.&rdquo;</p>
+<hr>
+<h2 id="-isnt-decentralization-supposed-to-prevent-this">🤔 Isn&rsquo;t Decentralization Supposed to Prevent This?<a href="#-isnt-decentralization-supposed-to-prevent-this" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>While Bluesky is built on the AT Protocol, which allows for a decentralized network of personal data servers (PDS), the majority of users currently rely on Bluesky&rsquo;s official app and infrastructure. This centralization within a decentralized framework meant that when Bluesky&rsquo;s hosted PDS instances experienced issues, most users felt the impact.</p>
+<hr>
+<h2 id="-mastodon-users-weigh-in">🐘 Mastodon Users Weigh In<a href="#-mastodon-users-weigh-in" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>The outage didn&rsquo;t go unnoticed by the broader decentralized community. Mastodon users, whose platform operates on a different protocol (ActivityPub), took the opportunity to highlight the differences in decentralization approaches. One user humorously noted, &ldquo;See how the mighty Bluesky crumbles while the Raspberry Pi running Mastodon under my bed just keeps chugging along.&rdquo;</p>
+<hr>
+<h2 id="-back-to-normal">🔄 Back to Normal<a href="#-back-to-normal" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h2 id="by-754-pm-et-blueskys-cto-paul-frazee-confirmed-that-the-platform-was-back-online-though-efforts-to-stabilize-systems-were-ongoing">By 7:54 PM ET, Bluesky&rsquo;s CTO, Paul Frazee, confirmed that the platform was back online, though efforts to stabilize systems were ongoing.<a href="#by-754-pm-et-blueskys-cto-paul-frazee-confirmed-that-the-platform-was-back-online-though-efforts-to-stabilize-systems-were-ongoing" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+]]></content>
+		</item>
 		
 		<item>
 			<title>🚫 Sand AI&#39;s Magi-1: The Video Generator That Sees (Almost) Everything 👀🎬</title>
