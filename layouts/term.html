@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<ul class="article-list">
+    {{ $paginator := .Paginate .Pages }}
+    {{ range $paginator.Pages }}
+    {{ partial "article-item.html" . }}
+    {{ end }}
+</ul>
+
+{{ end }}

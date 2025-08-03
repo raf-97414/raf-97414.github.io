@@ -1,0 +1,9 @@
+<li class="article-item">
+    <a href="{{ .Permalink }}">
+        <div class="article-content">
+            <h2 class="article-title">{{ .Title }}</h2>
+            {{ partial "article-description.html" . }}
+        </div>
+        {{ partial "article-meta.html" . }}
+    </a>
+</li>

@@ -1,0 +1,27 @@
+{{ define "main" }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+</header>
+
+<div class="project-list">
+    {{ if .Site.Data.projects }}
+    {{ range sort .Site.Data.projects "date" "desc" }}
+    <div class="project-item">
+        <h3>
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+        </h3>
+        <p>{{ .description }}</p>
+        {{ if .stack }}
+        <div class="project-stack">
+            {{ range .stack }}
+            <span class="tag">{{ . }}</span>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+    {{ else }}
+        <p>There are no projects to display at the moment. Please check back later!</p>
+    {{ end }}
+</div>
+{{ end }}

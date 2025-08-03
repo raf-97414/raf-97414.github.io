@@ -1,0 +1,7 @@
+<p class="article-description">
+    {{ with .Description }}
+    {{ . }}
+    {{ else }}
+    {{ .Content | plainify | truncate 80 "..." }}
+    {{ end }}
+</p>

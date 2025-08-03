@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+{{ if .Paginator.Pages }}
+<ul class="article-list">
+    {{ range .Paginator.Pages }}
+    {{ partial "article-item.html" . }}
+    {{ end }}
+</ul>
+{{ else }}
+    <p>There are no articles to display at the moment. Please check back later!</p>
+{{ end }}
+
+{{ end }}
